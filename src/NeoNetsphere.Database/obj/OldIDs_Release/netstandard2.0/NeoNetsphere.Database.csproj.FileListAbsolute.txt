@@ -1,0 +1,10 @@
+C:\Users\OscarCode\Desktop\Emulador de Season 10\Emulator 0.1\src\NeoNetsphere.Database\bin\OldIDs_Release\netstandard2.0\NeoNetsphere.Database.deps.json
+C:\Users\OscarCode\Desktop\Emulador de Season 10\Emulator 0.1\src\NeoNetsphere.Database\bin\OldIDs_Release\netstandard2.0\NeoNetsphere.Database.dll
+C:\Users\OscarCode\Desktop\Emulador de Season 10\Emulator 0.1\src\NeoNetsphere.Database\bin\OldIDs_Release\netstandard2.0\NeoNetsphere.Database.pdb
+C:\Users\OscarCode\Desktop\Emulador de Season 10\Emulator 0.1\src\NeoNetsphere.Database\obj\OldIDs_Release\netstandard2.0\NeoNetsphere.Database.csproj.AssemblyReference.cache
+C:\Users\OscarCode\Desktop\Emulador de Season 10\Emulator 0.1\src\NeoNetsphere.Database\obj\OldIDs_Release\netstandard2.0\NeoNetsphere.Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OscarCode\Desktop\Emulador de Season 10\Emulator 0.1\src\NeoNetsphere.Database\obj\OldIDs_Release\netstandard2.0\NeoNetsphere.Database.AssemblyInfoInputs.cache
+C:\Users\OscarCode\Desktop\Emulador de Season 10\Emulator 0.1\src\NeoNetsphere.Database\obj\OldIDs_Release\netstandard2.0\NeoNetsphere.Database.AssemblyInfo.cs
+C:\Users\OscarCode\Desktop\Emulador de Season 10\Emulator 0.1\src\NeoNetsphere.Database\obj\OldIDs_Release\netstandard2.0\NeoNetsphere.Database.csproj.CoreCompileInputs.cache
+C:\Users\OscarCode\Desktop\Emulador de Season 10\Emulator 0.1\src\NeoNetsphere.Database\obj\OldIDs_Release\netstandard2.0\NeoNetsphere.Database.dll
+C:\Users\OscarCode\Desktop\Emulador de Season 10\Emulator 0.1\src\NeoNetsphere.Database\obj\OldIDs_Release\netstandard2.0\NeoNetsphere.Database.pdb

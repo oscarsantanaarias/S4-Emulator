@@ -1,0 +1,106 @@
+E:\S4 League\Sources\Emulator\source\src\NeoNetsphere\bin\Latest_Release\netstandard2.0\NeoNetsphere.deps.json
+E:\S4 League\Sources\Emulator\source\src\NeoNetsphere\bin\Latest_Release\netstandard2.0\NeoNetsphere.dll
+E:\S4 League\Sources\Emulator\source\src\NeoNetsphere\bin\Latest_Release\netstandard2.0\NeoNetsphere.pdb
+E:\S4 League\Sources\Emulator\source\src\NeoNetsphere\obj\Latest_Release\netstandard2.0\NeoNetsphere.csprojAssemblyReference.cache
+E:\S4 League\Sources\Emulator\source\src\NeoNetsphere\obj\Latest_Release\netstandard2.0\NeoNetsphere.csproj.CoreCompileInputs.cache
+E:\S4 League\Sources\Emulator\source\src\NeoNetsphere\obj\Latest_Release\netstandard2.0\NeoNetsphere.AssemblyInfoInputs.cache
+E:\S4 League\Sources\Emulator\source\src\NeoNetsphere\obj\Latest_Release\netstandard2.0\NeoNetsphere.AssemblyInfo.cs
+E:\S4 League\Sources\Emulator\source\src\NeoNetsphere\obj\Latest_Release\netstandard2.0\NeoNetsphere.dll
+E:\S4 League\Sources\Emulator\source\src\NeoNetsphere\obj\Latest_Release\netstandard2.0\NeoNetsphere.pdb
+E:\S4 League\Sources\Emulator\src\NeoNetsphere\bin\Latest_Release\netstandard2.0\NeoNetsphere.deps.json
+E:\S4 League\Sources\Emulator\src\NeoNetsphere\bin\Latest_Release\netstandard2.0\NeoNetsphere.dll
+E:\S4 League\Sources\Emulator\src\NeoNetsphere\bin\Latest_Release\netstandard2.0\NeoNetsphere.pdb
+E:\S4 League\Sources\Emulator\src\NeoNetsphere\obj\Latest_Release\netstandard2.0\NeoNetsphere.csprojAssemblyReference.cache
+E:\S4 League\Sources\Emulator\src\NeoNetsphere\obj\Latest_Release\netstandard2.0\NeoNetsphere.csproj.CoreCompileInputs.cache
+E:\S4 League\Sources\Emulator\src\NeoNetsphere\obj\Latest_Release\netstandard2.0\NeoNetsphere.AssemblyInfoInputs.cache
+E:\S4 League\Sources\Emulator\src\NeoNetsphere\obj\Latest_Release\netstandard2.0\NeoNetsphere.AssemblyInfo.cs
+E:\S4 League\Sources\Emulator\src\NeoNetsphere\obj\Latest_Release\netstandard2.0\NeoNetsphere.dll
+E:\S4 League\Sources\Emulator\src\NeoNetsphere\obj\Latest_Release\netstandard2.0\NeoNetsphere.pdb
+E:\S4 League\Season 9\Sources\Emulator\src\NeoNetsphere\bin\Latest_Release\netstandard2.0\NeoNetsphere.deps.json
+E:\S4 League\Season 9\Sources\Emulator\src\NeoNetsphere\bin\Latest_Release\netstandard2.0\NeoNetsphere.dll
+E:\S4 League\Season 9\Sources\Emulator\src\NeoNetsphere\bin\Latest_Release\netstandard2.0\NeoNetsphere.pdb
+E:\S4 League\Season 9\Sources\Emulator\src\NeoNetsphere\obj\Latest_Release\netstandard2.0\NeoNetsphere.csprojAssemblyReference.cache
+E:\S4 League\Season 9\Sources\Emulator\src\NeoNetsphere\obj\Latest_Release\netstandard2.0\NeoNetsphere.csproj.CoreCompileInputs.cache
+E:\S4 League\Season 9\Sources\Emulator\src\NeoNetsphere\obj\Latest_Release\netstandard2.0\NeoNetsphere.AssemblyInfoInputs.cache
+E:\S4 League\Season 9\Sources\Emulator\src\NeoNetsphere\obj\Latest_Release\netstandard2.0\NeoNetsphere.AssemblyInfo.cs
+E:\S4 League\Season 9\Sources\Emulator\src\NeoNetsphere\obj\Latest_Release\netstandard2.0\NeoNetsphere.dll
+E:\S4 League\Season 9\Sources\Emulator\src\NeoNetsphere\obj\Latest_Release\netstandard2.0\NeoNetsphere.pdb
+E:\S4 League\Season 9\Sources\Emulator -Raw\src\NeoNetsphere\bin\Latest_Release\netstandard2.0\NeoNetsphere.deps.json
+E:\S4 League\Season 9\Sources\Emulator -Raw\src\NeoNetsphere\bin\Latest_Release\netstandard2.0\NeoNetsphere.dll
+E:\S4 League\Season 9\Sources\Emulator -Raw\src\NeoNetsphere\bin\Latest_Release\netstandard2.0\NeoNetsphere.pdb
+E:\S4 League\Season 9\Sources\Emulator -Raw\src\NeoNetsphere\obj\Latest_Release\netstandard2.0\NeoNetsphere.csprojAssemblyReference.cache
+E:\S4 League\Season 9\Sources\Emulator -Raw\src\NeoNetsphere\obj\Latest_Release\netstandard2.0\NeoNetsphere.csproj.CoreCompileInputs.cache
+E:\S4 League\Season 9\Sources\Emulator -Raw\src\NeoNetsphere\obj\Latest_Release\netstandard2.0\NeoNetsphere.AssemblyInfoInputs.cache
+E:\S4 League\Season 9\Sources\Emulator -Raw\src\NeoNetsphere\obj\Latest_Release\netstandard2.0\NeoNetsphere.AssemblyInfo.cs
+E:\S4 League\Season 9\Sources\Emulator -Raw\src\NeoNetsphere\obj\Latest_Release\netstandard2.0\NeoNetsphere.dll
+E:\S4 League\Season 9\Sources\Emulator -Raw\src\NeoNetsphere\obj\Latest_Release\netstandard2.0\NeoNetsphere.pdb
+C:\Users\Ryan\Desktop\Emulator(test2)\src\NeoNetsphere\bin\Latest_Release\netstandard2.0\NeoNetsphere.deps.json
+C:\Users\Ryan\Desktop\Emulator(test2)\src\NeoNetsphere\bin\Latest_Release\netstandard2.0\NeoNetsphere.dll
+C:\Users\Ryan\Desktop\Emulator(test2)\src\NeoNetsphere\bin\Latest_Release\netstandard2.0\NeoNetsphere.pdb
+C:\Users\Ryan\Desktop\Emulator(test2)\src\NeoNetsphere\obj\Latest_Release\netstandard2.0\NeoNetsphere.csproj.AssemblyReference.cache
+C:\Users\Ryan\Desktop\Emulator(test2)\src\NeoNetsphere\obj\Latest_Release\netstandard2.0\NeoNetsphere.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ryan\Desktop\Emulator(test2)\src\NeoNetsphere\obj\Latest_Release\netstandard2.0\NeoNetsphere.AssemblyInfoInputs.cache
+C:\Users\Ryan\Desktop\Emulator(test2)\src\NeoNetsphere\obj\Latest_Release\netstandard2.0\NeoNetsphere.AssemblyInfo.cs
+C:\Users\Ryan\Desktop\Emulator(test2)\src\NeoNetsphere\obj\Latest_Release\netstandard2.0\NeoNetsphere.csproj.CoreCompileInputs.cache
+C:\Users\Ryan\Desktop\Emulator(test2)\src\NeoNetsphere\obj\Latest_Release\netstandard2.0\NeoNetsphere.dll
+C:\Users\Ryan\Desktop\Emulator(test2)\src\NeoNetsphere\obj\Latest_Release\netstandard2.0\NeoNetsphere.pdb
+F:\cosas de origen\EMULADOR\Emulator(test2)\src\NeoNetsphere\bin\Latest_Release\netstandard2.0\NeoNetsphere.deps.json
+F:\cosas de origen\EMULADOR\Emulator(test2)\src\NeoNetsphere\bin\Latest_Release\netstandard2.0\NeoNetsphere.dll
+F:\cosas de origen\EMULADOR\Emulator(test2)\src\NeoNetsphere\bin\Latest_Release\netstandard2.0\NeoNetsphere.pdb
+F:\cosas de origen\EMULADOR\Emulator(test2)\src\NeoNetsphere\obj\Latest_Release\netstandard2.0\NeoNetsphere.csproj.AssemblyReference.cache
+F:\cosas de origen\EMULADOR\Emulator(test2)\src\NeoNetsphere\obj\Latest_Release\netstandard2.0\NeoNetsphere.GeneratedMSBuildEditorConfig.editorconfig
+F:\cosas de origen\EMULADOR\Emulator(test2)\src\NeoNetsphere\obj\Latest_Release\netstandard2.0\NeoNetsphere.AssemblyInfoInputs.cache
+F:\cosas de origen\EMULADOR\Emulator(test2)\src\NeoNetsphere\obj\Latest_Release\netstandard2.0\NeoNetsphere.AssemblyInfo.cs
+F:\cosas de origen\EMULADOR\Emulator(test2)\src\NeoNetsphere\obj\Latest_Release\netstandard2.0\NeoNetsphere.csproj.CoreCompileInputs.cache
+F:\cosas de origen\EMULADOR\Emulator(test2)\src\NeoNetsphere\obj\Latest_Release\netstandard2.0\NeoNetsphere.dll
+F:\cosas de origen\EMULADOR\Emulator(test2)\src\NeoNetsphere\obj\Latest_Release\netstandard2.0\NeoNetsphere.pdb
+D:\cosas de origen\EMULADOR\Emulator(test2)\src\NeoNetsphere\bin\Latest_Release\netstandard2.0\NeoNetsphere.deps.json
+D:\cosas de origen\EMULADOR\Emulator(test2)\src\NeoNetsphere\bin\Latest_Release\netstandard2.0\NeoNetsphere.dll
+D:\cosas de origen\EMULADOR\Emulator(test2)\src\NeoNetsphere\bin\Latest_Release\netstandard2.0\NeoNetsphere.pdb
+D:\cosas de origen\EMULADOR\Emulator(test2)\src\NeoNetsphere\obj\Latest_Release\netstandard2.0\NeoNetsphere.csproj.AssemblyReference.cache
+D:\cosas de origen\EMULADOR\Emulator(test2)\src\NeoNetsphere\obj\Latest_Release\netstandard2.0\NeoNetsphere.GeneratedMSBuildEditorConfig.editorconfig
+D:\cosas de origen\EMULADOR\Emulator(test2)\src\NeoNetsphere\obj\Latest_Release\netstandard2.0\NeoNetsphere.AssemblyInfoInputs.cache
+D:\cosas de origen\EMULADOR\Emulator(test2)\src\NeoNetsphere\obj\Latest_Release\netstandard2.0\NeoNetsphere.AssemblyInfo.cs
+D:\cosas de origen\EMULADOR\Emulator(test2)\src\NeoNetsphere\obj\Latest_Release\netstandard2.0\NeoNetsphere.csproj.CoreCompileInputs.cache
+D:\cosas de origen\EMULADOR\Emulator(test2)\src\NeoNetsphere\obj\Latest_Release\netstandard2.0\NeoNetsphere.dll
+D:\cosas de origen\EMULADOR\Emulator(test2)\src\NeoNetsphere\obj\Latest_Release\netstandard2.0\NeoNetsphere.pdb
+C:\Users\Oscar ATR\Desktop\New folder (5)\Emulator 0.1\src\NeoNetsphere\bin\Latest_Release\netstandard2.0\NeoNetsphere.deps.json
+C:\Users\Oscar ATR\Desktop\New folder (5)\Emulator 0.1\src\NeoNetsphere\bin\Latest_Release\netstandard2.0\NeoNetsphere.dll
+C:\Users\Oscar ATR\Desktop\New folder (5)\Emulator 0.1\src\NeoNetsphere\bin\Latest_Release\netstandard2.0\NeoNetsphere.pdb
+C:\Users\Oscar ATR\Desktop\New folder (5)\Emulator 0.1\src\NeoNetsphere\obj\Latest_Release\netstandard2.0\NeoNetsphere.csproj.AssemblyReference.cache
+C:\Users\Oscar ATR\Desktop\New folder (5)\Emulator 0.1\src\NeoNetsphere\obj\Latest_Release\netstandard2.0\NeoNetsphere.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oscar ATR\Desktop\New folder (5)\Emulator 0.1\src\NeoNetsphere\obj\Latest_Release\netstandard2.0\NeoNetsphere.AssemblyInfoInputs.cache
+C:\Users\Oscar ATR\Desktop\New folder (5)\Emulator 0.1\src\NeoNetsphere\obj\Latest_Release\netstandard2.0\NeoNetsphere.AssemblyInfo.cs
+C:\Users\Oscar ATR\Desktop\New folder (5)\Emulator 0.1\src\NeoNetsphere\obj\Latest_Release\netstandard2.0\NeoNetsphere.csproj.CoreCompileInputs.cache
+C:\Users\Oscar ATR\Desktop\New folder (5)\Emulator 0.1\src\NeoNetsphere\obj\Latest_Release\netstandard2.0\NeoNetsphere.dll
+C:\Users\Oscar ATR\Desktop\New folder (5)\Emulator 0.1\src\NeoNetsphere\obj\Latest_Release\netstandard2.0\NeoNetsphere.pdb
+C:\Users\Oscar ATR\Desktop\Emulador s4 nuevo\Emulator 0.1\src\NeoNetsphere\bin\Latest_Release\netstandard2.0\NeoNetsphere.deps.json
+C:\Users\Oscar ATR\Desktop\Emulador s4 nuevo\Emulator 0.1\src\NeoNetsphere\bin\Latest_Release\netstandard2.0\NeoNetsphere.dll
+C:\Users\Oscar ATR\Desktop\Emulador s4 nuevo\Emulator 0.1\src\NeoNetsphere\bin\Latest_Release\netstandard2.0\NeoNetsphere.pdb
+C:\Users\Oscar ATR\Desktop\Emulador s4 nuevo\Emulator 0.1\src\NeoNetsphere\obj\Latest_Release\netstandard2.0\NeoNetsphere.csproj.AssemblyReference.cache
+C:\Users\Oscar ATR\Desktop\Emulador s4 nuevo\Emulator 0.1\src\NeoNetsphere\obj\Latest_Release\netstandard2.0\NeoNetsphere.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oscar ATR\Desktop\Emulador s4 nuevo\Emulator 0.1\src\NeoNetsphere\obj\Latest_Release\netstandard2.0\NeoNetsphere.AssemblyInfoInputs.cache
+C:\Users\Oscar ATR\Desktop\Emulador s4 nuevo\Emulator 0.1\src\NeoNetsphere\obj\Latest_Release\netstandard2.0\NeoNetsphere.AssemblyInfo.cs
+C:\Users\Oscar ATR\Desktop\Emulador s4 nuevo\Emulator 0.1\src\NeoNetsphere\obj\Latest_Release\netstandard2.0\NeoNetsphere.csproj.CoreCompileInputs.cache
+C:\Users\Oscar ATR\Desktop\Emulador s4 nuevo\Emulator 0.1\src\NeoNetsphere\obj\Latest_Release\netstandard2.0\NeoNetsphere.dll
+C:\Users\Oscar ATR\Desktop\Emulador s4 nuevo\Emulator 0.1\src\NeoNetsphere\obj\Latest_Release\netstandard2.0\NeoNetsphere.pdb
+C:\Users\OscarCode\Desktop\Emulador S4 season 8 - Copy - Copy (2) - Copy\Emulator 0.1\src\NeoNetsphere\bin\Latest_Release\netstandard2.0\NeoNetsphere.deps.json
+C:\Users\OscarCode\Desktop\Emulador S4 season 8 - Copy - Copy (2) - Copy\Emulator 0.1\src\NeoNetsphere\bin\Latest_Release\netstandard2.0\NeoNetsphere.dll
+C:\Users\OscarCode\Desktop\Emulador S4 season 8 - Copy - Copy (2) - Copy\Emulator 0.1\src\NeoNetsphere\bin\Latest_Release\netstandard2.0\NeoNetsphere.pdb
+C:\Users\OscarCode\Desktop\Emulador S4 season 8 - Copy - Copy (2) - Copy\Emulator 0.1\src\NeoNetsphere\obj\Latest_Release\netstandard2.0\NeoNetsphere.csproj.AssemblyReference.cache
+C:\Users\OscarCode\Desktop\Emulador S4 season 8 - Copy - Copy (2) - Copy\Emulator 0.1\src\NeoNetsphere\obj\Latest_Release\netstandard2.0\NeoNetsphere.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OscarCode\Desktop\Emulador S4 season 8 - Copy - Copy (2) - Copy\Emulator 0.1\src\NeoNetsphere\obj\Latest_Release\netstandard2.0\NeoNetsphere.AssemblyInfoInputs.cache
+C:\Users\OscarCode\Desktop\Emulador S4 season 8 - Copy - Copy (2) - Copy\Emulator 0.1\src\NeoNetsphere\obj\Latest_Release\netstandard2.0\NeoNetsphere.AssemblyInfo.cs
+C:\Users\OscarCode\Desktop\Emulador S4 season 8 - Copy - Copy (2) - Copy\Emulator 0.1\src\NeoNetsphere\obj\Latest_Release\netstandard2.0\NeoNetsphere.csproj.CoreCompileInputs.cache
+C:\Users\OscarCode\Desktop\Emulador S4 season 8 - Copy - Copy (2) - Copy\Emulator 0.1\src\NeoNetsphere\obj\Latest_Release\netstandard2.0\NeoNetsphere.dll
+C:\Users\OscarCode\Desktop\Emulador S4 season 8 - Copy - Copy (2) - Copy\Emulator 0.1\src\NeoNetsphere\obj\Latest_Release\netstandard2.0\NeoNetsphere.pdb
+C:\Users\OscarCode\Desktop\Emulador de Season 10\Emulator 0.1\src\NeoNetsphere\bin\Latest_Release\netstandard2.0\NeoNetsphere.deps.json
+C:\Users\OscarCode\Desktop\Emulador de Season 10\Emulator 0.1\src\NeoNetsphere\bin\Latest_Release\netstandard2.0\NeoNetsphere.dll
+C:\Users\OscarCode\Desktop\Emulador de Season 10\Emulator 0.1\src\NeoNetsphere\bin\Latest_Release\netstandard2.0\NeoNetsphere.pdb
+C:\Users\OscarCode\Desktop\Emulador de Season 10\Emulator 0.1\src\NeoNetsphere\obj\Latest_Release\netstandard2.0\NeoNetsphere.csproj.AssemblyReference.cache
+C:\Users\OscarCode\Desktop\Emulador de Season 10\Emulator 0.1\src\NeoNetsphere\obj\Latest_Release\netstandard2.0\NeoNetsphere.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OscarCode\Desktop\Emulador de Season 10\Emulator 0.1\src\NeoNetsphere\obj\Latest_Release\netstandard2.0\NeoNetsphere.AssemblyInfoInputs.cache
+C:\Users\OscarCode\Desktop\Emulador de Season 10\Emulator 0.1\src\NeoNetsphere\obj\Latest_Release\netstandard2.0\NeoNetsphere.AssemblyInfo.cs
+C:\Users\OscarCode\Desktop\Emulador de Season 10\Emulator 0.1\src\NeoNetsphere\obj\Latest_Release\netstandard2.0\NeoNetsphere.csproj.CoreCompileInputs.cache
+C:\Users\OscarCode\Desktop\Emulador de Season 10\Emulator 0.1\src\NeoNetsphere\obj\Latest_Release\netstandard2.0\NeoNetsphere.dll
+C:\Users\OscarCode\Desktop\Emulador de Season 10\Emulator 0.1\src\NeoNetsphere\obj\Latest_Release\netstandard2.0\NeoNetsphere.pdb

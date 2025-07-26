@@ -1,0 +1,216 @@
+E:\S4 League\Sources\Emulator\source\src\AuthServer\bin\Latest_Release\netcoreapp2.0\miniLzo_x64.dll
+E:\S4 League\Sources\Emulator\source\src\AuthServer\bin\Latest_Release\netcoreapp2.0\miniLzo_x86.dll
+E:\S4 League\Sources\Emulator\source\src\AuthServer\bin\Latest_Release\netcoreapp2.0\liblzo.so
+E:\S4 League\Sources\Emulator\source\src\AuthServer\bin\Latest_Release\netcoreapp2.0\AuthServer.deps.json
+E:\S4 League\Sources\Emulator\source\src\AuthServer\bin\Latest_Release\netcoreapp2.0\AuthServer.runtimeconfig.json
+E:\S4 League\Sources\Emulator\source\src\AuthServer\bin\Latest_Release\netcoreapp2.0\AuthServer.runtimeconfig.dev.json
+E:\S4 League\Sources\Emulator\source\src\AuthServer\bin\Latest_Release\netcoreapp2.0\AuthServer.dll
+E:\S4 League\Sources\Emulator\source\src\AuthServer\bin\Latest_Release\netcoreapp2.0\AuthServer.pdb
+E:\S4 League\Sources\Emulator\source\src\AuthServer\bin\Latest_Release\netcoreapp2.0\AuthServer.ServiceModel.dll
+E:\S4 League\Sources\Emulator\source\src\AuthServer\bin\Latest_Release\netcoreapp2.0\NeoNetsphere.Database.dll
+E:\S4 League\Sources\Emulator\source\src\AuthServer\bin\Latest_Release\netcoreapp2.0\NeoNetsphere.dll
+E:\S4 League\Sources\Emulator\source\src\AuthServer\bin\Latest_Release\netcoreapp2.0\NeoNetsphere.Network.dll
+E:\S4 League\Sources\Emulator\source\src\AuthServer\bin\Latest_Release\netcoreapp2.0\ProudNetSrc.dll
+E:\S4 League\Sources\Emulator\source\src\AuthServer\bin\Latest_Release\netcoreapp2.0\SharpLzo.dll
+E:\S4 League\Sources\Emulator\source\src\AuthServer\bin\Latest_Release\netcoreapp2.0\AuthServer.ServiceModel.pdb
+E:\S4 League\Sources\Emulator\source\src\AuthServer\bin\Latest_Release\netcoreapp2.0\NeoNetsphere.Database.pdb
+E:\S4 League\Sources\Emulator\source\src\AuthServer\bin\Latest_Release\netcoreapp2.0\NeoNetsphere.Network.pdb
+E:\S4 League\Sources\Emulator\source\src\AuthServer\bin\Latest_Release\netcoreapp2.0\NeoNetsphere.pdb
+E:\S4 League\Sources\Emulator\source\src\AuthServer\bin\Latest_Release\netcoreapp2.0\ProudNetSrc.pdb
+E:\S4 League\Sources\Emulator\source\src\AuthServer\obj\Latest_Release\netcoreapp2.0\AuthServer.csprojAssemblyReference.cache
+E:\S4 League\Sources\Emulator\source\src\AuthServer\obj\Latest_Release\netcoreapp2.0\AuthServer.csproj.CoreCompileInputs.cache
+E:\S4 League\Sources\Emulator\source\src\AuthServer\obj\Latest_Release\netcoreapp2.0\AuthServer.AssemblyInfoInputs.cache
+E:\S4 League\Sources\Emulator\source\src\AuthServer\obj\Latest_Release\netcoreapp2.0\AuthServer.AssemblyInfo.cs
+E:\S4 League\Sources\Emulator\source\src\AuthServer\obj\Latest_Release\netcoreapp2.0\AuthServer.csproj.CopyComplete
+E:\S4 League\Sources\Emulator\source\src\AuthServer\obj\Latest_Release\netcoreapp2.0\AuthServer.dll
+E:\S4 League\Sources\Emulator\source\src\AuthServer\obj\Latest_Release\netcoreapp2.0\AuthServer.pdb
+E:\S4 League\Sources\Emulator\src\AuthServer\bin\Latest_Release\netcoreapp2.0\miniLzo_x64.dll
+E:\S4 League\Sources\Emulator\src\AuthServer\bin\Latest_Release\netcoreapp2.0\miniLzo_x86.dll
+E:\S4 League\Sources\Emulator\src\AuthServer\bin\Latest_Release\netcoreapp2.0\liblzo.so
+E:\S4 League\Sources\Emulator\src\AuthServer\bin\Latest_Release\netcoreapp2.0\AuthServer.deps.json
+E:\S4 League\Sources\Emulator\src\AuthServer\bin\Latest_Release\netcoreapp2.0\AuthServer.runtimeconfig.json
+E:\S4 League\Sources\Emulator\src\AuthServer\bin\Latest_Release\netcoreapp2.0\AuthServer.runtimeconfig.dev.json
+E:\S4 League\Sources\Emulator\src\AuthServer\bin\Latest_Release\netcoreapp2.0\AuthServer.dll
+E:\S4 League\Sources\Emulator\src\AuthServer\bin\Latest_Release\netcoreapp2.0\AuthServer.pdb
+E:\S4 League\Sources\Emulator\src\AuthServer\bin\Latest_Release\netcoreapp2.0\AuthServer.ServiceModel.dll
+E:\S4 League\Sources\Emulator\src\AuthServer\bin\Latest_Release\netcoreapp2.0\NeoNetsphere.Database.dll
+E:\S4 League\Sources\Emulator\src\AuthServer\bin\Latest_Release\netcoreapp2.0\NeoNetsphere.dll
+E:\S4 League\Sources\Emulator\src\AuthServer\bin\Latest_Release\netcoreapp2.0\NeoNetsphere.Network.dll
+E:\S4 League\Sources\Emulator\src\AuthServer\bin\Latest_Release\netcoreapp2.0\ProudNetSrc.dll
+E:\S4 League\Sources\Emulator\src\AuthServer\bin\Latest_Release\netcoreapp2.0\SharpLzo.dll
+E:\S4 League\Sources\Emulator\src\AuthServer\bin\Latest_Release\netcoreapp2.0\AuthServer.ServiceModel.pdb
+E:\S4 League\Sources\Emulator\src\AuthServer\bin\Latest_Release\netcoreapp2.0\NeoNetsphere.Database.pdb
+E:\S4 League\Sources\Emulator\src\AuthServer\bin\Latest_Release\netcoreapp2.0\NeoNetsphere.Network.pdb
+E:\S4 League\Sources\Emulator\src\AuthServer\bin\Latest_Release\netcoreapp2.0\NeoNetsphere.pdb
+E:\S4 League\Sources\Emulator\src\AuthServer\bin\Latest_Release\netcoreapp2.0\ProudNetSrc.pdb
+E:\S4 League\Sources\Emulator\src\AuthServer\obj\Latest_Release\netcoreapp2.0\AuthServer.csprojAssemblyReference.cache
+E:\S4 League\Sources\Emulator\src\AuthServer\obj\Latest_Release\netcoreapp2.0\AuthServer.csproj.CoreCompileInputs.cache
+E:\S4 League\Sources\Emulator\src\AuthServer\obj\Latest_Release\netcoreapp2.0\AuthServer.AssemblyInfoInputs.cache
+E:\S4 League\Sources\Emulator\src\AuthServer\obj\Latest_Release\netcoreapp2.0\AuthServer.AssemblyInfo.cs
+E:\S4 League\Sources\Emulator\src\AuthServer\obj\Latest_Release\netcoreapp2.0\AuthServer.csproj.CopyComplete
+E:\S4 League\Sources\Emulator\src\AuthServer\obj\Latest_Release\netcoreapp2.0\AuthServer.dll
+E:\S4 League\Sources\Emulator\src\AuthServer\obj\Latest_Release\netcoreapp2.0\AuthServer.pdb
+E:\S4 League\Season 9\Sources\Emulator\src\AuthServer\obj\Latest_Release\netcoreapp2.0\AuthServer.csprojAssemblyReference.cache
+E:\S4 League\Season 9\Sources\Emulator\src\AuthServer\obj\Latest_Release\netcoreapp2.0\AuthServer.csproj.CoreCompileInputs.cache
+E:\S4 League\Season 9\Sources\Emulator\src\AuthServer\obj\Latest_Release\netcoreapp2.0\AuthServer.AssemblyInfoInputs.cache
+E:\S4 League\Season 9\Sources\Emulator\src\AuthServer\obj\Latest_Release\netcoreapp2.0\AuthServer.AssemblyInfo.cs
+E:\S4 League\Season 9\Sources\Emulator\src\AuthServer\obj\Latest_Release\netcoreapp2.0\AuthServer.dll
+E:\S4 League\Season 9\Sources\Emulator\src\AuthServer\obj\Latest_Release\netcoreapp2.0\AuthServer.pdb
+E:\S4 League\Season 9\Sources\Emulator\src\AuthServer\bin\Latest_Release\netcoreapp2.0\miniLzo_x64.dll
+E:\S4 League\Season 9\Sources\Emulator\src\AuthServer\bin\Latest_Release\netcoreapp2.0\miniLzo_x86.dll
+E:\S4 League\Season 9\Sources\Emulator\src\AuthServer\bin\Latest_Release\netcoreapp2.0\liblzo.so
+E:\S4 League\Season 9\Sources\Emulator\src\AuthServer\bin\Latest_Release\netcoreapp2.0\AuthServer.deps.json
+E:\S4 League\Season 9\Sources\Emulator\src\AuthServer\bin\Latest_Release\netcoreapp2.0\AuthServer.runtimeconfig.json
+E:\S4 League\Season 9\Sources\Emulator\src\AuthServer\bin\Latest_Release\netcoreapp2.0\AuthServer.runtimeconfig.dev.json
+E:\S4 League\Season 9\Sources\Emulator\src\AuthServer\bin\Latest_Release\netcoreapp2.0\AuthServer.dll
+E:\S4 League\Season 9\Sources\Emulator\src\AuthServer\bin\Latest_Release\netcoreapp2.0\AuthServer.pdb
+E:\S4 League\Season 9\Sources\Emulator\src\AuthServer\bin\Latest_Release\netcoreapp2.0\AuthServer.ServiceModel.dll
+E:\S4 League\Season 9\Sources\Emulator\src\AuthServer\bin\Latest_Release\netcoreapp2.0\NeoNetsphere.Database.dll
+E:\S4 League\Season 9\Sources\Emulator\src\AuthServer\bin\Latest_Release\netcoreapp2.0\NeoNetsphere.dll
+E:\S4 League\Season 9\Sources\Emulator\src\AuthServer\bin\Latest_Release\netcoreapp2.0\NeoNetsphere.Network.dll
+E:\S4 League\Season 9\Sources\Emulator\src\AuthServer\bin\Latest_Release\netcoreapp2.0\ProudNetSrc.dll
+E:\S4 League\Season 9\Sources\Emulator\src\AuthServer\bin\Latest_Release\netcoreapp2.0\SharpLzo.dll
+E:\S4 League\Season 9\Sources\Emulator\src\AuthServer\bin\Latest_Release\netcoreapp2.0\AuthServer.ServiceModel.pdb
+E:\S4 League\Season 9\Sources\Emulator\src\AuthServer\bin\Latest_Release\netcoreapp2.0\NeoNetsphere.Database.pdb
+E:\S4 League\Season 9\Sources\Emulator\src\AuthServer\bin\Latest_Release\netcoreapp2.0\NeoNetsphere.Network.pdb
+E:\S4 League\Season 9\Sources\Emulator\src\AuthServer\bin\Latest_Release\netcoreapp2.0\NeoNetsphere.pdb
+E:\S4 League\Season 9\Sources\Emulator\src\AuthServer\bin\Latest_Release\netcoreapp2.0\ProudNetSrc.pdb
+E:\S4 League\Season 9\Sources\Emulator\src\AuthServer\obj\Latest_Release\netcoreapp2.0\AuthServer.csproj.CopyComplete
+E:\S4 League\Season 9\Sources\Emulator -Raw\src\AuthServer\bin\Latest_Release\netcoreapp2.0\miniLzo_x64.dll
+E:\S4 League\Season 9\Sources\Emulator -Raw\src\AuthServer\bin\Latest_Release\netcoreapp2.0\miniLzo_x86.dll
+E:\S4 League\Season 9\Sources\Emulator -Raw\src\AuthServer\bin\Latest_Release\netcoreapp2.0\liblzo.so
+E:\S4 League\Season 9\Sources\Emulator -Raw\src\AuthServer\bin\Latest_Release\netcoreapp2.0\AuthServer.deps.json
+E:\S4 League\Season 9\Sources\Emulator -Raw\src\AuthServer\bin\Latest_Release\netcoreapp2.0\AuthServer.runtimeconfig.json
+E:\S4 League\Season 9\Sources\Emulator -Raw\src\AuthServer\bin\Latest_Release\netcoreapp2.0\AuthServer.runtimeconfig.dev.json
+E:\S4 League\Season 9\Sources\Emulator -Raw\src\AuthServer\bin\Latest_Release\netcoreapp2.0\AuthServer.dll
+E:\S4 League\Season 9\Sources\Emulator -Raw\src\AuthServer\bin\Latest_Release\netcoreapp2.0\AuthServer.pdb
+E:\S4 League\Season 9\Sources\Emulator -Raw\src\AuthServer\bin\Latest_Release\netcoreapp2.0\AuthServer.ServiceModel.dll
+E:\S4 League\Season 9\Sources\Emulator -Raw\src\AuthServer\bin\Latest_Release\netcoreapp2.0\NeoNetsphere.Database.dll
+E:\S4 League\Season 9\Sources\Emulator -Raw\src\AuthServer\bin\Latest_Release\netcoreapp2.0\NeoNetsphere.dll
+E:\S4 League\Season 9\Sources\Emulator -Raw\src\AuthServer\bin\Latest_Release\netcoreapp2.0\NeoNetsphere.Network.dll
+E:\S4 League\Season 9\Sources\Emulator -Raw\src\AuthServer\bin\Latest_Release\netcoreapp2.0\ProudNetSrc.dll
+E:\S4 League\Season 9\Sources\Emulator -Raw\src\AuthServer\bin\Latest_Release\netcoreapp2.0\SharpLzo.dll
+E:\S4 League\Season 9\Sources\Emulator -Raw\src\AuthServer\bin\Latest_Release\netcoreapp2.0\AuthServer.ServiceModel.pdb
+E:\S4 League\Season 9\Sources\Emulator -Raw\src\AuthServer\bin\Latest_Release\netcoreapp2.0\NeoNetsphere.Database.pdb
+E:\S4 League\Season 9\Sources\Emulator -Raw\src\AuthServer\bin\Latest_Release\netcoreapp2.0\NeoNetsphere.Network.pdb
+E:\S4 League\Season 9\Sources\Emulator -Raw\src\AuthServer\bin\Latest_Release\netcoreapp2.0\NeoNetsphere.pdb
+E:\S4 League\Season 9\Sources\Emulator -Raw\src\AuthServer\bin\Latest_Release\netcoreapp2.0\ProudNetSrc.pdb
+E:\S4 League\Season 9\Sources\Emulator -Raw\src\AuthServer\obj\Latest_Release\netcoreapp2.0\AuthServer.csprojAssemblyReference.cache
+E:\S4 League\Season 9\Sources\Emulator -Raw\src\AuthServer\obj\Latest_Release\netcoreapp2.0\AuthServer.csproj.CoreCompileInputs.cache
+E:\S4 League\Season 9\Sources\Emulator -Raw\src\AuthServer\obj\Latest_Release\netcoreapp2.0\AuthServer.AssemblyInfoInputs.cache
+E:\S4 League\Season 9\Sources\Emulator -Raw\src\AuthServer\obj\Latest_Release\netcoreapp2.0\AuthServer.AssemblyInfo.cs
+E:\S4 League\Season 9\Sources\Emulator -Raw\src\AuthServer\obj\Latest_Release\netcoreapp2.0\AuthServer.csproj.CopyComplete
+E:\S4 League\Season 9\Sources\Emulator -Raw\src\AuthServer\obj\Latest_Release\netcoreapp2.0\AuthServer.dll
+E:\S4 League\Season 9\Sources\Emulator -Raw\src\AuthServer\obj\Latest_Release\netcoreapp2.0\AuthServer.pdb
+F:\cosas de origen\EMULADOR\Emulator(test2)\src\AuthServer\bin\Latest_Release\netcoreapp2.0\miniLzo_x64.dll
+F:\cosas de origen\EMULADOR\Emulator(test2)\src\AuthServer\bin\Latest_Release\netcoreapp2.0\miniLzo_x86.dll
+F:\cosas de origen\EMULADOR\Emulator(test2)\src\AuthServer\bin\Latest_Release\netcoreapp2.0\liblzo.so
+F:\cosas de origen\EMULADOR\Emulator(test2)\src\AuthServer\bin\Latest_Release\netcoreapp2.0\AuthServer.deps.json
+F:\cosas de origen\EMULADOR\Emulator(test2)\src\AuthServer\bin\Latest_Release\netcoreapp2.0\AuthServer.runtimeconfig.json
+F:\cosas de origen\EMULADOR\Emulator(test2)\src\AuthServer\bin\Latest_Release\netcoreapp2.0\AuthServer.runtimeconfig.dev.json
+F:\cosas de origen\EMULADOR\Emulator(test2)\src\AuthServer\bin\Latest_Release\netcoreapp2.0\AuthServer.dll
+F:\cosas de origen\EMULADOR\Emulator(test2)\src\AuthServer\bin\Latest_Release\netcoreapp2.0\AuthServer.pdb
+F:\cosas de origen\EMULADOR\Emulator(test2)\src\AuthServer\bin\Latest_Release\netcoreapp2.0\AuthServer.ServiceModel.dll
+F:\cosas de origen\EMULADOR\Emulator(test2)\src\AuthServer\bin\Latest_Release\netcoreapp2.0\NeoNetsphere.Database.dll
+F:\cosas de origen\EMULADOR\Emulator(test2)\src\AuthServer\bin\Latest_Release\netcoreapp2.0\NeoNetsphere.dll
+F:\cosas de origen\EMULADOR\Emulator(test2)\src\AuthServer\bin\Latest_Release\netcoreapp2.0\NeoNetsphere.Network.dll
+F:\cosas de origen\EMULADOR\Emulator(test2)\src\AuthServer\bin\Latest_Release\netcoreapp2.0\ProudNetSrc.dll
+F:\cosas de origen\EMULADOR\Emulator(test2)\src\AuthServer\bin\Latest_Release\netcoreapp2.0\SharpLzo.dll
+F:\cosas de origen\EMULADOR\Emulator(test2)\src\AuthServer\bin\Latest_Release\netcoreapp2.0\AuthServer.ServiceModel.pdb
+F:\cosas de origen\EMULADOR\Emulator(test2)\src\AuthServer\bin\Latest_Release\netcoreapp2.0\NeoNetsphere.Database.pdb
+F:\cosas de origen\EMULADOR\Emulator(test2)\src\AuthServer\bin\Latest_Release\netcoreapp2.0\NeoNetsphere.Network.pdb
+F:\cosas de origen\EMULADOR\Emulator(test2)\src\AuthServer\bin\Latest_Release\netcoreapp2.0\NeoNetsphere.pdb
+F:\cosas de origen\EMULADOR\Emulator(test2)\src\AuthServer\bin\Latest_Release\netcoreapp2.0\ProudNetSrc.pdb
+F:\cosas de origen\EMULADOR\Emulator(test2)\src\AuthServer\obj\Latest_Release\netcoreapp2.0\AuthServer.csproj.AssemblyReference.cache
+F:\cosas de origen\EMULADOR\Emulator(test2)\src\AuthServer\obj\Latest_Release\netcoreapp2.0\AuthServer.GeneratedMSBuildEditorConfig.editorconfig
+F:\cosas de origen\EMULADOR\Emulator(test2)\src\AuthServer\obj\Latest_Release\netcoreapp2.0\AuthServer.AssemblyInfoInputs.cache
+F:\cosas de origen\EMULADOR\Emulator(test2)\src\AuthServer\obj\Latest_Release\netcoreapp2.0\AuthServer.AssemblyInfo.cs
+F:\cosas de origen\EMULADOR\Emulator(test2)\src\AuthServer\obj\Latest_Release\netcoreapp2.0\AuthServer.csproj.CoreCompileInputs.cache
+F:\cosas de origen\EMULADOR\Emulator(test2)\src\AuthServer\obj\Latest_Release\netcoreapp2.0\AuthServer.csproj.CopyComplete
+F:\cosas de origen\EMULADOR\Emulator(test2)\src\AuthServer\obj\Latest_Release\netcoreapp2.0\AuthServer.dll
+F:\cosas de origen\EMULADOR\Emulator(test2)\src\AuthServer\obj\Latest_Release\netcoreapp2.0\AuthServer.pdb
+F:\cosas de origen\EMULADOR\Emulator(test2)\src\AuthServer\obj\Latest_Release\netcoreapp2.0\AuthServer.genruntimeconfig.cache
+C:\Users\Oscar ATR\Desktop\New folder (5)\Emulator 0.1\src\AuthServer\bin\Latest_Release\netcoreapp2.0\miniLzo_x64.dll
+C:\Users\Oscar ATR\Desktop\New folder (5)\Emulator 0.1\src\AuthServer\bin\Latest_Release\netcoreapp2.0\miniLzo_x86.dll
+C:\Users\Oscar ATR\Desktop\New folder (5)\Emulator 0.1\src\AuthServer\bin\Latest_Release\netcoreapp2.0\liblzo.so
+C:\Users\Oscar ATR\Desktop\New folder (5)\Emulator 0.1\src\AuthServer\bin\Latest_Release\netcoreapp2.0\AuthServer.deps.json
+C:\Users\Oscar ATR\Desktop\New folder (5)\Emulator 0.1\src\AuthServer\bin\Latest_Release\netcoreapp2.0\AuthServer.runtimeconfig.json
+C:\Users\Oscar ATR\Desktop\New folder (5)\Emulator 0.1\src\AuthServer\bin\Latest_Release\netcoreapp2.0\AuthServer.runtimeconfig.dev.json
+C:\Users\Oscar ATR\Desktop\New folder (5)\Emulator 0.1\src\AuthServer\bin\Latest_Release\netcoreapp2.0\AuthServer.dll
+C:\Users\Oscar ATR\Desktop\New folder (5)\Emulator 0.1\src\AuthServer\bin\Latest_Release\netcoreapp2.0\AuthServer.pdb
+C:\Users\Oscar ATR\Desktop\New folder (5)\Emulator 0.1\src\AuthServer\bin\Latest_Release\netcoreapp2.0\AuthServer.ServiceModel.dll
+C:\Users\Oscar ATR\Desktop\New folder (5)\Emulator 0.1\src\AuthServer\bin\Latest_Release\netcoreapp2.0\NeoNetsphere.Database.dll
+C:\Users\Oscar ATR\Desktop\New folder (5)\Emulator 0.1\src\AuthServer\bin\Latest_Release\netcoreapp2.0\NeoNetsphere.dll
+C:\Users\Oscar ATR\Desktop\New folder (5)\Emulator 0.1\src\AuthServer\bin\Latest_Release\netcoreapp2.0\NeoNetsphere.Network.dll
+C:\Users\Oscar ATR\Desktop\New folder (5)\Emulator 0.1\src\AuthServer\bin\Latest_Release\netcoreapp2.0\ProudNetSrc.dll
+C:\Users\Oscar ATR\Desktop\New folder (5)\Emulator 0.1\src\AuthServer\bin\Latest_Release\netcoreapp2.0\SharpLzo.dll
+C:\Users\Oscar ATR\Desktop\New folder (5)\Emulator 0.1\src\AuthServer\bin\Latest_Release\netcoreapp2.0\AuthServer.ServiceModel.pdb
+C:\Users\Oscar ATR\Desktop\New folder (5)\Emulator 0.1\src\AuthServer\bin\Latest_Release\netcoreapp2.0\NeoNetsphere.Database.pdb
+C:\Users\Oscar ATR\Desktop\New folder (5)\Emulator 0.1\src\AuthServer\bin\Latest_Release\netcoreapp2.0\NeoNetsphere.Network.pdb
+C:\Users\Oscar ATR\Desktop\New folder (5)\Emulator 0.1\src\AuthServer\bin\Latest_Release\netcoreapp2.0\NeoNetsphere.pdb
+C:\Users\Oscar ATR\Desktop\New folder (5)\Emulator 0.1\src\AuthServer\bin\Latest_Release\netcoreapp2.0\ProudNetSrc.pdb
+C:\Users\Oscar ATR\Desktop\New folder (5)\Emulator 0.1\src\AuthServer\obj\Latest_Release\netcoreapp2.0\AuthServer.csproj.AssemblyReference.cache
+C:\Users\Oscar ATR\Desktop\New folder (5)\Emulator 0.1\src\AuthServer\obj\Latest_Release\netcoreapp2.0\AuthServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oscar ATR\Desktop\New folder (5)\Emulator 0.1\src\AuthServer\obj\Latest_Release\netcoreapp2.0\AuthServer.AssemblyInfoInputs.cache
+C:\Users\Oscar ATR\Desktop\New folder (5)\Emulator 0.1\src\AuthServer\obj\Latest_Release\netcoreapp2.0\AuthServer.AssemblyInfo.cs
+C:\Users\Oscar ATR\Desktop\New folder (5)\Emulator 0.1\src\AuthServer\obj\Latest_Release\netcoreapp2.0\AuthServer.csproj.CoreCompileInputs.cache
+C:\Users\Oscar ATR\Desktop\New folder (5)\Emulator 0.1\src\AuthServer\obj\Latest_Release\netcoreapp2.0\AuthServer.csproj.Up2Date
+C:\Users\Oscar ATR\Desktop\New folder (5)\Emulator 0.1\src\AuthServer\obj\Latest_Release\netcoreapp2.0\AuthServer.dll
+C:\Users\Oscar ATR\Desktop\New folder (5)\Emulator 0.1\src\AuthServer\obj\Latest_Release\netcoreapp2.0\AuthServer.pdb
+C:\Users\Oscar ATR\Desktop\New folder (5)\Emulator 0.1\src\AuthServer\obj\Latest_Release\netcoreapp2.0\AuthServer.genruntimeconfig.cache
+C:\Users\OscarCode\Desktop\Emulador S4 season 8 - Copy - Copy (2) - Copy\Emulator 0.1\src\AuthServer\bin\Latest_Release\netcoreapp2.0\miniLzo_x64.dll
+C:\Users\OscarCode\Desktop\Emulador S4 season 8 - Copy - Copy (2) - Copy\Emulator 0.1\src\AuthServer\bin\Latest_Release\netcoreapp2.0\miniLzo_x86.dll
+C:\Users\OscarCode\Desktop\Emulador S4 season 8 - Copy - Copy (2) - Copy\Emulator 0.1\src\AuthServer\bin\Latest_Release\netcoreapp2.0\liblzo.so
+C:\Users\OscarCode\Desktop\Emulador S4 season 8 - Copy - Copy (2) - Copy\Emulator 0.1\src\AuthServer\bin\Latest_Release\netcoreapp2.0\AuthServer.deps.json
+C:\Users\OscarCode\Desktop\Emulador S4 season 8 - Copy - Copy (2) - Copy\Emulator 0.1\src\AuthServer\bin\Latest_Release\netcoreapp2.0\AuthServer.runtimeconfig.json
+C:\Users\OscarCode\Desktop\Emulador S4 season 8 - Copy - Copy (2) - Copy\Emulator 0.1\src\AuthServer\bin\Latest_Release\netcoreapp2.0\AuthServer.runtimeconfig.dev.json
+C:\Users\OscarCode\Desktop\Emulador S4 season 8 - Copy - Copy (2) - Copy\Emulator 0.1\src\AuthServer\bin\Latest_Release\netcoreapp2.0\AuthServer.dll
+C:\Users\OscarCode\Desktop\Emulador S4 season 8 - Copy - Copy (2) - Copy\Emulator 0.1\src\AuthServer\bin\Latest_Release\netcoreapp2.0\AuthServer.pdb
+C:\Users\OscarCode\Desktop\Emulador S4 season 8 - Copy - Copy (2) - Copy\Emulator 0.1\src\AuthServer\bin\Latest_Release\netcoreapp2.0\AuthServer.ServiceModel.dll
+C:\Users\OscarCode\Desktop\Emulador S4 season 8 - Copy - Copy (2) - Copy\Emulator 0.1\src\AuthServer\bin\Latest_Release\netcoreapp2.0\NeoNetsphere.Database.dll
+C:\Users\OscarCode\Desktop\Emulador S4 season 8 - Copy - Copy (2) - Copy\Emulator 0.1\src\AuthServer\bin\Latest_Release\netcoreapp2.0\NeoNetsphere.dll
+C:\Users\OscarCode\Desktop\Emulador S4 season 8 - Copy - Copy (2) - Copy\Emulator 0.1\src\AuthServer\bin\Latest_Release\netcoreapp2.0\NeoNetsphere.Network.dll
+C:\Users\OscarCode\Desktop\Emulador S4 season 8 - Copy - Copy (2) - Copy\Emulator 0.1\src\AuthServer\bin\Latest_Release\netcoreapp2.0\ProudNetSrc.dll
+C:\Users\OscarCode\Desktop\Emulador S4 season 8 - Copy - Copy (2) - Copy\Emulator 0.1\src\AuthServer\bin\Latest_Release\netcoreapp2.0\SharpLzo.dll
+C:\Users\OscarCode\Desktop\Emulador S4 season 8 - Copy - Copy (2) - Copy\Emulator 0.1\src\AuthServer\bin\Latest_Release\netcoreapp2.0\AuthServer.ServiceModel.pdb
+C:\Users\OscarCode\Desktop\Emulador S4 season 8 - Copy - Copy (2) - Copy\Emulator 0.1\src\AuthServer\bin\Latest_Release\netcoreapp2.0\NeoNetsphere.Database.pdb
+C:\Users\OscarCode\Desktop\Emulador S4 season 8 - Copy - Copy (2) - Copy\Emulator 0.1\src\AuthServer\bin\Latest_Release\netcoreapp2.0\NeoNetsphere.Network.pdb
+C:\Users\OscarCode\Desktop\Emulador S4 season 8 - Copy - Copy (2) - Copy\Emulator 0.1\src\AuthServer\bin\Latest_Release\netcoreapp2.0\NeoNetsphere.pdb
+C:\Users\OscarCode\Desktop\Emulador S4 season 8 - Copy - Copy (2) - Copy\Emulator 0.1\src\AuthServer\bin\Latest_Release\netcoreapp2.0\ProudNetSrc.pdb
+C:\Users\OscarCode\Desktop\Emulador S4 season 8 - Copy - Copy (2) - Copy\Emulator 0.1\src\AuthServer\obj\Latest_Release\netcoreapp2.0\AuthServer.csproj.AssemblyReference.cache
+C:\Users\OscarCode\Desktop\Emulador S4 season 8 - Copy - Copy (2) - Copy\Emulator 0.1\src\AuthServer\obj\Latest_Release\netcoreapp2.0\AuthServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OscarCode\Desktop\Emulador S4 season 8 - Copy - Copy (2) - Copy\Emulator 0.1\src\AuthServer\obj\Latest_Release\netcoreapp2.0\AuthServer.AssemblyInfoInputs.cache
+C:\Users\OscarCode\Desktop\Emulador S4 season 8 - Copy - Copy (2) - Copy\Emulator 0.1\src\AuthServer\obj\Latest_Release\netcoreapp2.0\AuthServer.AssemblyInfo.cs
+C:\Users\OscarCode\Desktop\Emulador S4 season 8 - Copy - Copy (2) - Copy\Emulator 0.1\src\AuthServer\obj\Latest_Release\netcoreapp2.0\AuthServer.csproj.CoreCompileInputs.cache
+C:\Users\OscarCode\Desktop\Emulador S4 season 8 - Copy - Copy (2) - Copy\Emulator 0.1\src\AuthServer\obj\Latest_Release\netcoreapp2.0\AuthServer.csproj.Up2Date
+C:\Users\OscarCode\Desktop\Emulador S4 season 8 - Copy - Copy (2) - Copy\Emulator 0.1\src\AuthServer\obj\Latest_Release\netcoreapp2.0\AuthServer.dll
+C:\Users\OscarCode\Desktop\Emulador S4 season 8 - Copy - Copy (2) - Copy\Emulator 0.1\src\AuthServer\obj\Latest_Release\netcoreapp2.0\AuthServer.pdb
+C:\Users\OscarCode\Desktop\Emulador S4 season 8 - Copy - Copy (2) - Copy\Emulator 0.1\src\AuthServer\obj\Latest_Release\netcoreapp2.0\AuthServer.genruntimeconfig.cache
+C:\Users\OscarCode\Desktop\Emulador de Season 10\Emulator 0.1\src\AuthServer\bin\Latest_Release\netcoreapp2.0\miniLzo_x64.dll
+C:\Users\OscarCode\Desktop\Emulador de Season 10\Emulator 0.1\src\AuthServer\bin\Latest_Release\netcoreapp2.0\miniLzo_x86.dll
+C:\Users\OscarCode\Desktop\Emulador de Season 10\Emulator 0.1\src\AuthServer\bin\Latest_Release\netcoreapp2.0\liblzo.so
+C:\Users\OscarCode\Desktop\Emulador de Season 10\Emulator 0.1\src\AuthServer\bin\Latest_Release\netcoreapp2.0\AuthServer.deps.json
+C:\Users\OscarCode\Desktop\Emulador de Season 10\Emulator 0.1\src\AuthServer\bin\Latest_Release\netcoreapp2.0\AuthServer.runtimeconfig.json
+C:\Users\OscarCode\Desktop\Emulador de Season 10\Emulator 0.1\src\AuthServer\bin\Latest_Release\netcoreapp2.0\AuthServer.runtimeconfig.dev.json
+C:\Users\OscarCode\Desktop\Emulador de Season 10\Emulator 0.1\src\AuthServer\bin\Latest_Release\netcoreapp2.0\AuthServer.dll
+C:\Users\OscarCode\Desktop\Emulador de Season 10\Emulator 0.1\src\AuthServer\bin\Latest_Release\netcoreapp2.0\AuthServer.pdb
+C:\Users\OscarCode\Desktop\Emulador de Season 10\Emulator 0.1\src\AuthServer\bin\Latest_Release\netcoreapp2.0\AuthServer.ServiceModel.dll
+C:\Users\OscarCode\Desktop\Emulador de Season 10\Emulator 0.1\src\AuthServer\bin\Latest_Release\netcoreapp2.0\NeoNetsphere.Database.dll
+C:\Users\OscarCode\Desktop\Emulador de Season 10\Emulator 0.1\src\AuthServer\bin\Latest_Release\netcoreapp2.0\NeoNetsphere.dll
+C:\Users\OscarCode\Desktop\Emulador de Season 10\Emulator 0.1\src\AuthServer\bin\Latest_Release\netcoreapp2.0\NeoNetsphere.Network.dll
+C:\Users\OscarCode\Desktop\Emulador de Season 10\Emulator 0.1\src\AuthServer\bin\Latest_Release\netcoreapp2.0\ProudNetSrc.dll
+C:\Users\OscarCode\Desktop\Emulador de Season 10\Emulator 0.1\src\AuthServer\bin\Latest_Release\netcoreapp2.0\SharpLzo.dll
+C:\Users\OscarCode\Desktop\Emulador de Season 10\Emulator 0.1\src\AuthServer\bin\Latest_Release\netcoreapp2.0\AuthServer.ServiceModel.pdb
+C:\Users\OscarCode\Desktop\Emulador de Season 10\Emulator 0.1\src\AuthServer\bin\Latest_Release\netcoreapp2.0\NeoNetsphere.Database.pdb
+C:\Users\OscarCode\Desktop\Emulador de Season 10\Emulator 0.1\src\AuthServer\bin\Latest_Release\netcoreapp2.0\NeoNetsphere.Network.pdb
+C:\Users\OscarCode\Desktop\Emulador de Season 10\Emulator 0.1\src\AuthServer\bin\Latest_Release\netcoreapp2.0\NeoNetsphere.pdb
+C:\Users\OscarCode\Desktop\Emulador de Season 10\Emulator 0.1\src\AuthServer\bin\Latest_Release\netcoreapp2.0\ProudNetSrc.pdb
+C:\Users\OscarCode\Desktop\Emulador de Season 10\Emulator 0.1\src\AuthServer\obj\Latest_Release\netcoreapp2.0\AuthServer.csproj.AssemblyReference.cache
+C:\Users\OscarCode\Desktop\Emulador de Season 10\Emulator 0.1\src\AuthServer\obj\Latest_Release\netcoreapp2.0\AuthServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OscarCode\Desktop\Emulador de Season 10\Emulator 0.1\src\AuthServer\obj\Latest_Release\netcoreapp2.0\AuthServer.AssemblyInfoInputs.cache
+C:\Users\OscarCode\Desktop\Emulador de Season 10\Emulator 0.1\src\AuthServer\obj\Latest_Release\netcoreapp2.0\AuthServer.AssemblyInfo.cs
+C:\Users\OscarCode\Desktop\Emulador de Season 10\Emulator 0.1\src\AuthServer\obj\Latest_Release\netcoreapp2.0\AuthServer.csproj.CoreCompileInputs.cache
+C:\Users\OscarCode\Desktop\Emulador de Season 10\Emulator 0.1\src\AuthServer\obj\Latest_Release\netcoreapp2.0\AuthServer.csproj.Up2Date
+C:\Users\OscarCode\Desktop\Emulador de Season 10\Emulator 0.1\src\AuthServer\obj\Latest_Release\netcoreapp2.0\AuthServer.dll
+C:\Users\OscarCode\Desktop\Emulador de Season 10\Emulator 0.1\src\AuthServer\obj\Latest_Release\netcoreapp2.0\AuthServer.pdb
+C:\Users\OscarCode\Desktop\Emulador de Season 10\Emulator 0.1\src\AuthServer\obj\Latest_Release\netcoreapp2.0\AuthServer.genruntimeconfig.cache

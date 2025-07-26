@@ -1,0 +1,139 @@
+E:\S4 League\Sources\Emulator\source\src\AuthServer.ServiceModel\bin\Latest_Release\netstandard2.0\AuthServer.ServiceModel.deps.json
+E:\S4 League\Sources\Emulator\source\src\AuthServer.ServiceModel\bin\Latest_Release\netstandard2.0\AuthServer.ServiceModel.dll
+E:\S4 League\Sources\Emulator\source\src\AuthServer.ServiceModel\bin\Latest_Release\netstandard2.0\AuthServer.ServiceModel.pdb
+E:\S4 League\Sources\Emulator\source\src\AuthServer.ServiceModel\bin\Latest_Release\netstandard2.0\ProudNetSrc.dll
+E:\S4 League\Sources\Emulator\source\src\AuthServer.ServiceModel\bin\Latest_Release\netstandard2.0\ProudNetSrc.pdb
+E:\S4 League\Sources\Emulator\source\src\AuthServer.ServiceModel\obj\Latest_Release\netstandard2.0\AuthServer.ServiceModel.csprojAssemblyReference.cache
+E:\S4 League\Sources\Emulator\source\src\AuthServer.ServiceModel\obj\Latest_Release\netstandard2.0\AuthServer.ServiceModel.csproj.CoreCompileInputs.cache
+E:\S4 League\Sources\Emulator\source\src\AuthServer.ServiceModel\obj\Latest_Release\netstandard2.0\AuthServer.ServiceModel.AssemblyInfoInputs.cache
+E:\S4 League\Sources\Emulator\source\src\AuthServer.ServiceModel\obj\Latest_Release\netstandard2.0\AuthServer.ServiceModel.AssemblyInfo.cs
+E:\S4 League\Sources\Emulator\source\src\AuthServer.ServiceModel\obj\Latest_Release\netstandard2.0\AuthServer.ServiceModel.csproj.CopyComplete
+E:\S4 League\Sources\Emulator\source\src\AuthServer.ServiceModel\obj\Latest_Release\netstandard2.0\AuthServer.ServiceModel.dll
+E:\S4 League\Sources\Emulator\source\src\AuthServer.ServiceModel\obj\Latest_Release\netstandard2.0\AuthServer.ServiceModel.pdb
+E:\S4 League\Sources\Emulator\src\AuthServer.ServiceModel\bin\Latest_Release\netstandard2.0\AuthServer.ServiceModel.deps.json
+E:\S4 League\Sources\Emulator\src\AuthServer.ServiceModel\bin\Latest_Release\netstandard2.0\AuthServer.ServiceModel.dll
+E:\S4 League\Sources\Emulator\src\AuthServer.ServiceModel\bin\Latest_Release\netstandard2.0\AuthServer.ServiceModel.pdb
+E:\S4 League\Sources\Emulator\src\AuthServer.ServiceModel\bin\Latest_Release\netstandard2.0\ProudNetSrc.dll
+E:\S4 League\Sources\Emulator\src\AuthServer.ServiceModel\bin\Latest_Release\netstandard2.0\ProudNetSrc.pdb
+E:\S4 League\Sources\Emulator\src\AuthServer.ServiceModel\obj\Latest_Release\netstandard2.0\AuthServer.ServiceModel.csprojAssemblyReference.cache
+E:\S4 League\Sources\Emulator\src\AuthServer.ServiceModel\obj\Latest_Release\netstandard2.0\AuthServer.ServiceModel.csproj.CoreCompileInputs.cache
+E:\S4 League\Sources\Emulator\src\AuthServer.ServiceModel\obj\Latest_Release\netstandard2.0\AuthServer.ServiceModel.AssemblyInfoInputs.cache
+E:\S4 League\Sources\Emulator\src\AuthServer.ServiceModel\obj\Latest_Release\netstandard2.0\AuthServer.ServiceModel.AssemblyInfo.cs
+E:\S4 League\Sources\Emulator\src\AuthServer.ServiceModel\obj\Latest_Release\netstandard2.0\AuthServer.ServiceModel.csproj.CopyComplete
+E:\S4 League\Sources\Emulator\src\AuthServer.ServiceModel\obj\Latest_Release\netstandard2.0\AuthServer.ServiceModel.dll
+E:\S4 League\Sources\Emulator\src\AuthServer.ServiceModel\obj\Latest_Release\netstandard2.0\AuthServer.ServiceModel.pdb
+E:\S4 League\Season 9\Sources\Emulator\src\AuthServer.ServiceModel\obj\Latest_Release\netstandard2.0\AuthServer.ServiceModel.csprojAssemblyReference.cache
+E:\S4 League\Season 9\Sources\Emulator\src\AuthServer.ServiceModel\obj\Latest_Release\netstandard2.0\AuthServer.ServiceModel.csproj.CoreCompileInputs.cache
+E:\S4 League\Season 9\Sources\Emulator\src\AuthServer.ServiceModel\obj\Latest_Release\netstandard2.0\AuthServer.ServiceModel.AssemblyInfoInputs.cache
+E:\S4 League\Season 9\Sources\Emulator\src\AuthServer.ServiceModel\obj\Latest_Release\netstandard2.0\AuthServer.ServiceModel.AssemblyInfo.cs
+E:\S4 League\Season 9\Sources\Emulator\src\AuthServer.ServiceModel\obj\Latest_Release\netstandard2.0\AuthServer.ServiceModel.dll
+E:\S4 League\Season 9\Sources\Emulator\src\AuthServer.ServiceModel\obj\Latest_Release\netstandard2.0\AuthServer.ServiceModel.pdb
+E:\S4 League\Season 9\Sources\Emulator\src\AuthServer.ServiceModel\bin\Latest_Release\netstandard2.0\AuthServer.ServiceModel.deps.json
+E:\S4 League\Season 9\Sources\Emulator\src\AuthServer.ServiceModel\bin\Latest_Release\netstandard2.0\AuthServer.ServiceModel.dll
+E:\S4 League\Season 9\Sources\Emulator\src\AuthServer.ServiceModel\bin\Latest_Release\netstandard2.0\AuthServer.ServiceModel.pdb
+E:\S4 League\Season 9\Sources\Emulator\src\AuthServer.ServiceModel\bin\Latest_Release\netstandard2.0\ProudNetSrc.dll
+E:\S4 League\Season 9\Sources\Emulator\src\AuthServer.ServiceModel\bin\Latest_Release\netstandard2.0\ProudNetSrc.pdb
+E:\S4 League\Season 9\Sources\Emulator\src\AuthServer.ServiceModel\obj\Latest_Release\netstandard2.0\AuthServer.ServiceModel.csproj.CopyComplete
+E:\S4 League\Season 9\Sources\Emulator -Raw\src\AuthServer.ServiceModel\bin\Latest_Release\netstandard2.0\AuthServer.ServiceModel.deps.json
+E:\S4 League\Season 9\Sources\Emulator -Raw\src\AuthServer.ServiceModel\bin\Latest_Release\netstandard2.0\AuthServer.ServiceModel.dll
+E:\S4 League\Season 9\Sources\Emulator -Raw\src\AuthServer.ServiceModel\bin\Latest_Release\netstandard2.0\AuthServer.ServiceModel.pdb
+E:\S4 League\Season 9\Sources\Emulator -Raw\src\AuthServer.ServiceModel\bin\Latest_Release\netstandard2.0\ProudNetSrc.dll
+E:\S4 League\Season 9\Sources\Emulator -Raw\src\AuthServer.ServiceModel\bin\Latest_Release\netstandard2.0\ProudNetSrc.pdb
+E:\S4 League\Season 9\Sources\Emulator -Raw\src\AuthServer.ServiceModel\obj\Latest_Release\netstandard2.0\AuthServer.ServiceModel.csprojAssemblyReference.cache
+E:\S4 League\Season 9\Sources\Emulator -Raw\src\AuthServer.ServiceModel\obj\Latest_Release\netstandard2.0\AuthServer.ServiceModel.csproj.CoreCompileInputs.cache
+E:\S4 League\Season 9\Sources\Emulator -Raw\src\AuthServer.ServiceModel\obj\Latest_Release\netstandard2.0\AuthServer.ServiceModel.AssemblyInfoInputs.cache
+E:\S4 League\Season 9\Sources\Emulator -Raw\src\AuthServer.ServiceModel\obj\Latest_Release\netstandard2.0\AuthServer.ServiceModel.AssemblyInfo.cs
+E:\S4 League\Season 9\Sources\Emulator -Raw\src\AuthServer.ServiceModel\obj\Latest_Release\netstandard2.0\AuthServer.ServiceModel.csproj.CopyComplete
+E:\S4 League\Season 9\Sources\Emulator -Raw\src\AuthServer.ServiceModel\obj\Latest_Release\netstandard2.0\AuthServer.ServiceModel.dll
+E:\S4 League\Season 9\Sources\Emulator -Raw\src\AuthServer.ServiceModel\obj\Latest_Release\netstandard2.0\AuthServer.ServiceModel.pdb
+C:\Users\Ryan\Desktop\Emulator(test2)\src\AuthServer.ServiceModel\bin\Latest_Release\netstandard2.0\AuthServer.ServiceModel.deps.json
+C:\Users\Ryan\Desktop\Emulator(test2)\src\AuthServer.ServiceModel\bin\Latest_Release\netstandard2.0\AuthServer.ServiceModel.dll
+C:\Users\Ryan\Desktop\Emulator(test2)\src\AuthServer.ServiceModel\bin\Latest_Release\netstandard2.0\AuthServer.ServiceModel.pdb
+C:\Users\Ryan\Desktop\Emulator(test2)\src\AuthServer.ServiceModel\bin\Latest_Release\netstandard2.0\ProudNetSrc.dll
+C:\Users\Ryan\Desktop\Emulator(test2)\src\AuthServer.ServiceModel\bin\Latest_Release\netstandard2.0\ProudNetSrc.pdb
+C:\Users\Ryan\Desktop\Emulator(test2)\src\AuthServer.ServiceModel\obj\Latest_Release\netstandard2.0\AuthServer.ServiceModel.csproj.AssemblyReference.cache
+C:\Users\Ryan\Desktop\Emulator(test2)\src\AuthServer.ServiceModel\obj\Latest_Release\netstandard2.0\AuthServer.ServiceModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ryan\Desktop\Emulator(test2)\src\AuthServer.ServiceModel\obj\Latest_Release\netstandard2.0\AuthServer.ServiceModel.AssemblyInfoInputs.cache
+C:\Users\Ryan\Desktop\Emulator(test2)\src\AuthServer.ServiceModel\obj\Latest_Release\netstandard2.0\AuthServer.ServiceModel.AssemblyInfo.cs
+C:\Users\Ryan\Desktop\Emulator(test2)\src\AuthServer.ServiceModel\obj\Latest_Release\netstandard2.0\AuthServer.ServiceModel.csproj.CoreCompileInputs.cache
+C:\Users\Ryan\Desktop\Emulator(test2)\src\AuthServer.ServiceModel\obj\Latest_Release\netstandard2.0\AuthServer.ServiceModel.csproj.CopyComplete
+C:\Users\Ryan\Desktop\Emulator(test2)\src\AuthServer.ServiceModel\obj\Latest_Release\netstandard2.0\AuthServer.ServiceModel.dll
+C:\Users\Ryan\Desktop\Emulator(test2)\src\AuthServer.ServiceModel\obj\Latest_Release\netstandard2.0\AuthServer.ServiceModel.pdb
+F:\cosas de origen\EMULADOR\Emulator(test2)\src\AuthServer.ServiceModel\bin\Latest_Release\netstandard2.0\AuthServer.ServiceModel.deps.json
+F:\cosas de origen\EMULADOR\Emulator(test2)\src\AuthServer.ServiceModel\bin\Latest_Release\netstandard2.0\AuthServer.ServiceModel.dll
+F:\cosas de origen\EMULADOR\Emulator(test2)\src\AuthServer.ServiceModel\bin\Latest_Release\netstandard2.0\AuthServer.ServiceModel.pdb
+F:\cosas de origen\EMULADOR\Emulator(test2)\src\AuthServer.ServiceModel\bin\Latest_Release\netstandard2.0\ProudNetSrc.dll
+F:\cosas de origen\EMULADOR\Emulator(test2)\src\AuthServer.ServiceModel\bin\Latest_Release\netstandard2.0\ProudNetSrc.pdb
+F:\cosas de origen\EMULADOR\Emulator(test2)\src\AuthServer.ServiceModel\obj\Latest_Release\netstandard2.0\AuthServer.ServiceModel.csproj.AssemblyReference.cache
+F:\cosas de origen\EMULADOR\Emulator(test2)\src\AuthServer.ServiceModel\obj\Latest_Release\netstandard2.0\AuthServer.ServiceModel.GeneratedMSBuildEditorConfig.editorconfig
+F:\cosas de origen\EMULADOR\Emulator(test2)\src\AuthServer.ServiceModel\obj\Latest_Release\netstandard2.0\AuthServer.ServiceModel.AssemblyInfoInputs.cache
+F:\cosas de origen\EMULADOR\Emulator(test2)\src\AuthServer.ServiceModel\obj\Latest_Release\netstandard2.0\AuthServer.ServiceModel.AssemblyInfo.cs
+F:\cosas de origen\EMULADOR\Emulator(test2)\src\AuthServer.ServiceModel\obj\Latest_Release\netstandard2.0\AuthServer.ServiceModel.csproj.CoreCompileInputs.cache
+F:\cosas de origen\EMULADOR\Emulator(test2)\src\AuthServer.ServiceModel\obj\Latest_Release\netstandard2.0\AuthServer.ServiceModel.csproj.CopyComplete
+F:\cosas de origen\EMULADOR\Emulator(test2)\src\AuthServer.ServiceModel\obj\Latest_Release\netstandard2.0\AuthServer.ServiceModel.dll
+F:\cosas de origen\EMULADOR\Emulator(test2)\src\AuthServer.ServiceModel\obj\Latest_Release\netstandard2.0\AuthServer.ServiceModel.pdb
+D:\cosas de origen\EMULADOR\Emulator(test2)\src\AuthServer.ServiceModel\bin\Latest_Release\netstandard2.0\AuthServer.ServiceModel.deps.json
+D:\cosas de origen\EMULADOR\Emulator(test2)\src\AuthServer.ServiceModel\bin\Latest_Release\netstandard2.0\AuthServer.ServiceModel.dll
+D:\cosas de origen\EMULADOR\Emulator(test2)\src\AuthServer.ServiceModel\bin\Latest_Release\netstandard2.0\AuthServer.ServiceModel.pdb
+D:\cosas de origen\EMULADOR\Emulator(test2)\src\AuthServer.ServiceModel\bin\Latest_Release\netstandard2.0\ProudNetSrc.dll
+D:\cosas de origen\EMULADOR\Emulator(test2)\src\AuthServer.ServiceModel\bin\Latest_Release\netstandard2.0\ProudNetSrc.pdb
+D:\cosas de origen\EMULADOR\Emulator(test2)\src\AuthServer.ServiceModel\obj\Latest_Release\netstandard2.0\AuthServer.ServiceModel.csproj.AssemblyReference.cache
+D:\cosas de origen\EMULADOR\Emulator(test2)\src\AuthServer.ServiceModel\obj\Latest_Release\netstandard2.0\AuthServer.ServiceModel.GeneratedMSBuildEditorConfig.editorconfig
+D:\cosas de origen\EMULADOR\Emulator(test2)\src\AuthServer.ServiceModel\obj\Latest_Release\netstandard2.0\AuthServer.ServiceModel.AssemblyInfoInputs.cache
+D:\cosas de origen\EMULADOR\Emulator(test2)\src\AuthServer.ServiceModel\obj\Latest_Release\netstandard2.0\AuthServer.ServiceModel.AssemblyInfo.cs
+D:\cosas de origen\EMULADOR\Emulator(test2)\src\AuthServer.ServiceModel\obj\Latest_Release\netstandard2.0\AuthServer.ServiceModel.csproj.CoreCompileInputs.cache
+D:\cosas de origen\EMULADOR\Emulator(test2)\src\AuthServer.ServiceModel\obj\Latest_Release\netstandard2.0\AuthServer.ServiceModel.csproj.CopyComplete
+D:\cosas de origen\EMULADOR\Emulator(test2)\src\AuthServer.ServiceModel\obj\Latest_Release\netstandard2.0\AuthServer.ServiceModel.dll
+D:\cosas de origen\EMULADOR\Emulator(test2)\src\AuthServer.ServiceModel\obj\Latest_Release\netstandard2.0\AuthServer.ServiceModel.pdb
+C:\Users\Oscar ATR\Desktop\New folder (5)\Emulator 0.1\src\AuthServer.ServiceModel\bin\Latest_Release\netstandard2.0\AuthServer.ServiceModel.deps.json
+C:\Users\Oscar ATR\Desktop\New folder (5)\Emulator 0.1\src\AuthServer.ServiceModel\bin\Latest_Release\netstandard2.0\AuthServer.ServiceModel.dll
+C:\Users\Oscar ATR\Desktop\New folder (5)\Emulator 0.1\src\AuthServer.ServiceModel\bin\Latest_Release\netstandard2.0\AuthServer.ServiceModel.pdb
+C:\Users\Oscar ATR\Desktop\New folder (5)\Emulator 0.1\src\AuthServer.ServiceModel\bin\Latest_Release\netstandard2.0\ProudNetSrc.dll
+C:\Users\Oscar ATR\Desktop\New folder (5)\Emulator 0.1\src\AuthServer.ServiceModel\bin\Latest_Release\netstandard2.0\ProudNetSrc.pdb
+C:\Users\Oscar ATR\Desktop\New folder (5)\Emulator 0.1\src\AuthServer.ServiceModel\obj\Latest_Release\netstandard2.0\AuthServer.ServiceModel.csproj.AssemblyReference.cache
+C:\Users\Oscar ATR\Desktop\New folder (5)\Emulator 0.1\src\AuthServer.ServiceModel\obj\Latest_Release\netstandard2.0\AuthServer.ServiceModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oscar ATR\Desktop\New folder (5)\Emulator 0.1\src\AuthServer.ServiceModel\obj\Latest_Release\netstandard2.0\AuthServer.ServiceModel.AssemblyInfoInputs.cache
+C:\Users\Oscar ATR\Desktop\New folder (5)\Emulator 0.1\src\AuthServer.ServiceModel\obj\Latest_Release\netstandard2.0\AuthServer.ServiceModel.AssemblyInfo.cs
+C:\Users\Oscar ATR\Desktop\New folder (5)\Emulator 0.1\src\AuthServer.ServiceModel\obj\Latest_Release\netstandard2.0\AuthServer.ServiceModel.csproj.CoreCompileInputs.cache
+C:\Users\Oscar ATR\Desktop\New folder (5)\Emulator 0.1\src\AuthServer.ServiceModel\obj\Latest_Release\netstandard2.0\AuthServ.BAC6B421.Up2Date
+C:\Users\Oscar ATR\Desktop\New folder (5)\Emulator 0.1\src\AuthServer.ServiceModel\obj\Latest_Release\netstandard2.0\AuthServer.ServiceModel.dll
+C:\Users\Oscar ATR\Desktop\New folder (5)\Emulator 0.1\src\AuthServer.ServiceModel\obj\Latest_Release\netstandard2.0\AuthServer.ServiceModel.pdb
+C:\Users\Oscar ATR\Desktop\Emulador s4 nuevo\Emulator 0.1\src\AuthServer.ServiceModel\bin\Latest_Release\netstandard2.0\AuthServer.ServiceModel.deps.json
+C:\Users\Oscar ATR\Desktop\Emulador s4 nuevo\Emulator 0.1\src\AuthServer.ServiceModel\bin\Latest_Release\netstandard2.0\AuthServer.ServiceModel.dll
+C:\Users\Oscar ATR\Desktop\Emulador s4 nuevo\Emulator 0.1\src\AuthServer.ServiceModel\bin\Latest_Release\netstandard2.0\AuthServer.ServiceModel.pdb
+C:\Users\Oscar ATR\Desktop\Emulador s4 nuevo\Emulator 0.1\src\AuthServer.ServiceModel\bin\Latest_Release\netstandard2.0\ProudNetSrc.dll
+C:\Users\Oscar ATR\Desktop\Emulador s4 nuevo\Emulator 0.1\src\AuthServer.ServiceModel\bin\Latest_Release\netstandard2.0\ProudNetSrc.pdb
+C:\Users\Oscar ATR\Desktop\Emulador s4 nuevo\Emulator 0.1\src\AuthServer.ServiceModel\obj\Latest_Release\netstandard2.0\AuthServer.ServiceModel.csproj.AssemblyReference.cache
+C:\Users\Oscar ATR\Desktop\Emulador s4 nuevo\Emulator 0.1\src\AuthServer.ServiceModel\obj\Latest_Release\netstandard2.0\AuthServer.ServiceModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oscar ATR\Desktop\Emulador s4 nuevo\Emulator 0.1\src\AuthServer.ServiceModel\obj\Latest_Release\netstandard2.0\AuthServer.ServiceModel.AssemblyInfoInputs.cache
+C:\Users\Oscar ATR\Desktop\Emulador s4 nuevo\Emulator 0.1\src\AuthServer.ServiceModel\obj\Latest_Release\netstandard2.0\AuthServer.ServiceModel.AssemblyInfo.cs
+C:\Users\Oscar ATR\Desktop\Emulador s4 nuevo\Emulator 0.1\src\AuthServer.ServiceModel\obj\Latest_Release\netstandard2.0\AuthServer.ServiceModel.csproj.CoreCompileInputs.cache
+C:\Users\Oscar ATR\Desktop\Emulador s4 nuevo\Emulator 0.1\src\AuthServer.ServiceModel\obj\Latest_Release\netstandard2.0\AuthServ.BAC6B421.Up2Date
+C:\Users\Oscar ATR\Desktop\Emulador s4 nuevo\Emulator 0.1\src\AuthServer.ServiceModel\obj\Latest_Release\netstandard2.0\AuthServer.ServiceModel.dll
+C:\Users\Oscar ATR\Desktop\Emulador s4 nuevo\Emulator 0.1\src\AuthServer.ServiceModel\obj\Latest_Release\netstandard2.0\AuthServer.ServiceModel.pdb
+C:\Users\OscarCode\Desktop\Emulador S4 season 8 - Copy - Copy (2) - Copy\Emulator 0.1\src\AuthServer.ServiceModel\bin\Latest_Release\netstandard2.0\AuthServer.ServiceModel.deps.json
+C:\Users\OscarCode\Desktop\Emulador S4 season 8 - Copy - Copy (2) - Copy\Emulator 0.1\src\AuthServer.ServiceModel\bin\Latest_Release\netstandard2.0\AuthServer.ServiceModel.dll
+C:\Users\OscarCode\Desktop\Emulador S4 season 8 - Copy - Copy (2) - Copy\Emulator 0.1\src\AuthServer.ServiceModel\bin\Latest_Release\netstandard2.0\AuthServer.ServiceModel.pdb
+C:\Users\OscarCode\Desktop\Emulador S4 season 8 - Copy - Copy (2) - Copy\Emulator 0.1\src\AuthServer.ServiceModel\bin\Latest_Release\netstandard2.0\ProudNetSrc.dll
+C:\Users\OscarCode\Desktop\Emulador S4 season 8 - Copy - Copy (2) - Copy\Emulator 0.1\src\AuthServer.ServiceModel\bin\Latest_Release\netstandard2.0\ProudNetSrc.pdb
+C:\Users\OscarCode\Desktop\Emulador S4 season 8 - Copy - Copy (2) - Copy\Emulator 0.1\src\AuthServer.ServiceModel\obj\Latest_Release\netstandard2.0\AuthServer.ServiceModel.csproj.AssemblyReference.cache
+C:\Users\OscarCode\Desktop\Emulador S4 season 8 - Copy - Copy (2) - Copy\Emulator 0.1\src\AuthServer.ServiceModel\obj\Latest_Release\netstandard2.0\AuthServer.ServiceModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OscarCode\Desktop\Emulador S4 season 8 - Copy - Copy (2) - Copy\Emulator 0.1\src\AuthServer.ServiceModel\obj\Latest_Release\netstandard2.0\AuthServer.ServiceModel.AssemblyInfoInputs.cache
+C:\Users\OscarCode\Desktop\Emulador S4 season 8 - Copy - Copy (2) - Copy\Emulator 0.1\src\AuthServer.ServiceModel\obj\Latest_Release\netstandard2.0\AuthServer.ServiceModel.AssemblyInfo.cs
+C:\Users\OscarCode\Desktop\Emulador S4 season 8 - Copy - Copy (2) - Copy\Emulator 0.1\src\AuthServer.ServiceModel\obj\Latest_Release\netstandard2.0\AuthServer.ServiceModel.csproj.CoreCompileInputs.cache
+C:\Users\OscarCode\Desktop\Emulador S4 season 8 - Copy - Copy (2) - Copy\Emulator 0.1\src\AuthServer.ServiceModel\obj\Latest_Release\netstandard2.0\AuthServ.BAC6B421.Up2Date
+C:\Users\OscarCode\Desktop\Emulador S4 season 8 - Copy - Copy (2) - Copy\Emulator 0.1\src\AuthServer.ServiceModel\obj\Latest_Release\netstandard2.0\AuthServer.ServiceModel.dll
+C:\Users\OscarCode\Desktop\Emulador S4 season 8 - Copy - Copy (2) - Copy\Emulator 0.1\src\AuthServer.ServiceModel\obj\Latest_Release\netstandard2.0\AuthServer.ServiceModel.pdb
+C:\Users\OscarCode\Desktop\Emulador de Season 10\Emulator 0.1\src\AuthServer.ServiceModel\bin\Latest_Release\netstandard2.0\AuthServer.ServiceModel.deps.json
+C:\Users\OscarCode\Desktop\Emulador de Season 10\Emulator 0.1\src\AuthServer.ServiceModel\bin\Latest_Release\netstandard2.0\AuthServer.ServiceModel.dll
+C:\Users\OscarCode\Desktop\Emulador de Season 10\Emulator 0.1\src\AuthServer.ServiceModel\bin\Latest_Release\netstandard2.0\AuthServer.ServiceModel.pdb
+C:\Users\OscarCode\Desktop\Emulador de Season 10\Emulator 0.1\src\AuthServer.ServiceModel\bin\Latest_Release\netstandard2.0\ProudNetSrc.dll
+C:\Users\OscarCode\Desktop\Emulador de Season 10\Emulator 0.1\src\AuthServer.ServiceModel\bin\Latest_Release\netstandard2.0\ProudNetSrc.pdb
+C:\Users\OscarCode\Desktop\Emulador de Season 10\Emulator 0.1\src\AuthServer.ServiceModel\obj\Latest_Release\netstandard2.0\AuthServer.ServiceModel.csproj.AssemblyReference.cache
+C:\Users\OscarCode\Desktop\Emulador de Season 10\Emulator 0.1\src\AuthServer.ServiceModel\obj\Latest_Release\netstandard2.0\AuthServer.ServiceModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OscarCode\Desktop\Emulador de Season 10\Emulator 0.1\src\AuthServer.ServiceModel\obj\Latest_Release\netstandard2.0\AuthServer.ServiceModel.AssemblyInfoInputs.cache
+C:\Users\OscarCode\Desktop\Emulador de Season 10\Emulator 0.1\src\AuthServer.ServiceModel\obj\Latest_Release\netstandard2.0\AuthServer.ServiceModel.AssemblyInfo.cs
+C:\Users\OscarCode\Desktop\Emulador de Season 10\Emulator 0.1\src\AuthServer.ServiceModel\obj\Latest_Release\netstandard2.0\AuthServer.ServiceModel.csproj.CoreCompileInputs.cache
+C:\Users\OscarCode\Desktop\Emulador de Season 10\Emulator 0.1\src\AuthServer.ServiceModel\obj\Latest_Release\netstandard2.0\AuthServ.BAC6B421.Up2Date
+C:\Users\OscarCode\Desktop\Emulador de Season 10\Emulator 0.1\src\AuthServer.ServiceModel\obj\Latest_Release\netstandard2.0\AuthServer.ServiceModel.dll
+C:\Users\OscarCode\Desktop\Emulador de Season 10\Emulator 0.1\src\AuthServer.ServiceModel\obj\Latest_Release\netstandard2.0\AuthServer.ServiceModel.pdb

@@ -1,0 +1,28 @@
+E:\S4 League\Sources\Emulator\source\src\ProudNetSrc\bin\Debug\netstandard2.0\ProudNetSrc.deps.json
+E:\S4 League\Sources\Emulator\source\src\ProudNetSrc\bin\Debug\netstandard2.0\ProudNetSrc.dll
+E:\S4 League\Sources\Emulator\source\src\ProudNetSrc\bin\Debug\netstandard2.0\ProudNetSrc.pdb
+E:\S4 League\Sources\Emulator\source\src\ProudNetSrc\obj\Debug\netstandard2.0\ProudNetSrc.csprojAssemblyReference.cache
+E:\S4 League\Sources\Emulator\source\src\ProudNetSrc\obj\Debug\netstandard2.0\ProudNetSrc.csproj.CoreCompileInputs.cache
+E:\S4 League\Sources\Emulator\source\src\ProudNetSrc\obj\Debug\netstandard2.0\ProudNetSrc.AssemblyInfoInputs.cache
+E:\S4 League\Sources\Emulator\source\src\ProudNetSrc\obj\Debug\netstandard2.0\ProudNetSrc.AssemblyInfo.cs
+E:\S4 League\Sources\Emulator\source\src\ProudNetSrc\obj\Debug\netstandard2.0\ProudNetSrc.dll
+E:\S4 League\Sources\Emulator\source\src\ProudNetSrc\obj\Debug\netstandard2.0\ProudNetSrc.pdb
+E:\S4 League\Sources\Emulator\src\ProudNetSrc\bin\Debug\netstandard2.0\ProudNetSrc.deps.json
+E:\S4 League\Sources\Emulator\src\ProudNetSrc\bin\Debug\netstandard2.0\ProudNetSrc.dll
+E:\S4 League\Sources\Emulator\src\ProudNetSrc\bin\Debug\netstandard2.0\ProudNetSrc.pdb
+E:\S4 League\Sources\Emulator\src\ProudNetSrc\obj\Debug\netstandard2.0\ProudNetSrc.csprojAssemblyReference.cache
+E:\S4 League\Sources\Emulator\src\ProudNetSrc\obj\Debug\netstandard2.0\ProudNetSrc.csproj.CoreCompileInputs.cache
+E:\S4 League\Sources\Emulator\src\ProudNetSrc\obj\Debug\netstandard2.0\ProudNetSrc.AssemblyInfoInputs.cache
+E:\S4 League\Sources\Emulator\src\ProudNetSrc\obj\Debug\netstandard2.0\ProudNetSrc.AssemblyInfo.cs
+E:\S4 League\Sources\Emulator\src\ProudNetSrc\obj\Debug\netstandard2.0\ProudNetSrc.dll
+E:\S4 League\Sources\Emulator\src\ProudNetSrc\obj\Debug\netstandard2.0\ProudNetSrc.pdb
+C:\Users\Oscar ATR\Desktop\Emulador s4 nuevo\Emulator 0.1\src\ProudNetSrc\bin\Debug\netstandard2.0\ProudNetSrc.deps.json
+C:\Users\Oscar ATR\Desktop\Emulador s4 nuevo\Emulator 0.1\src\ProudNetSrc\bin\Debug\netstandard2.0\ProudNetSrc.dll
+C:\Users\Oscar ATR\Desktop\Emulador s4 nuevo\Emulator 0.1\src\ProudNetSrc\bin\Debug\netstandard2.0\ProudNetSrc.pdb
+C:\Users\Oscar ATR\Desktop\Emulador s4 nuevo\Emulator 0.1\src\ProudNetSrc\obj\Debug\netstandard2.0\ProudNetSrc.csproj.AssemblyReference.cache
+C:\Users\Oscar ATR\Desktop\Emulador s4 nuevo\Emulator 0.1\src\ProudNetSrc\obj\Debug\netstandard2.0\ProudNetSrc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oscar ATR\Desktop\Emulador s4 nuevo\Emulator 0.1\src\ProudNetSrc\obj\Debug\netstandard2.0\ProudNetSrc.AssemblyInfoInputs.cache
+C:\Users\Oscar ATR\Desktop\Emulador s4 nuevo\Emulator 0.1\src\ProudNetSrc\obj\Debug\netstandard2.0\ProudNetSrc.AssemblyInfo.cs
+C:\Users\Oscar ATR\Desktop\Emulador s4 nuevo\Emulator 0.1\src\ProudNetSrc\obj\Debug\netstandard2.0\ProudNetSrc.csproj.CoreCompileInputs.cache
+C:\Users\Oscar ATR\Desktop\Emulador s4 nuevo\Emulator 0.1\src\ProudNetSrc\obj\Debug\netstandard2.0\ProudNetSrc.dll
+C:\Users\Oscar ATR\Desktop\Emulador s4 nuevo\Emulator 0.1\src\ProudNetSrc\obj\Debug\netstandard2.0\ProudNetSrc.pdb

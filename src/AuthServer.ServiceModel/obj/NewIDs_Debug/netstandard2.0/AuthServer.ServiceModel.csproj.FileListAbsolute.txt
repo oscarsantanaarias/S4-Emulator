@@ -1,0 +1,13 @@
+C:\Users\Oscar ATR\Desktop\Emulador s4 nuevo\Emulator 0.1\src\AuthServer.ServiceModel\bin\NewIDs_Debug\netstandard2.0\AuthServer.ServiceModel.deps.json
+C:\Users\Oscar ATR\Desktop\Emulador s4 nuevo\Emulator 0.1\src\AuthServer.ServiceModel\bin\NewIDs_Debug\netstandard2.0\AuthServer.ServiceModel.dll
+C:\Users\Oscar ATR\Desktop\Emulador s4 nuevo\Emulator 0.1\src\AuthServer.ServiceModel\bin\NewIDs_Debug\netstandard2.0\AuthServer.ServiceModel.pdb
+C:\Users\Oscar ATR\Desktop\Emulador s4 nuevo\Emulator 0.1\src\AuthServer.ServiceModel\bin\NewIDs_Debug\netstandard2.0\ProudNetSrc.dll
+C:\Users\Oscar ATR\Desktop\Emulador s4 nuevo\Emulator 0.1\src\AuthServer.ServiceModel\bin\NewIDs_Debug\netstandard2.0\ProudNetSrc.pdb
+C:\Users\Oscar ATR\Desktop\Emulador s4 nuevo\Emulator 0.1\src\AuthServer.ServiceModel\obj\NewIDs_Debug\netstandard2.0\AuthServer.ServiceModel.csproj.AssemblyReference.cache
+C:\Users\Oscar ATR\Desktop\Emulador s4 nuevo\Emulator 0.1\src\AuthServer.ServiceModel\obj\NewIDs_Debug\netstandard2.0\AuthServer.ServiceModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oscar ATR\Desktop\Emulador s4 nuevo\Emulator 0.1\src\AuthServer.ServiceModel\obj\NewIDs_Debug\netstandard2.0\AuthServer.ServiceModel.AssemblyInfoInputs.cache
+C:\Users\Oscar ATR\Desktop\Emulador s4 nuevo\Emulator 0.1\src\AuthServer.ServiceModel\obj\NewIDs_Debug\netstandard2.0\AuthServer.ServiceModel.AssemblyInfo.cs
+C:\Users\Oscar ATR\Desktop\Emulador s4 nuevo\Emulator 0.1\src\AuthServer.ServiceModel\obj\NewIDs_Debug\netstandard2.0\AuthServer.ServiceModel.csproj.CoreCompileInputs.cache
+C:\Users\Oscar ATR\Desktop\Emulador s4 nuevo\Emulator 0.1\src\AuthServer.ServiceModel\obj\NewIDs_Debug\netstandard2.0\AuthServ.BAC6B421.Up2Date
+C:\Users\Oscar ATR\Desktop\Emulador s4 nuevo\Emulator 0.1\src\AuthServer.ServiceModel\obj\NewIDs_Debug\netstandard2.0\AuthServer.ServiceModel.dll
+C:\Users\Oscar ATR\Desktop\Emulador s4 nuevo\Emulator 0.1\src\AuthServer.ServiceModel\obj\NewIDs_Debug\netstandard2.0\AuthServer.ServiceModel.pdb

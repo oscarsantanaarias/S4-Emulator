@@ -1,0 +1,10 @@
+C:\Users\Oscar ATR\Desktop\Emulador s4 nuevo\Emulator 0.1\src\NeoNetsphere.Database\bin\NewIDs_Debug\netstandard2.0\NeoNetsphere.Database.deps.json
+C:\Users\Oscar ATR\Desktop\Emulador s4 nuevo\Emulator 0.1\src\NeoNetsphere.Database\bin\NewIDs_Debug\netstandard2.0\NeoNetsphere.Database.dll
+C:\Users\Oscar ATR\Desktop\Emulador s4 nuevo\Emulator 0.1\src\NeoNetsphere.Database\bin\NewIDs_Debug\netstandard2.0\NeoNetsphere.Database.pdb
+C:\Users\Oscar ATR\Desktop\Emulador s4 nuevo\Emulator 0.1\src\NeoNetsphere.Database\obj\NewIDs_Debug\netstandard2.0\NeoNetsphere.Database.csproj.AssemblyReference.cache
+C:\Users\Oscar ATR\Desktop\Emulador s4 nuevo\Emulator 0.1\src\NeoNetsphere.Database\obj\NewIDs_Debug\netstandard2.0\NeoNetsphere.Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oscar ATR\Desktop\Emulador s4 nuevo\Emulator 0.1\src\NeoNetsphere.Database\obj\NewIDs_Debug\netstandard2.0\NeoNetsphere.Database.AssemblyInfoInputs.cache
+C:\Users\Oscar ATR\Desktop\Emulador s4 nuevo\Emulator 0.1\src\NeoNetsphere.Database\obj\NewIDs_Debug\netstandard2.0\NeoNetsphere.Database.AssemblyInfo.cs
+C:\Users\Oscar ATR\Desktop\Emulador s4 nuevo\Emulator 0.1\src\NeoNetsphere.Database\obj\NewIDs_Debug\netstandard2.0\NeoNetsphere.Database.csproj.CoreCompileInputs.cache
+C:\Users\Oscar ATR\Desktop\Emulador s4 nuevo\Emulator 0.1\src\NeoNetsphere.Database\obj\NewIDs_Debug\netstandard2.0\NeoNetsphere.Database.dll
+C:\Users\Oscar ATR\Desktop\Emulador s4 nuevo\Emulator 0.1\src\NeoNetsphere.Database\obj\NewIDs_Debug\netstandard2.0\NeoNetsphere.Database.pdb

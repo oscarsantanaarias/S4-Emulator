@@ -1,0 +1,9 @@
+E:\S4 League\Sources\Emulator\source\src\NeoNetsphere.Database\bin\OldIDs_Debug\netstandard2.0\NeoNetsphere.Database.deps.json
+E:\S4 League\Sources\Emulator\source\src\NeoNetsphere.Database\bin\OldIDs_Debug\netstandard2.0\NeoNetsphere.Database.dll
+E:\S4 League\Sources\Emulator\source\src\NeoNetsphere.Database\bin\OldIDs_Debug\netstandard2.0\NeoNetsphere.Database.pdb
+E:\S4 League\Sources\Emulator\source\src\NeoNetsphere.Database\obj\OldIDs_Debug\netstandard2.0\NeoNetsphere.Database.csprojAssemblyReference.cache
+E:\S4 League\Sources\Emulator\source\src\NeoNetsphere.Database\obj\OldIDs_Debug\netstandard2.0\NeoNetsphere.Database.csproj.CoreCompileInputs.cache
+E:\S4 League\Sources\Emulator\source\src\NeoNetsphere.Database\obj\OldIDs_Debug\netstandard2.0\NeoNetsphere.Database.AssemblyInfoInputs.cache
+E:\S4 League\Sources\Emulator\source\src\NeoNetsphere.Database\obj\OldIDs_Debug\netstandard2.0\NeoNetsphere.Database.AssemblyInfo.cs
+E:\S4 League\Sources\Emulator\source\src\NeoNetsphere.Database\obj\OldIDs_Debug\netstandard2.0\NeoNetsphere.Database.dll
+E:\S4 League\Sources\Emulator\source\src\NeoNetsphere.Database\obj\OldIDs_Debug\netstandard2.0\NeoNetsphere.Database.pdb

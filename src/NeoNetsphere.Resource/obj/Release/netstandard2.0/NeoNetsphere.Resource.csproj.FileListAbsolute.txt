@@ -1,0 +1,100 @@
+E:\S4 League\Sources\Emulator\source\src\NeoNetsphere.Resource\bin\Release\netstandard2.0\miniLzo_x64.dll
+E:\S4 League\Sources\Emulator\source\src\NeoNetsphere.Resource\bin\Release\netstandard2.0\miniLzo_x86.dll
+E:\S4 League\Sources\Emulator\source\src\NeoNetsphere.Resource\bin\Release\netstandard2.0\liblzo.so
+E:\S4 League\Sources\Emulator\source\src\NeoNetsphere.Resource\bin\Release\netstandard2.0\NeoNetsphere.Resource.deps.json
+E:\S4 League\Sources\Emulator\source\src\NeoNetsphere.Resource\bin\Release\netstandard2.0\NeoNetsphere.Resource.dll
+E:\S4 League\Sources\Emulator\source\src\NeoNetsphere.Resource\bin\Release\netstandard2.0\NeoNetsphere.Resource.pdb
+E:\S4 League\Sources\Emulator\source\src\NeoNetsphere.Resource\bin\Release\netstandard2.0\SharpLzo.dll
+E:\S4 League\Sources\Emulator\source\src\NeoNetsphere.Resource\obj\Release\netstandard2.0\NeoNetsphere.Resource.csprojAssemblyReference.cache
+E:\S4 League\Sources\Emulator\source\src\NeoNetsphere.Resource\obj\Release\netstandard2.0\NeoNetsphere.Resource.csproj.CoreCompileInputs.cache
+E:\S4 League\Sources\Emulator\source\src\NeoNetsphere.Resource\obj\Release\netstandard2.0\NeoNetsphere.Resource.AssemblyInfoInputs.cache
+E:\S4 League\Sources\Emulator\source\src\NeoNetsphere.Resource\obj\Release\netstandard2.0\NeoNetsphere.Resource.AssemblyInfo.cs
+E:\S4 League\Sources\Emulator\source\src\NeoNetsphere.Resource\obj\Release\netstandard2.0\NeoNetsphere.Resource.csproj.CopyComplete
+E:\S4 League\Sources\Emulator\source\src\NeoNetsphere.Resource\obj\Release\netstandard2.0\NeoNetsphere.Resource.dll
+E:\S4 League\Sources\Emulator\source\src\NeoNetsphere.Resource\obj\Release\netstandard2.0\NeoNetsphere.Resource.pdb
+E:\S4 League\Sources\Emulator\src\NeoNetsphere.Resource\bin\Release\netstandard2.0\miniLzo_x64.dll
+E:\S4 League\Sources\Emulator\src\NeoNetsphere.Resource\bin\Release\netstandard2.0\miniLzo_x86.dll
+E:\S4 League\Sources\Emulator\src\NeoNetsphere.Resource\bin\Release\netstandard2.0\liblzo.so
+E:\S4 League\Sources\Emulator\src\NeoNetsphere.Resource\bin\Release\netstandard2.0\NeoNetsphere.Resource.deps.json
+E:\S4 League\Sources\Emulator\src\NeoNetsphere.Resource\bin\Release\netstandard2.0\NeoNetsphere.Resource.dll
+E:\S4 League\Sources\Emulator\src\NeoNetsphere.Resource\bin\Release\netstandard2.0\NeoNetsphere.Resource.pdb
+E:\S4 League\Sources\Emulator\src\NeoNetsphere.Resource\bin\Release\netstandard2.0\SharpLzo.dll
+E:\S4 League\Sources\Emulator\src\NeoNetsphere.Resource\obj\Release\netstandard2.0\NeoNetsphere.Resource.csprojAssemblyReference.cache
+E:\S4 League\Sources\Emulator\src\NeoNetsphere.Resource\obj\Release\netstandard2.0\NeoNetsphere.Resource.csproj.CoreCompileInputs.cache
+E:\S4 League\Sources\Emulator\src\NeoNetsphere.Resource\obj\Release\netstandard2.0\NeoNetsphere.Resource.AssemblyInfoInputs.cache
+E:\S4 League\Sources\Emulator\src\NeoNetsphere.Resource\obj\Release\netstandard2.0\NeoNetsphere.Resource.AssemblyInfo.cs
+E:\S4 League\Sources\Emulator\src\NeoNetsphere.Resource\obj\Release\netstandard2.0\NeoNetsphere.Resource.csproj.CopyComplete
+E:\S4 League\Sources\Emulator\src\NeoNetsphere.Resource\obj\Release\netstandard2.0\NeoNetsphere.Resource.dll
+E:\S4 League\Sources\Emulator\src\NeoNetsphere.Resource\obj\Release\netstandard2.0\NeoNetsphere.Resource.pdb
+E:\S4 League\Season 9\Sources\Emulator\src\NeoNetsphere.Resource\bin\Release\netstandard2.0\miniLzo_x64.dll
+E:\S4 League\Season 9\Sources\Emulator\src\NeoNetsphere.Resource\bin\Release\netstandard2.0\miniLzo_x86.dll
+E:\S4 League\Season 9\Sources\Emulator\src\NeoNetsphere.Resource\bin\Release\netstandard2.0\liblzo.so
+E:\S4 League\Season 9\Sources\Emulator\src\NeoNetsphere.Resource\bin\Release\netstandard2.0\NeoNetsphere.Resource.deps.json
+E:\S4 League\Season 9\Sources\Emulator\src\NeoNetsphere.Resource\bin\Release\netstandard2.0\NeoNetsphere.Resource.dll
+E:\S4 League\Season 9\Sources\Emulator\src\NeoNetsphere.Resource\bin\Release\netstandard2.0\NeoNetsphere.Resource.pdb
+E:\S4 League\Season 9\Sources\Emulator\src\NeoNetsphere.Resource\bin\Release\netstandard2.0\SharpLzo.dll
+E:\S4 League\Season 9\Sources\Emulator\src\NeoNetsphere.Resource\obj\Release\netstandard2.0\NeoNetsphere.Resource.csprojAssemblyReference.cache
+E:\S4 League\Season 9\Sources\Emulator\src\NeoNetsphere.Resource\obj\Release\netstandard2.0\NeoNetsphere.Resource.csproj.CoreCompileInputs.cache
+E:\S4 League\Season 9\Sources\Emulator\src\NeoNetsphere.Resource\obj\Release\netstandard2.0\NeoNetsphere.Resource.AssemblyInfoInputs.cache
+E:\S4 League\Season 9\Sources\Emulator\src\NeoNetsphere.Resource\obj\Release\netstandard2.0\NeoNetsphere.Resource.AssemblyInfo.cs
+E:\S4 League\Season 9\Sources\Emulator\src\NeoNetsphere.Resource\obj\Release\netstandard2.0\NeoNetsphere.Resource.csproj.CopyComplete
+E:\S4 League\Season 9\Sources\Emulator\src\NeoNetsphere.Resource\obj\Release\netstandard2.0\NeoNetsphere.Resource.dll
+E:\S4 League\Season 9\Sources\Emulator\src\NeoNetsphere.Resource\obj\Release\netstandard2.0\NeoNetsphere.Resource.pdb
+E:\S4 League\Season 9\Sources\Emulator -Raw\src\NeoNetsphere.Resource\bin\Release\netstandard2.0\miniLzo_x64.dll
+E:\S4 League\Season 9\Sources\Emulator -Raw\src\NeoNetsphere.Resource\bin\Release\netstandard2.0\miniLzo_x86.dll
+E:\S4 League\Season 9\Sources\Emulator -Raw\src\NeoNetsphere.Resource\bin\Release\netstandard2.0\liblzo.so
+E:\S4 League\Season 9\Sources\Emulator -Raw\src\NeoNetsphere.Resource\bin\Release\netstandard2.0\NeoNetsphere.Resource.deps.json
+E:\S4 League\Season 9\Sources\Emulator -Raw\src\NeoNetsphere.Resource\bin\Release\netstandard2.0\NeoNetsphere.Resource.dll
+E:\S4 League\Season 9\Sources\Emulator -Raw\src\NeoNetsphere.Resource\bin\Release\netstandard2.0\NeoNetsphere.Resource.pdb
+E:\S4 League\Season 9\Sources\Emulator -Raw\src\NeoNetsphere.Resource\bin\Release\netstandard2.0\SharpLzo.dll
+E:\S4 League\Season 9\Sources\Emulator -Raw\src\NeoNetsphere.Resource\obj\Release\netstandard2.0\NeoNetsphere.Resource.csprojAssemblyReference.cache
+E:\S4 League\Season 9\Sources\Emulator -Raw\src\NeoNetsphere.Resource\obj\Release\netstandard2.0\NeoNetsphere.Resource.csproj.CoreCompileInputs.cache
+E:\S4 League\Season 9\Sources\Emulator -Raw\src\NeoNetsphere.Resource\obj\Release\netstandard2.0\NeoNetsphere.Resource.AssemblyInfoInputs.cache
+E:\S4 League\Season 9\Sources\Emulator -Raw\src\NeoNetsphere.Resource\obj\Release\netstandard2.0\NeoNetsphere.Resource.AssemblyInfo.cs
+E:\S4 League\Season 9\Sources\Emulator -Raw\src\NeoNetsphere.Resource\obj\Release\netstandard2.0\NeoNetsphere.Resource.csproj.CopyComplete
+E:\S4 League\Season 9\Sources\Emulator -Raw\src\NeoNetsphere.Resource\obj\Release\netstandard2.0\NeoNetsphere.Resource.dll
+E:\S4 League\Season 9\Sources\Emulator -Raw\src\NeoNetsphere.Resource\obj\Release\netstandard2.0\NeoNetsphere.Resource.pdb
+F:\cosas de origen\EMULADOR\Emulator(test2)\src\NeoNetsphere.Resource\bin\Release\netstandard2.0\miniLzo_x64.dll
+F:\cosas de origen\EMULADOR\Emulator(test2)\src\NeoNetsphere.Resource\bin\Release\netstandard2.0\miniLzo_x86.dll
+F:\cosas de origen\EMULADOR\Emulator(test2)\src\NeoNetsphere.Resource\bin\Release\netstandard2.0\liblzo.so
+F:\cosas de origen\EMULADOR\Emulator(test2)\src\NeoNetsphere.Resource\bin\Release\netstandard2.0\NeoNetsphere.Resource.deps.json
+F:\cosas de origen\EMULADOR\Emulator(test2)\src\NeoNetsphere.Resource\bin\Release\netstandard2.0\NeoNetsphere.Resource.dll
+F:\cosas de origen\EMULADOR\Emulator(test2)\src\NeoNetsphere.Resource\bin\Release\netstandard2.0\NeoNetsphere.Resource.pdb
+F:\cosas de origen\EMULADOR\Emulator(test2)\src\NeoNetsphere.Resource\bin\Release\netstandard2.0\SharpLzo.dll
+F:\cosas de origen\EMULADOR\Emulator(test2)\src\NeoNetsphere.Resource\obj\Release\netstandard2.0\NeoNetsphere.Resource.csproj.AssemblyReference.cache
+F:\cosas de origen\EMULADOR\Emulator(test2)\src\NeoNetsphere.Resource\obj\Release\netstandard2.0\NeoNetsphere.Resource.GeneratedMSBuildEditorConfig.editorconfig
+F:\cosas de origen\EMULADOR\Emulator(test2)\src\NeoNetsphere.Resource\obj\Release\netstandard2.0\NeoNetsphere.Resource.AssemblyInfoInputs.cache
+F:\cosas de origen\EMULADOR\Emulator(test2)\src\NeoNetsphere.Resource\obj\Release\netstandard2.0\NeoNetsphere.Resource.AssemblyInfo.cs
+F:\cosas de origen\EMULADOR\Emulator(test2)\src\NeoNetsphere.Resource\obj\Release\netstandard2.0\NeoNetsphere.Resource.csproj.CoreCompileInputs.cache
+F:\cosas de origen\EMULADOR\Emulator(test2)\src\NeoNetsphere.Resource\obj\Release\netstandard2.0\NeoNetsphere.Resource.dll
+F:\cosas de origen\EMULADOR\Emulator(test2)\src\NeoNetsphere.Resource\obj\Release\netstandard2.0\NeoNetsphere.Resource.pdb
+C:\Users\OscarCode\Desktop\Emulador S4 season 8 - Copy - Copy (2) - Copy\Emulator 0.1\src\NeoNetsphere.Resource\bin\Release\netstandard2.0\miniLzo_x64.dll
+C:\Users\OscarCode\Desktop\Emulador S4 season 8 - Copy - Copy (2) - Copy\Emulator 0.1\src\NeoNetsphere.Resource\bin\Release\netstandard2.0\miniLzo_x86.dll
+C:\Users\OscarCode\Desktop\Emulador S4 season 8 - Copy - Copy (2) - Copy\Emulator 0.1\src\NeoNetsphere.Resource\bin\Release\netstandard2.0\liblzo.so
+C:\Users\OscarCode\Desktop\Emulador S4 season 8 - Copy - Copy (2) - Copy\Emulator 0.1\src\NeoNetsphere.Resource\bin\Release\netstandard2.0\NeoNetsphere.Resource.deps.json
+C:\Users\OscarCode\Desktop\Emulador S4 season 8 - Copy - Copy (2) - Copy\Emulator 0.1\src\NeoNetsphere.Resource\bin\Release\netstandard2.0\NeoNetsphere.Resource.dll
+C:\Users\OscarCode\Desktop\Emulador S4 season 8 - Copy - Copy (2) - Copy\Emulator 0.1\src\NeoNetsphere.Resource\bin\Release\netstandard2.0\NeoNetsphere.Resource.pdb
+C:\Users\OscarCode\Desktop\Emulador S4 season 8 - Copy - Copy (2) - Copy\Emulator 0.1\src\NeoNetsphere.Resource\bin\Release\netstandard2.0\SharpLzo.dll
+C:\Users\OscarCode\Desktop\Emulador S4 season 8 - Copy - Copy (2) - Copy\Emulator 0.1\src\NeoNetsphere.Resource\obj\Release\netstandard2.0\NeoNetsphere.Resource.csproj.AssemblyReference.cache
+C:\Users\OscarCode\Desktop\Emulador S4 season 8 - Copy - Copy (2) - Copy\Emulator 0.1\src\NeoNetsphere.Resource\obj\Release\netstandard2.0\NeoNetsphere.Resource.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OscarCode\Desktop\Emulador S4 season 8 - Copy - Copy (2) - Copy\Emulator 0.1\src\NeoNetsphere.Resource\obj\Release\netstandard2.0\NeoNetsphere.Resource.AssemblyInfoInputs.cache
+C:\Users\OscarCode\Desktop\Emulador S4 season 8 - Copy - Copy (2) - Copy\Emulator 0.1\src\NeoNetsphere.Resource\obj\Release\netstandard2.0\NeoNetsphere.Resource.AssemblyInfo.cs
+C:\Users\OscarCode\Desktop\Emulador S4 season 8 - Copy - Copy (2) - Copy\Emulator 0.1\src\NeoNetsphere.Resource\obj\Release\netstandard2.0\NeoNetsphere.Resource.csproj.CoreCompileInputs.cache
+C:\Users\OscarCode\Desktop\Emulador S4 season 8 - Copy - Copy (2) - Copy\Emulator 0.1\src\NeoNetsphere.Resource\obj\Release\netstandard2.0\NeoNetsp.FF2AA476.Up2Date
+C:\Users\OscarCode\Desktop\Emulador S4 season 8 - Copy - Copy (2) - Copy\Emulator 0.1\src\NeoNetsphere.Resource\obj\Release\netstandard2.0\NeoNetsphere.Resource.dll
+C:\Users\OscarCode\Desktop\Emulador S4 season 8 - Copy - Copy (2) - Copy\Emulator 0.1\src\NeoNetsphere.Resource\obj\Release\netstandard2.0\NeoNetsphere.Resource.pdb
+C:\Users\OscarCode\Desktop\Emulador de Season 10\Emulator 0.1\src\NeoNetsphere.Resource\bin\Release\netstandard2.0\miniLzo_x64.dll
+C:\Users\OscarCode\Desktop\Emulador de Season 10\Emulator 0.1\src\NeoNetsphere.Resource\bin\Release\netstandard2.0\miniLzo_x86.dll
+C:\Users\OscarCode\Desktop\Emulador de Season 10\Emulator 0.1\src\NeoNetsphere.Resource\bin\Release\netstandard2.0\liblzo.so
+C:\Users\OscarCode\Desktop\Emulador de Season 10\Emulator 0.1\src\NeoNetsphere.Resource\bin\Release\netstandard2.0\NeoNetsphere.Resource.deps.json
+C:\Users\OscarCode\Desktop\Emulador de Season 10\Emulator 0.1\src\NeoNetsphere.Resource\bin\Release\netstandard2.0\NeoNetsphere.Resource.dll
+C:\Users\OscarCode\Desktop\Emulador de Season 10\Emulator 0.1\src\NeoNetsphere.Resource\bin\Release\netstandard2.0\NeoNetsphere.Resource.pdb
+C:\Users\OscarCode\Desktop\Emulador de Season 10\Emulator 0.1\src\NeoNetsphere.Resource\bin\Release\netstandard2.0\SharpLzo.dll
+C:\Users\OscarCode\Desktop\Emulador de Season 10\Emulator 0.1\src\NeoNetsphere.Resource\obj\Release\netstandard2.0\NeoNetsphere.Resource.csproj.AssemblyReference.cache
+C:\Users\OscarCode\Desktop\Emulador de Season 10\Emulator 0.1\src\NeoNetsphere.Resource\obj\Release\netstandard2.0\NeoNetsphere.Resource.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OscarCode\Desktop\Emulador de Season 10\Emulator 0.1\src\NeoNetsphere.Resource\obj\Release\netstandard2.0\NeoNetsphere.Resource.AssemblyInfoInputs.cache
+C:\Users\OscarCode\Desktop\Emulador de Season 10\Emulator 0.1\src\NeoNetsphere.Resource\obj\Release\netstandard2.0\NeoNetsphere.Resource.AssemblyInfo.cs
+C:\Users\OscarCode\Desktop\Emulador de Season 10\Emulator 0.1\src\NeoNetsphere.Resource\obj\Release\netstandard2.0\NeoNetsphere.Resource.csproj.CoreCompileInputs.cache
+C:\Users\OscarCode\Desktop\Emulador de Season 10\Emulator 0.1\src\NeoNetsphere.Resource\obj\Release\netstandard2.0\NeoNetsp.FF2AA476.Up2Date
+C:\Users\OscarCode\Desktop\Emulador de Season 10\Emulator 0.1\src\NeoNetsphere.Resource\obj\Release\netstandard2.0\NeoNetsphere.Resource.dll
+C:\Users\OscarCode\Desktop\Emulador de Season 10\Emulator 0.1\src\NeoNetsphere.Resource\obj\Release\netstandard2.0\NeoNetsphere.Resource.pdb

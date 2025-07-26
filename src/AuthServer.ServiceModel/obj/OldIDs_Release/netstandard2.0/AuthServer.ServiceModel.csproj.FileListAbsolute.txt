@@ -1,0 +1,13 @@
+C:\Users\OscarCode\Desktop\Emulador de Season 10\Emulator 0.1\src\AuthServer.ServiceModel\bin\OldIDs_Release\netstandard2.0\AuthServer.ServiceModel.deps.json
+C:\Users\OscarCode\Desktop\Emulador de Season 10\Emulator 0.1\src\AuthServer.ServiceModel\bin\OldIDs_Release\netstandard2.0\AuthServer.ServiceModel.dll
+C:\Users\OscarCode\Desktop\Emulador de Season 10\Emulator 0.1\src\AuthServer.ServiceModel\bin\OldIDs_Release\netstandard2.0\AuthServer.ServiceModel.pdb
+C:\Users\OscarCode\Desktop\Emulador de Season 10\Emulator 0.1\src\AuthServer.ServiceModel\bin\OldIDs_Release\netstandard2.0\ProudNetSrc.dll
+C:\Users\OscarCode\Desktop\Emulador de Season 10\Emulator 0.1\src\AuthServer.ServiceModel\bin\OldIDs_Release\netstandard2.0\ProudNetSrc.pdb
+C:\Users\OscarCode\Desktop\Emulador de Season 10\Emulator 0.1\src\AuthServer.ServiceModel\obj\OldIDs_Release\netstandard2.0\AuthServer.ServiceModel.csproj.AssemblyReference.cache
+C:\Users\OscarCode\Desktop\Emulador de Season 10\Emulator 0.1\src\AuthServer.ServiceModel\obj\OldIDs_Release\netstandard2.0\AuthServer.ServiceModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OscarCode\Desktop\Emulador de Season 10\Emulator 0.1\src\AuthServer.ServiceModel\obj\OldIDs_Release\netstandard2.0\AuthServer.ServiceModel.AssemblyInfoInputs.cache
+C:\Users\OscarCode\Desktop\Emulador de Season 10\Emulator 0.1\src\AuthServer.ServiceModel\obj\OldIDs_Release\netstandard2.0\AuthServer.ServiceModel.AssemblyInfo.cs
+C:\Users\OscarCode\Desktop\Emulador de Season 10\Emulator 0.1\src\AuthServer.ServiceModel\obj\OldIDs_Release\netstandard2.0\AuthServer.ServiceModel.csproj.CoreCompileInputs.cache
+C:\Users\OscarCode\Desktop\Emulador de Season 10\Emulator 0.1\src\AuthServer.ServiceModel\obj\OldIDs_Release\netstandard2.0\AuthServ.BAC6B421.Up2Date
+C:\Users\OscarCode\Desktop\Emulador de Season 10\Emulator 0.1\src\AuthServer.ServiceModel\obj\OldIDs_Release\netstandard2.0\AuthServer.ServiceModel.dll
+C:\Users\OscarCode\Desktop\Emulador de Season 10\Emulator 0.1\src\AuthServer.ServiceModel\obj\OldIDs_Release\netstandard2.0\AuthServer.ServiceModel.pdb

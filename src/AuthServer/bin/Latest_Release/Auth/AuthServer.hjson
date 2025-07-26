@@ -1,0 +1,31 @@
+{
+  listener: 127.0.0.1:28002
+  max_connections: 150
+  auth_api:
+  {
+    listener: 127.0.0.1:28001
+    region: EU-NETSPHERE
+    blocked_hwids: []
+  }
+  api:
+  {
+    api_key: key-1218597468
+    listener: 127.0.0.1:27000
+    serverlist_timeout: 30000
+  }
+  noob_mode: false
+  auto_register: true
+  database:
+  {
+    engine: MySQL
+    auth:
+    {
+      filename: ""
+      host: localhost
+      port: 3306
+      username: test
+      password: test
+      database: test
+    }
+  }
+}

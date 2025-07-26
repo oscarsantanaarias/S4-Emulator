@@ -1,0 +1,1543 @@
+2025-04-30 11:32:47.940 -04:00 [INF] Initializing...
+2025-04-30 11:32:48.268 -04:00 [INF] Starting server...
+2025-04-30 11:32:48.273 -04:00 [INF] Cached xbnfile: XBN//ConstantInfo.xbn
+2025-04-30 11:32:48.273 -04:00 [INF] Cached xbnfile: XBN//Actions.xbn
+2025-04-30 11:32:48.274 -04:00 [INF] Cached xbnfile: XBN//Weapons.xbn
+2025-04-30 11:32:48.274 -04:00 [INF] Cached xbnfile: XBN//Effects.xbn
+2025-04-30 11:32:48.275 -04:00 [INF] Cached xbnfile: XBN//EffectMatch.xbn
+2025-04-30 11:32:48.275 -04:00 [INF] Cached xbnfile: XBN//EnchantData.xbn
+2025-04-30 11:32:48.276 -04:00 [INF] Cached xbnfile: XBN//EquipLimit.xbn
+2025-04-30 11:32:48.277 -04:00 [INF] Cached xbnfile: XBN//PveList.xbn
+2025-04-30 11:32:48.277 -04:00 [INF] Cached xbnfile: XBN//MonsterWaveList.xbn
+2025-04-30 11:32:48.277 -04:00 [INF] Cached xbnfile: XBN//EsperActionlist.xbn
+2025-04-30 11:32:48.278 -04:00 [INF] Cached xbnfile: XBN//WeaponTypeReloadInfo.xbn
+2025-04-30 11:32:48.278 -04:00 [INF] Cached xbnfile: XBN//RangeLimit.xbn
+2025-04-30 11:32:48.396 -04:00 [INF] Ready for connections!
+2025-04-30 11:32:49.222 -04:00 [INF] Added server with valid apikey: S4 Dominicano(1)
+2025-04-30 11:32:50.835 -04:00 [INF] AuthAPI login from 26.61.235.105:61298, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-04-30 11:32:50.840 -04:00 [ERR] Invalid username for  eloscar23 / 26.61.235.105:61298
+2025-04-30 11:32:52.447 -04:00 [INF] AuthAPI login from 26.61.235.105:61299, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-04-30 11:32:52.448 -04:00 [ERR] Invalid username for  eloscar23 / 26.61.235.105:61299
+2025-04-30 12:24:22.778 -04:00 [INF] Initializing...
+2025-04-30 12:24:23.094 -04:00 [INF] Starting server...
+2025-04-30 12:24:23.097 -04:00 [INF] Cached xbnfile: XBN//ConstantInfo.xbn
+2025-04-30 12:24:23.098 -04:00 [INF] Cached xbnfile: XBN//Actions.xbn
+2025-04-30 12:24:23.099 -04:00 [INF] Cached xbnfile: XBN//Weapons.xbn
+2025-04-30 12:24:23.099 -04:00 [INF] Cached xbnfile: XBN//Effects.xbn
+2025-04-30 12:24:23.100 -04:00 [INF] Cached xbnfile: XBN//EffectMatch.xbn
+2025-04-30 12:24:23.100 -04:00 [INF] Cached xbnfile: XBN//EnchantData.xbn
+2025-04-30 12:24:23.101 -04:00 [INF] Cached xbnfile: XBN//EquipLimit.xbn
+2025-04-30 12:24:23.101 -04:00 [INF] Cached xbnfile: XBN//PveList.xbn
+2025-04-30 12:24:23.102 -04:00 [INF] Cached xbnfile: XBN//MonsterWaveList.xbn
+2025-04-30 12:24:23.102 -04:00 [INF] Cached xbnfile: XBN//EsperActionlist.xbn
+2025-04-30 12:24:23.103 -04:00 [INF] Cached xbnfile: XBN//WeaponTypeReloadInfo.xbn
+2025-04-30 12:24:23.103 -04:00 [INF] Cached xbnfile: XBN//RangeLimit.xbn
+2025-04-30 12:24:23.223 -04:00 [INF] Ready for connections!
+2025-04-30 12:24:24.191 -04:00 [INF] Added server with valid apikey: S4 Dominicano(1)
+2025-04-30 12:24:52.426 -04:00 [INF] AuthAPI login from 26.61.235.105:50902, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-04-30 12:24:52.539 -04:00 [INF] AuthAPI login success for eloscar23
+2025-04-30 12:25:05.320 -04:00 [INF] Login from 26.61.235.105
+2025-04-30 12:25:05.323 -04:00 [INF] Login success for eloscar23
+2025-04-30 14:07:18.277 -04:00 [INF] Initializing...
+2025-04-30 14:07:18.583 -04:00 [INF] Starting server...
+2025-04-30 14:07:18.587 -04:00 [INF] Cached xbnfile: XBN//ConstantInfo.xbn
+2025-04-30 14:07:18.587 -04:00 [INF] Cached xbnfile: XBN//Actions.xbn
+2025-04-30 14:07:18.588 -04:00 [INF] Cached xbnfile: XBN//Weapons.xbn
+2025-04-30 14:07:18.588 -04:00 [INF] Cached xbnfile: XBN//Effects.xbn
+2025-04-30 14:07:18.589 -04:00 [INF] Cached xbnfile: XBN//EffectMatch.xbn
+2025-04-30 14:07:18.589 -04:00 [INF] Cached xbnfile: XBN//EnchantData.xbn
+2025-04-30 14:07:18.589 -04:00 [INF] Cached xbnfile: XBN//EquipLimit.xbn
+2025-04-30 14:07:18.590 -04:00 [INF] Cached xbnfile: XBN//PveList.xbn
+2025-04-30 14:07:18.590 -04:00 [INF] Cached xbnfile: XBN//MonsterWaveList.xbn
+2025-04-30 14:07:18.590 -04:00 [INF] Cached xbnfile: XBN//EsperActionlist.xbn
+2025-04-30 14:07:18.591 -04:00 [INF] Cached xbnfile: XBN//WeaponTypeReloadInfo.xbn
+2025-04-30 14:07:18.591 -04:00 [INF] Cached xbnfile: XBN//RangeLimit.xbn
+2025-04-30 14:07:18.704 -04:00 [INF] Ready for connections!
+2025-04-30 14:07:21.607 -04:00 [INF] Added server with valid apikey: S4 Dominicano(1)
+2025-04-30 14:07:25.060 -04:00 [INF] AuthAPI login from 26.61.235.105:52454, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-04-30 14:07:25.167 -04:00 [INF] AuthAPI login success for eloscar23
+2025-04-30 14:07:32.754 -04:00 [INF] Login from 26.61.235.105
+2025-04-30 14:07:32.757 -04:00 [INF] Login success for eloscar23
+2025-04-30 14:46:33.670 -04:00 [INF] Initializing...
+2025-04-30 14:46:34.013 -04:00 [INF] Starting server...
+2025-04-30 14:46:34.017 -04:00 [INF] Cached xbnfile: XBN//ConstantInfo.xbn
+2025-04-30 14:46:34.018 -04:00 [INF] Cached xbnfile: XBN//Actions.xbn
+2025-04-30 14:46:34.019 -04:00 [INF] Cached xbnfile: XBN//Weapons.xbn
+2025-04-30 14:46:34.020 -04:00 [INF] Cached xbnfile: XBN//Effects.xbn
+2025-04-30 14:46:34.021 -04:00 [INF] Cached xbnfile: XBN//EffectMatch.xbn
+2025-04-30 14:46:34.022 -04:00 [INF] Cached xbnfile: XBN//EnchantData.xbn
+2025-04-30 14:46:34.023 -04:00 [INF] Cached xbnfile: XBN//EquipLimit.xbn
+2025-04-30 14:46:34.024 -04:00 [INF] Cached xbnfile: XBN//PveList.xbn
+2025-04-30 14:46:34.025 -04:00 [INF] Cached xbnfile: XBN//MonsterWaveList.xbn
+2025-04-30 14:46:34.025 -04:00 [INF] Cached xbnfile: XBN//EsperActionlist.xbn
+2025-04-30 14:46:34.026 -04:00 [INF] Cached xbnfile: XBN//WeaponTypeReloadInfo.xbn
+2025-04-30 14:46:34.027 -04:00 [INF] Cached xbnfile: XBN//RangeLimit.xbn
+2025-04-30 14:46:34.176 -04:00 [INF] Ready for connections!
+2025-04-30 14:46:34.675 -04:00 [INF] Added server with valid apikey: S4 Dominicano(1)
+2025-04-30 14:46:43.975 -04:00 [INF] AuthAPI login from 26.61.235.105:62830, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-04-30 14:46:44.098 -04:00 [INF] AuthAPI login success for eloscar23
+2025-04-30 14:46:57.100 -04:00 [INF] Login from 26.61.235.105
+2025-04-30 14:46:57.103 -04:00 [INF] Login success for eloscar23
+2025-04-30 14:51:42.087 -04:00 [INF] AuthAPI login from 26.61.235.105:63031, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-04-30 14:51:42.112 -04:00 [INF] AuthAPI login success for eloscar23
+2025-04-30 14:51:53.584 -04:00 [INF] Login from 26.61.235.105
+2025-04-30 14:51:53.586 -04:00 [INF] Login success for eloscar23
+2025-04-30 15:30:36.883 -04:00 [INF] Session login from 26.61.235.105
+2025-04-30 15:30:36.885 -04:00 [INF] Login success for eloscar23
+2025-04-30 16:03:38.459 -04:00 [INF] Initializing...
+2025-04-30 16:03:38.795 -04:00 [INF] Starting server...
+2025-04-30 16:03:38.799 -04:00 [INF] Cached xbnfile: XBN//ConstantInfo.xbn
+2025-04-30 16:03:38.800 -04:00 [INF] Cached xbnfile: XBN//Actions.xbn
+2025-04-30 16:03:38.800 -04:00 [INF] Cached xbnfile: XBN//Weapons.xbn
+2025-04-30 16:03:38.801 -04:00 [INF] Cached xbnfile: XBN//Effects.xbn
+2025-04-30 16:03:38.802 -04:00 [INF] Cached xbnfile: XBN//EffectMatch.xbn
+2025-04-30 16:03:38.803 -04:00 [INF] Cached xbnfile: XBN//EnchantData.xbn
+2025-04-30 16:03:38.803 -04:00 [INF] Cached xbnfile: XBN//EquipLimit.xbn
+2025-04-30 16:03:38.804 -04:00 [INF] Cached xbnfile: XBN//PveList.xbn
+2025-04-30 16:03:38.804 -04:00 [INF] Cached xbnfile: XBN//MonsterWaveList.xbn
+2025-04-30 16:03:38.805 -04:00 [INF] Cached xbnfile: XBN//EsperActionlist.xbn
+2025-04-30 16:03:38.805 -04:00 [INF] Cached xbnfile: XBN//WeaponTypeReloadInfo.xbn
+2025-04-30 16:03:38.806 -04:00 [INF] Cached xbnfile: XBN//RangeLimit.xbn
+2025-04-30 16:03:38.953 -04:00 [INF] Ready for connections!
+2025-04-30 16:03:44.986 -04:00 [INF] Added server with valid apikey: S4 Dominicano(1)
+2025-04-30 16:04:01.437 -04:00 [INF] AuthAPI login from 26.61.235.105:64050, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-04-30 16:04:01.552 -04:00 [INF] AuthAPI login success for eloscar23
+2025-04-30 16:04:13.856 -04:00 [INF] Login from 26.61.235.105
+2025-04-30 16:04:13.858 -04:00 [INF] Login success for eloscar23
+2025-04-30 16:05:36.854 -04:00 [INF] Login from 26.61.235.105
+2025-04-30 16:05:36.873 -04:00 [INF] Login success for eloscar23
+2025-04-30 16:06:41.646 -04:00 [INF] AuthAPI login from 26.61.235.105:64091, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-04-30 16:06:41.662 -04:00 [INF] AuthAPI login success for eloscar23
+2025-04-30 16:07:18.207 -04:00 [INF] Login from 26.61.235.105
+2025-04-30 16:07:18.209 -04:00 [INF] Login success for eloscar23
+2025-04-30 16:17:10.474 -04:00 [INF] AuthAPI login from 26.61.235.105:64154, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-04-30 16:17:10.491 -04:00 [INF] AuthAPI login success for eloscar23
+2025-04-30 16:17:59.928 -04:00 [INF] AuthAPI login from 26.61.235.105:64160, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-04-30 16:17:59.944 -04:00 [INF] AuthAPI login success for eloscar23
+2025-04-30 16:23:08.866 -04:00 [INF] AuthAPI login from 26.61.235.105:64354, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-04-30 16:23:08.883 -04:00 [INF] AuthAPI login success for eloscar23
+2025-04-30 16:24:10.550 -04:00 [INF] AuthAPI login from 26.61.235.105:64366, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-04-30 16:24:10.567 -04:00 [INF] AuthAPI login success for eloscar23
+2025-04-30 16:25:53.486 -04:00 [INF] AuthAPI login from 26.61.235.105:64373, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-04-30 16:25:53.504 -04:00 [INF] AuthAPI login success for eloscar23
+2025-04-30 16:26:10.695 -04:00 [INF] Login from 26.61.235.105
+2025-04-30 16:26:10.697 -04:00 [INF] Login success for eloscar23
+2025-04-30 17:03:07.778 -04:00 [INF] Initializing...
+2025-04-30 17:03:08.106 -04:00 [INF] Starting server...
+2025-04-30 17:03:08.110 -04:00 [INF] Cached xbnfile: XBN//ConstantInfo.xbn
+2025-04-30 17:03:08.110 -04:00 [INF] Cached xbnfile: XBN//Actions.xbn
+2025-04-30 17:03:08.111 -04:00 [INF] Cached xbnfile: XBN//Weapons.xbn
+2025-04-30 17:03:08.112 -04:00 [INF] Cached xbnfile: XBN//Effects.xbn
+2025-04-30 17:03:08.112 -04:00 [INF] Cached xbnfile: XBN//EffectMatch.xbn
+2025-04-30 17:03:08.113 -04:00 [INF] Cached xbnfile: XBN//EnchantData.xbn
+2025-04-30 17:03:08.113 -04:00 [INF] Cached xbnfile: XBN//EquipLimit.xbn
+2025-04-30 17:03:08.114 -04:00 [INF] Cached xbnfile: XBN//PveList.xbn
+2025-04-30 17:03:08.115 -04:00 [INF] Cached xbnfile: XBN//MonsterWaveList.xbn
+2025-04-30 17:03:08.115 -04:00 [INF] Cached xbnfile: XBN//EsperActionlist.xbn
+2025-04-30 17:03:08.116 -04:00 [INF] Cached xbnfile: XBN//WeaponTypeReloadInfo.xbn
+2025-04-30 17:03:08.116 -04:00 [INF] Cached xbnfile: XBN//RangeLimit.xbn
+2025-04-30 17:03:08.257 -04:00 [INF] Ready for connections!
+2025-04-30 17:03:15.055 -04:00 [INF] Added server with valid apikey: S4 Dominicano(1)
+2025-04-30 17:03:25.924 -04:00 [INF] AuthAPI login from 26.61.235.105:65421, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-04-30 17:03:26.046 -04:00 [INF] AuthAPI login success for eloscar23
+2025-04-30 17:03:55.732 -04:00 [INF] Login from 26.61.235.105
+2025-04-30 17:03:55.735 -04:00 [INF] Login success for eloscar23
+2025-04-30 17:52:21.038 -04:00 [INF] Initializing...
+2025-04-30 17:52:21.360 -04:00 [INF] Starting server...
+2025-04-30 17:52:21.363 -04:00 [INF] Cached xbnfile: XBN//ConstantInfo.xbn
+2025-04-30 17:52:21.364 -04:00 [INF] Cached xbnfile: XBN//Actions.xbn
+2025-04-30 17:52:21.365 -04:00 [INF] Cached xbnfile: XBN//Weapons.xbn
+2025-04-30 17:52:21.365 -04:00 [INF] Cached xbnfile: XBN//Effects.xbn
+2025-04-30 17:52:21.366 -04:00 [INF] Cached xbnfile: XBN//EffectMatch.xbn
+2025-04-30 17:52:21.366 -04:00 [INF] Cached xbnfile: XBN//EnchantData.xbn
+2025-04-30 17:52:21.367 -04:00 [INF] Cached xbnfile: XBN//EquipLimit.xbn
+2025-04-30 17:52:21.367 -04:00 [INF] Cached xbnfile: XBN//PveList.xbn
+2025-04-30 17:52:21.368 -04:00 [INF] Cached xbnfile: XBN//MonsterWaveList.xbn
+2025-04-30 17:52:21.368 -04:00 [INF] Cached xbnfile: XBN//EsperActionlist.xbn
+2025-04-30 17:52:21.369 -04:00 [INF] Cached xbnfile: XBN//WeaponTypeReloadInfo.xbn
+2025-04-30 17:52:21.369 -04:00 [INF] Cached xbnfile: XBN//RangeLimit.xbn
+2025-04-30 17:52:21.514 -04:00 [INF] Ready for connections!
+2025-04-30 17:52:22.041 -04:00 [INF] Added server with valid apikey: S4 Dominicano(1)
+2025-04-30 17:52:32.337 -04:00 [INF] AuthAPI login from 26.61.235.105:49532, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-04-30 17:52:32.453 -04:00 [INF] AuthAPI login success for eloscar23
+2025-04-30 17:52:44.515 -04:00 [INF] Login from 26.61.235.105
+2025-04-30 17:52:44.518 -04:00 [INF] Login success for eloscar23
+2025-04-30 18:12:10.512 -04:00 [INF] AuthAPI login from 26.61.235.105:50154, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-04-30 18:12:10.530 -04:00 [INF] AuthAPI login success for eloscar23
+2025-04-30 18:12:23.954 -04:00 [INF] Login from 26.61.235.105
+2025-04-30 18:12:23.955 -04:00 [INF] Login success for eloscar23
+2025-04-30 18:17:23.885 -04:00 [INF] AuthAPI login from 26.61.235.105:50175, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-04-30 18:17:23.902 -04:00 [INF] AuthAPI login success for eloscar23
+2025-04-30 18:17:36.217 -04:00 [INF] Login from 26.61.235.105
+2025-04-30 18:17:36.218 -04:00 [INF] Login success for eloscar23
+2025-04-30 18:40:19.466 -04:00 [INF] AuthAPI login from 26.61.235.105:50635, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-04-30 18:40:19.483 -04:00 [INF] AuthAPI login success for eloscar23
+2025-04-30 18:41:37.743 -04:00 [INF] AuthAPI login from 26.61.235.105:50647, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-04-30 18:41:37.759 -04:00 [INF] AuthAPI login success for eloscar23
+2025-04-30 18:42:11.994 -04:00 [INF] AuthAPI login from 26.61.235.105:50654, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-04-30 18:42:12.011 -04:00 [INF] AuthAPI login success for eloscar23
+2025-04-30 18:42:35.803 -04:00 [INF] AuthAPI login from 26.61.235.105:50658, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-04-30 18:42:35.819 -04:00 [INF] AuthAPI login success for eloscar23
+2025-04-30 18:42:47.678 -04:00 [INF] Login from 26.61.235.105
+2025-04-30 18:42:47.680 -04:00 [INF] Login success for eloscar23
+2025-04-30 18:43:29.665 -04:00 [INF] AuthAPI login from 26.61.235.105:50673, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-04-30 18:43:29.681 -04:00 [INF] AuthAPI login success for eloscar23
+2025-04-30 18:44:01.056 -04:00 [INF] AuthAPI login from 26.61.235.105:50677, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-04-30 18:44:01.072 -04:00 [INF] AuthAPI login success for eloscar23
+2025-04-30 18:44:13.460 -04:00 [INF] Login from 26.61.235.105
+2025-04-30 18:44:13.461 -04:00 [INF] Login success for eloscar23
+2025-04-30 18:46:49.826 -04:00 [INF] AuthAPI login from 26.61.235.105:50708, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-04-30 18:46:49.850 -04:00 [INF] AuthAPI login success for eloscar23
+2025-04-30 18:47:01.712 -04:00 [INF] Login from 26.61.235.105
+2025-04-30 18:47:01.714 -04:00 [INF] Login success for eloscar23
+2025-04-30 18:48:30.945 -04:00 [INF] AuthAPI login from 26.61.235.105:50746, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-04-30 18:48:30.971 -04:00 [INF] AuthAPI login success for eloscar23
+2025-04-30 21:13:09.273 -04:00 [INF] AuthAPI login from 26.61.235.105:55157, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-04-30 21:13:09.300 -04:00 [INF] AuthAPI login success for eloscar23
+2025-04-30 21:13:17.458 -04:00 [INF] Login from 26.61.235.105
+2025-04-30 21:13:17.460 -04:00 [INF] Login success for eloscar23
+2025-04-30 21:13:55.213 -04:00 [INF] AuthAPI login from 26.61.235.105:55181, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-04-30 21:13:55.237 -04:00 [INF] AuthAPI login success for eloscar23
+2025-04-30 21:14:04.102 -04:00 [INF] Login from 26.61.235.105
+2025-04-30 21:14:04.104 -04:00 [INF] Login success for eloscar23
+2025-04-30 21:14:30.730 -04:00 [INF] AuthAPI login from 26.61.235.105:55184, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-04-30 21:14:30.746 -04:00 [INF] AuthAPI login success for eloscar23
+2025-04-30 21:14:45.169 -04:00 [INF] Login from 26.61.235.105
+2025-04-30 21:14:45.170 -04:00 [INF] Login success for eloscar23
+2025-04-30 21:34:22.652 -04:00 [INF] Initializing...
+2025-04-30 21:34:22.961 -04:00 [INF] Starting server...
+2025-04-30 21:34:22.965 -04:00 [INF] Cached xbnfile: XBN//ConstantInfo.xbn
+2025-04-30 21:34:22.965 -04:00 [INF] Cached xbnfile: XBN//Actions.xbn
+2025-04-30 21:34:22.965 -04:00 [INF] Cached xbnfile: XBN//Weapons.xbn
+2025-04-30 21:34:22.966 -04:00 [INF] Cached xbnfile: XBN//Effects.xbn
+2025-04-30 21:34:22.966 -04:00 [INF] Cached xbnfile: XBN//EffectMatch.xbn
+2025-04-30 21:34:22.967 -04:00 [INF] Cached xbnfile: XBN//EnchantData.xbn
+2025-04-30 21:34:22.968 -04:00 [INF] Cached xbnfile: XBN//EquipLimit.xbn
+2025-04-30 21:34:22.969 -04:00 [INF] Cached xbnfile: XBN//PveList.xbn
+2025-04-30 21:34:22.969 -04:00 [INF] Cached xbnfile: XBN//MonsterWaveList.xbn
+2025-04-30 21:34:22.970 -04:00 [INF] Cached xbnfile: XBN//EsperActionlist.xbn
+2025-04-30 21:34:22.970 -04:00 [INF] Cached xbnfile: XBN//WeaponTypeReloadInfo.xbn
+2025-04-30 21:34:22.971 -04:00 [INF] Cached xbnfile: XBN//RangeLimit.xbn
+2025-04-30 21:34:23.115 -04:00 [INF] Ready for connections!
+2025-04-30 21:34:23.442 -04:00 [INF] Added server with valid apikey: S4 Dominicano(1)
+2025-04-30 21:34:40.152 -04:00 [INF] AuthAPI login from 26.61.235.105:56400, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-04-30 21:34:40.267 -04:00 [INF] AuthAPI login success for eloscar23
+2025-04-30 21:34:57.263 -04:00 [INF] Login from 26.61.235.105
+2025-04-30 21:34:57.265 -04:00 [INF] Login success for eloscar23
+2025-04-30 21:38:22.317 -04:00 [INF] AuthAPI login from 26.61.235.105:56508, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-04-30 21:38:22.343 -04:00 [INF] AuthAPI login success for eloscar23
+2025-04-30 21:38:34.226 -04:00 [INF] Login from 26.61.235.105
+2025-04-30 21:38:34.227 -04:00 [INF] Login success for eloscar23
+2025-04-30 21:40:34.603 -04:00 [INF] AuthAPI login from 26.61.235.105:56549, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-04-30 21:40:34.628 -04:00 [INF] AuthAPI login success for eloscar23
+2025-04-30 21:40:46.638 -04:00 [INF] Login from 26.61.235.105
+2025-04-30 21:40:46.639 -04:00 [INF] Login success for eloscar23
+2025-04-30 21:42:07.158 -04:00 [INF] AuthAPI login from 26.61.235.105:56655, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-04-30 21:42:07.182 -04:00 [INF] AuthAPI login success for eloscar23
+2025-04-30 21:42:19.419 -04:00 [INF] Login from 26.61.235.105
+2025-04-30 21:42:19.421 -04:00 [INF] Login success for eloscar23
+2025-04-30 21:45:40.146 -04:00 [INF] AuthAPI login from 26.61.235.105:56764, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-04-30 21:45:40.172 -04:00 [INF] AuthAPI login success for eloscar23
+2025-04-30 21:59:15.358 -04:00 [INF] AuthAPI login from 26.61.235.105:57003, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-04-30 21:59:15.383 -04:00 [INF] AuthAPI login success for eloscar23
+2025-04-30 22:24:36.210 -04:00 [INF] AuthAPI login from 26.61.235.105:60176, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-04-30 22:24:36.236 -04:00 [INF] AuthAPI login success for eloscar23
+2025-04-30 22:25:06.725 -04:00 [INF] AuthAPI login from 26.61.235.105:60178, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-04-30 22:25:06.750 -04:00 [INF] AuthAPI login success for eloscar23
+2025-04-30 22:26:03.769 -04:00 [INF] AuthAPI login from 26.61.235.105:60184, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-04-30 22:26:03.794 -04:00 [INF] AuthAPI login success for eloscar23
+2025-04-30 22:26:17.028 -04:00 [INF] Login from 26.61.235.105
+2025-04-30 22:26:17.029 -04:00 [INF] Login success for eloscar23
+2025-04-30 23:13:22.002 -04:00 [INF] AuthAPI login from 26.61.235.105:62883, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-04-30 23:13:22.027 -04:00 [INF] AuthAPI login success for eloscar23
+2025-04-30 23:13:49.717 -04:00 [INF] AuthAPI login from 26.61.235.105:62889, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-04-30 23:13:49.742 -04:00 [INF] AuthAPI login success for eloscar23
+2025-04-30 23:14:20.805 -04:00 [INF] AuthAPI login from 26.61.235.105:62896, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-04-30 23:14:20.830 -04:00 [INF] AuthAPI login success for eloscar23
+2025-05-01 00:09:55.756 -04:00 [INF] AuthAPI login from 26.61.235.105:64463, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-05-01 00:09:55.781 -04:00 [INF] AuthAPI login success for eloscar23
+2025-05-01 00:10:12.156 -04:00 [INF] Login from 26.61.235.105
+2025-05-01 00:10:12.157 -04:00 [INF] Login success for eloscar23
+2025-05-01 00:15:12.872 -04:00 [INF] AuthAPI login from 26.61.235.105:64544, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-05-01 00:15:12.895 -04:00 [INF] AuthAPI login success for eloscar23
+2025-05-01 00:15:28.161 -04:00 [INF] Login from 26.61.235.105
+2025-05-01 00:15:28.163 -04:00 [INF] Login success for eloscar23
+2025-05-01 00:38:54.522 -04:00 [INF] Initializing...
+2025-05-01 00:38:54.842 -04:00 [INF] Starting server...
+2025-05-01 00:38:54.846 -04:00 [INF] Cached xbnfile: XBN//ConstantInfo.xbn
+2025-05-01 00:38:54.847 -04:00 [INF] Cached xbnfile: XBN//Actions.xbn
+2025-05-01 00:38:54.848 -04:00 [INF] Cached xbnfile: XBN//Weapons.xbn
+2025-05-01 00:38:54.849 -04:00 [INF] Cached xbnfile: XBN//Effects.xbn
+2025-05-01 00:38:54.850 -04:00 [INF] Cached xbnfile: XBN//EffectMatch.xbn
+2025-05-01 00:38:54.851 -04:00 [INF] Cached xbnfile: XBN//EnchantData.xbn
+2025-05-01 00:38:54.852 -04:00 [INF] Cached xbnfile: XBN//EquipLimit.xbn
+2025-05-01 00:38:54.852 -04:00 [INF] Cached xbnfile: XBN//PveList.xbn
+2025-05-01 00:38:54.853 -04:00 [INF] Cached xbnfile: XBN//MonsterWaveList.xbn
+2025-05-01 00:38:54.854 -04:00 [INF] Cached xbnfile: XBN//EsperActionlist.xbn
+2025-05-01 00:38:54.854 -04:00 [INF] Cached xbnfile: XBN//WeaponTypeReloadInfo.xbn
+2025-05-01 00:38:54.854 -04:00 [INF] Cached xbnfile: XBN//RangeLimit.xbn
+2025-05-01 00:38:55.002 -04:00 [INF] Ready for connections!
+2025-05-01 00:38:55.679 -04:00 [INF] Added server with valid apikey: S4 Dominicano(1)
+2025-05-01 00:39:15.566 -04:00 [INF] AuthAPI login from 26.61.235.105:65356, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-05-01 00:39:15.682 -04:00 [INF] AuthAPI login success for eloscar23
+2025-05-01 00:39:33.561 -04:00 [INF] Login from 26.61.235.105
+2025-05-01 00:39:33.564 -04:00 [INF] Login success for eloscar23
+2025-05-01 00:55:56.798 -04:00 [INF] Initializing...
+2025-05-01 00:55:57.129 -04:00 [INF] Starting server...
+2025-05-01 00:55:57.133 -04:00 [INF] Cached xbnfile: XBN//ConstantInfo.xbn
+2025-05-01 00:55:57.134 -04:00 [INF] Cached xbnfile: XBN//Actions.xbn
+2025-05-01 00:55:57.134 -04:00 [INF] Cached xbnfile: XBN//Weapons.xbn
+2025-05-01 00:55:57.135 -04:00 [INF] Cached xbnfile: XBN//Effects.xbn
+2025-05-01 00:55:57.135 -04:00 [INF] Cached xbnfile: XBN//EffectMatch.xbn
+2025-05-01 00:55:57.136 -04:00 [INF] Cached xbnfile: XBN//EnchantData.xbn
+2025-05-01 00:55:57.136 -04:00 [INF] Cached xbnfile: XBN//EquipLimit.xbn
+2025-05-01 00:55:57.137 -04:00 [INF] Cached xbnfile: XBN//PveList.xbn
+2025-05-01 00:55:57.137 -04:00 [INF] Cached xbnfile: XBN//MonsterWaveList.xbn
+2025-05-01 00:55:57.138 -04:00 [INF] Cached xbnfile: XBN//EsperActionlist.xbn
+2025-05-01 00:55:57.139 -04:00 [INF] Cached xbnfile: XBN//WeaponTypeReloadInfo.xbn
+2025-05-01 00:55:57.140 -04:00 [INF] Cached xbnfile: XBN//RangeLimit.xbn
+2025-05-01 00:55:57.304 -04:00 [INF] Ready for connections!
+2025-05-01 00:56:02.935 -04:00 [INF] Added server with valid apikey: S4 Dominicano(1)
+2025-05-01 00:56:18.184 -04:00 [INF] AuthAPI login from 26.61.235.105:50182, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-05-01 00:56:18.303 -04:00 [INF] AuthAPI login success for eloscar23
+2025-05-01 00:56:42.830 -04:00 [INF] Login from 26.61.235.105
+2025-05-01 00:56:42.832 -04:00 [INF] Login success for eloscar23
+2025-05-01 00:59:07.899 -04:00 [INF] AuthAPI login from 26.61.235.105:50268, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-05-01 00:59:07.919 -04:00 [INF] AuthAPI login success for eloscar23
+2025-05-01 00:59:44.657 -04:00 [INF] AuthAPI login from 26.61.235.105:50269, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-05-01 00:59:44.672 -04:00 [INF] AuthAPI login success for eloscar23
+2025-05-01 01:00:38.132 -04:00 [INF] AuthAPI login from 26.61.235.105:50291, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-05-01 01:00:38.148 -04:00 [INF] AuthAPI login success for eloscar23
+2025-05-01 01:03:26.496 -04:00 [INF] AuthAPI login from 26.61.235.105:50321, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-05-01 01:03:26.515 -04:00 [INF] AuthAPI login success for eloscar23
+2025-05-01 01:07:00.063 -04:00 [INF] AuthAPI login from 26.61.235.105:50359, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-05-01 01:07:00.081 -04:00 [INF] AuthAPI login success for eloscar23
+2025-05-01 01:07:39.859 -04:00 [INF] AuthAPI login from 26.61.235.105:50366, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-05-01 01:07:39.876 -04:00 [INF] AuthAPI login success for eloscar23
+2025-05-01 01:09:51.346 -04:00 [INF] AuthAPI login from 26.61.235.105:50381, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-05-01 01:09:51.363 -04:00 [INF] AuthAPI login success for eloscar23
+2025-05-01 01:39:44.844 -04:00 [INF] AuthAPI login from 26.61.235.105:50619, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-05-01 01:39:44.860 -04:00 [INF] AuthAPI login success for eloscar23
+2025-05-01 01:40:27.935 -04:00 [INF] AuthAPI login from 26.61.235.105:50625, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-05-01 01:40:27.952 -04:00 [INF] AuthAPI login success for eloscar23
+2025-05-01 01:40:42.789 -04:00 [INF] Login success for null
+2025-05-01 01:40:42.797 -04:00 [ERR] Unhandled server exception
+System.AggregateException: One or more errors occurred. (Cannot add or update a child row: a foreign key constraint fails (`test`.`login_history`, CONSTRAINT `login_history_ibfk_1` FOREIGN KEY (`AccountId`) REFERENCES `accounts` (`Id`) ON DELETE CASCADE)) ---> MySql.Data.MySqlClient.MySqlException: Cannot add or update a child row: a foreign key constraint fails (`test`.`login_history`, CONSTRAINT `login_history_ibfk_1` FOREIGN KEY (`AccountId`) REFERENCES `accounts` (`Id`) ON DELETE CASCADE)
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Dapper.SqlMapper.<QueryAsync>d__33`1.MoveNext() in C:\projects\dapper\Dapper\SqlMapper.Async.cs:line 419
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Dapper.FastCrud.SqlStatements.GenericSqlStatements`1.<InsertAsync>d__8.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NeoNetsphere.Network.Service.AuthService.<EULoginHandler>d__1.MoveNext() in C:\Users\danid\Documents\NeoNetsphere\NetsphereCC\src\AuthServer\Network\Service\AuthService.cs:line 187
+   --- End of inner exception stack trace ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at BlubLib.DotNetty.Handlers.MessageHandling.MessageHandler`1.<>c.<OnMessageReceived>b__11_0(Task task, Object _)
+   at System.Threading.Tasks.ContinuationResultTaskFromTask`1.InnerInvoke()
+   at System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at ProudNetSrc.Handlers.ProudMessageHandler.<OnMessageReceived>d__0.MoveNext() in C:\Users\danid\Documents\NeoNetsphere\NetsphereCC\src\ProudNetSrc\Handlers\ProudMessageHandler.cs:line 15
+---> (Inner Exception #0) MySql.Data.MySqlClient.MySqlException (0x80004005): Cannot add or update a child row: a foreign key constraint fails (`test`.`login_history`, CONSTRAINT `login_history_ibfk_1` FOREIGN KEY (`AccountId`) REFERENCES `accounts` (`Id`) ON DELETE CASCADE)
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Dapper.SqlMapper.<QueryAsync>d__33`1.MoveNext() in C:\projects\dapper\Dapper\SqlMapper.Async.cs:line 419
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Dapper.FastCrud.SqlStatements.GenericSqlStatements`1.<InsertAsync>d__8.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NeoNetsphere.Network.Service.AuthService.<EULoginHandler>d__1.MoveNext() in C:\Users\danid\Documents\NeoNetsphere\NetsphereCC\src\AuthServer\Network\Service\AuthService.cs:line 187<---
+
+2025-05-01 01:51:01.967 -04:00 [INF] AuthAPI login from 26.61.235.105:50745, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-05-01 01:51:01.982 -04:00 [INF] AuthAPI login success for eloscar23
+2025-05-01 01:51:16.177 -04:00 [INF] Login success for null
+2025-05-01 01:51:16.179 -04:00 [ERR] Unhandled server exception
+System.AggregateException: One or more errors occurred. (Cannot add or update a child row: a foreign key constraint fails (`test`.`login_history`, CONSTRAINT `login_history_ibfk_1` FOREIGN KEY (`AccountId`) REFERENCES `accounts` (`Id`) ON DELETE CASCADE)) ---> MySql.Data.MySqlClient.MySqlException: Cannot add or update a child row: a foreign key constraint fails (`test`.`login_history`, CONSTRAINT `login_history_ibfk_1` FOREIGN KEY (`AccountId`) REFERENCES `accounts` (`Id`) ON DELETE CASCADE)
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Dapper.SqlMapper.<QueryAsync>d__33`1.MoveNext() in C:\projects\dapper\Dapper\SqlMapper.Async.cs:line 419
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Dapper.FastCrud.SqlStatements.GenericSqlStatements`1.<InsertAsync>d__8.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NeoNetsphere.Network.Service.AuthService.<EULoginHandler>d__1.MoveNext() in C:\Users\danid\Documents\NeoNetsphere\NetsphereCC\src\AuthServer\Network\Service\AuthService.cs:line 187
+   --- End of inner exception stack trace ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at BlubLib.DotNetty.Handlers.MessageHandling.MessageHandler`1.<>c.<OnMessageReceived>b__11_0(Task task, Object _)
+   at System.Threading.Tasks.ContinuationResultTaskFromTask`1.InnerInvoke()
+   at System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at ProudNetSrc.Handlers.ProudMessageHandler.<OnMessageReceived>d__0.MoveNext() in C:\Users\danid\Documents\NeoNetsphere\NetsphereCC\src\ProudNetSrc\Handlers\ProudMessageHandler.cs:line 15
+---> (Inner Exception #0) MySql.Data.MySqlClient.MySqlException (0x80004005): Cannot add or update a child row: a foreign key constraint fails (`test`.`login_history`, CONSTRAINT `login_history_ibfk_1` FOREIGN KEY (`AccountId`) REFERENCES `accounts` (`Id`) ON DELETE CASCADE)
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Dapper.SqlMapper.<QueryAsync>d__33`1.MoveNext() in C:\projects\dapper\Dapper\SqlMapper.Async.cs:line 419
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Dapper.FastCrud.SqlStatements.GenericSqlStatements`1.<InsertAsync>d__8.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NeoNetsphere.Network.Service.AuthService.<EULoginHandler>d__1.MoveNext() in C:\Users\danid\Documents\NeoNetsphere\NetsphereCC\src\AuthServer\Network\Service\AuthService.cs:line 187<---
+
+2025-05-01 01:59:44.427 -04:00 [INF] AuthAPI login from 26.61.235.105:50818, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-05-01 01:59:44.453 -04:00 [INF] AuthAPI login success for eloscar23
+2025-05-01 02:01:49.000 -04:00 [INF] AuthAPI login from 26.61.235.105:50820, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-05-01 02:01:49.051 -04:00 [INF] AuthAPI login success for asaas
+2025-05-01 02:02:07.712 -04:00 [INF] AuthAPI login from 26.61.235.105:50822, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-05-01 02:02:07.757 -04:00 [INF] AuthAPI login success for ssssssssss
+2025-05-01 02:02:19.567 -04:00 [INF] AuthAPI login from 26.61.235.105:50823, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-05-01 02:02:19.569 -04:00 [ERR] Too short credentials for sssssss / 26.61.235.105:50823
+2025-05-01 02:02:21.156 -04:00 [INF] AuthAPI login from 26.61.235.105:50824, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-05-01 02:02:21.158 -04:00 [ERR] Too short credentials for sssssss / 26.61.235.105:50824
+2025-05-01 02:02:22.469 -04:00 [INF] AuthAPI login from 26.61.235.105:50825, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-05-01 02:02:22.516 -04:00 [INF] AuthAPI login success for sssssss
+2025-05-01 02:02:33.899 -04:00 [INF] AuthAPI login from 26.61.235.105:50826, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-05-01 02:02:33.949 -04:00 [INF] AuthAPI login success for ssssss
+2025-05-01 02:02:49.574 -04:00 [INF] AuthAPI login from 26.61.235.105:50830, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-05-01 02:02:49.620 -04:00 [INF] AuthAPI login success for aaaaaa
+2025-05-01 02:03:01.961 -04:00 [INF] AuthAPI login from 26.61.235.105:50831, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-05-01 02:03:02.005 -04:00 [INF] AuthAPI login success for 111111
+2025-05-01 02:03:12.528 -04:00 [INF] AuthAPI login from 26.61.235.105:50832, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-05-01 02:03:12.553 -04:00 [INF] AuthAPI login success for 111111
+2025-05-01 02:04:17.350 -04:00 [INF] AuthAPI login from 26.61.235.105:50834, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-05-01 02:04:17.374 -04:00 [INF] AuthAPI login success for eloscar23
+2025-05-01 02:08:13.427 -04:00 [INF] AuthAPI login from 26.61.235.105:50860, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-05-01 02:08:13.453 -04:00 [INF] AuthAPI login success for eloscar23
+2025-05-01 02:09:04.380 -04:00 [INF] AuthAPI login from 26.61.235.105:50863, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-05-01 02:09:04.403 -04:00 [INF] AuthAPI login success for eloscar23
+2025-05-01 02:09:24.892 -04:00 [INF] AuthAPI login from 26.61.235.105:50865, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-05-01 02:09:24.917 -04:00 [INF] AuthAPI login success for eloscar23
+2025-05-01 02:09:39.103 -04:00 [INF] Login success for null
+2025-05-01 02:09:39.106 -04:00 [ERR] Unhandled server exception
+System.AggregateException: One or more errors occurred. (Cannot add or update a child row: a foreign key constraint fails (`test`.`login_history`, CONSTRAINT `login_history_ibfk_1` FOREIGN KEY (`AccountId`) REFERENCES `accounts` (`Id`) ON DELETE CASCADE)) ---> MySql.Data.MySqlClient.MySqlException: Cannot add or update a child row: a foreign key constraint fails (`test`.`login_history`, CONSTRAINT `login_history_ibfk_1` FOREIGN KEY (`AccountId`) REFERENCES `accounts` (`Id`) ON DELETE CASCADE)
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Dapper.SqlMapper.<QueryAsync>d__33`1.MoveNext() in C:\projects\dapper\Dapper\SqlMapper.Async.cs:line 419
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Dapper.FastCrud.SqlStatements.GenericSqlStatements`1.<InsertAsync>d__8.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NeoNetsphere.Network.Service.AuthService.<EULoginHandler>d__1.MoveNext() in C:\Users\danid\Documents\NeoNetsphere\NetsphereCC\src\AuthServer\Network\Service\AuthService.cs:line 187
+   --- End of inner exception stack trace ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at BlubLib.DotNetty.Handlers.MessageHandling.MessageHandler`1.<>c.<OnMessageReceived>b__11_0(Task task, Object _)
+   at System.Threading.Tasks.ContinuationResultTaskFromTask`1.InnerInvoke()
+   at System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at ProudNetSrc.Handlers.ProudMessageHandler.<OnMessageReceived>d__0.MoveNext() in C:\Users\danid\Documents\NeoNetsphere\NetsphereCC\src\ProudNetSrc\Handlers\ProudMessageHandler.cs:line 15
+---> (Inner Exception #0) MySql.Data.MySqlClient.MySqlException (0x80004005): Cannot add or update a child row: a foreign key constraint fails (`test`.`login_history`, CONSTRAINT `login_history_ibfk_1` FOREIGN KEY (`AccountId`) REFERENCES `accounts` (`Id`) ON DELETE CASCADE)
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Dapper.SqlMapper.<QueryAsync>d__33`1.MoveNext() in C:\projects\dapper\Dapper\SqlMapper.Async.cs:line 419
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Dapper.FastCrud.SqlStatements.GenericSqlStatements`1.<InsertAsync>d__8.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NeoNetsphere.Network.Service.AuthService.<EULoginHandler>d__1.MoveNext() in C:\Users\danid\Documents\NeoNetsphere\NetsphereCC\src\AuthServer\Network\Service\AuthService.cs:line 187<---
+
+2025-05-01 02:11:46.430 -04:00 [INF] AuthAPI login from 26.61.235.105:50872, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-05-01 02:11:46.448 -04:00 [INF] AuthAPI login success for eloscar23
+2025-05-01 02:12:23.457 -04:00 [INF] AuthAPI login from 26.61.235.105:50879, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-05-01 02:12:23.473 -04:00 [INF] AuthAPI login success for eloscar23
+2025-05-01 02:14:07.437 -04:00 [INF] Initializing...
+2025-05-01 02:14:07.746 -04:00 [INF] Starting server...
+2025-05-01 02:14:07.749 -04:00 [INF] Cached xbnfile: XBN//ConstantInfo.xbn
+2025-05-01 02:14:07.750 -04:00 [INF] Cached xbnfile: XBN//Actions.xbn
+2025-05-01 02:14:07.751 -04:00 [INF] Cached xbnfile: XBN//Weapons.xbn
+2025-05-01 02:14:07.751 -04:00 [INF] Cached xbnfile: XBN//Effects.xbn
+2025-05-01 02:14:07.752 -04:00 [INF] Cached xbnfile: XBN//EffectMatch.xbn
+2025-05-01 02:14:07.753 -04:00 [INF] Cached xbnfile: XBN//EnchantData.xbn
+2025-05-01 02:14:07.754 -04:00 [INF] Cached xbnfile: XBN//EquipLimit.xbn
+2025-05-01 02:14:07.755 -04:00 [INF] Cached xbnfile: XBN//PveList.xbn
+2025-05-01 02:14:07.755 -04:00 [INF] Cached xbnfile: XBN//MonsterWaveList.xbn
+2025-05-01 02:14:07.756 -04:00 [INF] Cached xbnfile: XBN//EsperActionlist.xbn
+2025-05-01 02:14:07.757 -04:00 [INF] Cached xbnfile: XBN//WeaponTypeReloadInfo.xbn
+2025-05-01 02:14:07.757 -04:00 [INF] Cached xbnfile: XBN//RangeLimit.xbn
+2025-05-01 02:14:07.897 -04:00 [INF] Ready for connections!
+2025-05-01 02:14:08.773 -04:00 [INF] Added server with valid apikey: S4 Dominicano(1)
+2025-05-01 02:14:33.895 -04:00 [INF] AuthAPI login from 26.61.235.105:50902, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-05-01 02:14:33.988 -04:00 [ERR] MySql.Data.MySqlClient.MySqlException (0x80004005): Table 'test2.hwid_bans' doesn't exist
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Dapper.SqlMapper.<QueryAsync>d__33`1.MoveNext() in C:\projects\dapper\Dapper\SqlMapper.Async.cs:line 419
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at NeoNetsphere.LoginAPI.LoginServerHandler.<LoginAsync>d__6.MoveNext() in C:\Users\danid\Documents\NeoNetsphere\NetsphereCC\src\AuthServer\LoginAPI\LoginServerHandler.cs:line 157
+2025-05-01 02:14:47.892 -04:00 [INF] Removed server S4 Dominicano(1)
+2025-05-01 02:18:53.208 -04:00 [INF] Initializing...
+2025-05-01 02:18:53.523 -04:00 [INF] Starting server...
+2025-05-01 02:18:53.527 -04:00 [INF] Cached xbnfile: XBN//ConstantInfo.xbn
+2025-05-01 02:18:53.527 -04:00 [INF] Cached xbnfile: XBN//Actions.xbn
+2025-05-01 02:18:53.528 -04:00 [INF] Cached xbnfile: XBN//Weapons.xbn
+2025-05-01 02:18:53.529 -04:00 [INF] Cached xbnfile: XBN//Effects.xbn
+2025-05-01 02:18:53.529 -04:00 [INF] Cached xbnfile: XBN//EffectMatch.xbn
+2025-05-01 02:18:53.530 -04:00 [INF] Cached xbnfile: XBN//EnchantData.xbn
+2025-05-01 02:18:53.531 -04:00 [INF] Cached xbnfile: XBN//EquipLimit.xbn
+2025-05-01 02:18:53.532 -04:00 [INF] Cached xbnfile: XBN//PveList.xbn
+2025-05-01 02:18:53.532 -04:00 [INF] Cached xbnfile: XBN//MonsterWaveList.xbn
+2025-05-01 02:18:53.533 -04:00 [INF] Cached xbnfile: XBN//EsperActionlist.xbn
+2025-05-01 02:18:53.534 -04:00 [INF] Cached xbnfile: XBN//WeaponTypeReloadInfo.xbn
+2025-05-01 02:18:53.534 -04:00 [INF] Cached xbnfile: XBN//RangeLimit.xbn
+2025-05-01 02:18:53.700 -04:00 [INF] Ready for connections!
+2025-05-01 02:19:02.683 -04:00 [INF] Added server with valid apikey: S4 Dominicano(1)
+2025-05-01 02:19:12.638 -04:00 [INF] Removed server S4 Dominicano(1)
+2025-05-01 10:59:08.453 -04:00 [INF] Initializing...
+2025-05-01 10:59:08.798 -04:00 [INF] Starting server...
+2025-05-01 10:59:08.802 -04:00 [INF] Cached xbnfile: XBN//ConstantInfo.xbn
+2025-05-01 10:59:08.802 -04:00 [INF] Cached xbnfile: XBN//Actions.xbn
+2025-05-01 10:59:08.803 -04:00 [INF] Cached xbnfile: XBN//Weapons.xbn
+2025-05-01 10:59:08.804 -04:00 [INF] Cached xbnfile: XBN//Effects.xbn
+2025-05-01 10:59:08.804 -04:00 [INF] Cached xbnfile: XBN//EffectMatch.xbn
+2025-05-01 10:59:08.805 -04:00 [INF] Cached xbnfile: XBN//EnchantData.xbn
+2025-05-01 10:59:08.806 -04:00 [INF] Cached xbnfile: XBN//EquipLimit.xbn
+2025-05-01 10:59:08.806 -04:00 [INF] Cached xbnfile: XBN//PveList.xbn
+2025-05-01 10:59:08.807 -04:00 [INF] Cached xbnfile: XBN//MonsterWaveList.xbn
+2025-05-01 10:59:08.808 -04:00 [INF] Cached xbnfile: XBN//EsperActionlist.xbn
+2025-05-01 10:59:08.808 -04:00 [INF] Cached xbnfile: XBN//WeaponTypeReloadInfo.xbn
+2025-05-01 10:59:08.809 -04:00 [INF] Cached xbnfile: XBN//RangeLimit.xbn
+2025-05-01 10:59:08.954 -04:00 [INF] Ready for connections!
+2025-05-01 10:59:15.566 -04:00 [INF] Added server with valid apikey: S4 Dominicano(1)
+2025-05-01 10:59:19.212 -04:00 [INF] Removed server S4 Dominicano(1)
+2025-05-01 10:59:55.984 -04:00 [INF] Initializing...
+2025-05-01 10:59:56.308 -04:00 [INF] Starting server...
+2025-05-01 10:59:56.313 -04:00 [INF] Cached xbnfile: XBN//ConstantInfo.xbn
+2025-05-01 10:59:56.313 -04:00 [INF] Cached xbnfile: XBN//Actions.xbn
+2025-05-01 10:59:56.314 -04:00 [INF] Cached xbnfile: XBN//Weapons.xbn
+2025-05-01 10:59:56.314 -04:00 [INF] Cached xbnfile: XBN//Effects.xbn
+2025-05-01 10:59:56.315 -04:00 [INF] Cached xbnfile: XBN//EffectMatch.xbn
+2025-05-01 10:59:56.315 -04:00 [INF] Cached xbnfile: XBN//EnchantData.xbn
+2025-05-01 10:59:56.316 -04:00 [INF] Cached xbnfile: XBN//EquipLimit.xbn
+2025-05-01 10:59:56.316 -04:00 [INF] Cached xbnfile: XBN//PveList.xbn
+2025-05-01 10:59:56.317 -04:00 [INF] Cached xbnfile: XBN//MonsterWaveList.xbn
+2025-05-01 10:59:56.317 -04:00 [INF] Cached xbnfile: XBN//EsperActionlist.xbn
+2025-05-01 10:59:56.318 -04:00 [INF] Cached xbnfile: XBN//WeaponTypeReloadInfo.xbn
+2025-05-01 10:59:56.318 -04:00 [INF] Cached xbnfile: XBN//RangeLimit.xbn
+2025-05-01 10:59:56.462 -04:00 [INF] Ready for connections!
+2025-05-01 10:59:56.768 -04:00 [INF] Added server with valid apikey: S4 Dominicano(1)
+2025-05-01 11:00:12.746 -04:00 [INF] AuthAPI login from 26.61.235.105:54643, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-05-01 11:00:12.874 -04:00 [INF] AuthAPI login success for eloscar23
+2025-05-01 11:00:31.123 -04:00 [INF] Login from 26.61.235.105
+2025-05-01 11:00:31.126 -04:00 [INF] Login success for eloscar23
+2025-05-01 12:02:27.902 -04:00 [INF] AuthAPI login from 26.61.235.105:55030, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-05-01 12:02:27.919 -04:00 [INF] AuthAPI login success for eloscar23
+2025-05-01 12:03:03.969 -04:00 [INF] AuthAPI login from 26.61.235.105:55039, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-05-01 12:03:03.985 -04:00 [INF] AuthAPI login success for eloscar23
+2025-05-01 12:03:31.733 -04:00 [INF] AuthAPI login from 26.61.235.105:55049, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-05-01 12:03:31.749 -04:00 [INF] AuthAPI login success for eloscar23
+2025-05-01 13:40:17.190 -04:00 [INF] Initializing...
+2025-05-01 13:40:17.591 -04:00 [INF] Starting server...
+2025-05-01 13:40:17.595 -04:00 [INF] Cached xbnfile: XBN//ConstantInfo.xbn
+2025-05-01 13:40:17.596 -04:00 [INF] Cached xbnfile: XBN//Actions.xbn
+2025-05-01 13:40:17.597 -04:00 [INF] Cached xbnfile: XBN//Weapons.xbn
+2025-05-01 13:40:17.598 -04:00 [INF] Cached xbnfile: XBN//Effects.xbn
+2025-05-01 13:40:17.598 -04:00 [INF] Cached xbnfile: XBN//EffectMatch.xbn
+2025-05-01 13:40:17.599 -04:00 [INF] Cached xbnfile: XBN//EnchantData.xbn
+2025-05-01 13:40:17.599 -04:00 [INF] Cached xbnfile: XBN//EquipLimit.xbn
+2025-05-01 13:40:17.600 -04:00 [INF] Cached xbnfile: XBN//PveList.xbn
+2025-05-01 13:40:17.601 -04:00 [INF] Cached xbnfile: XBN//MonsterWaveList.xbn
+2025-05-01 13:40:17.601 -04:00 [INF] Cached xbnfile: XBN//EsperActionlist.xbn
+2025-05-01 13:40:17.602 -04:00 [INF] Cached xbnfile: XBN//WeaponTypeReloadInfo.xbn
+2025-05-01 13:40:17.603 -04:00 [INF] Cached xbnfile: XBN//RangeLimit.xbn
+2025-05-01 13:40:17.756 -04:00 [INF] Ready for connections!
+2025-05-01 13:40:28.787 -04:00 [INF] Added server with valid apikey: S4 Dominicano(1)
+2025-05-01 13:43:37.680 -04:00 [INF] AuthAPI login from 26.61.235.105:63958, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-05-01 13:43:37.796 -04:00 [INF] AuthAPI login success for eloscar23
+2025-05-01 13:44:18.988 -04:00 [INF] Login from 26.61.235.105
+2025-05-01 13:44:18.991 -04:00 [INF] Login success for eloscar23
+2025-05-01 14:01:32.848 -04:00 [INF] AuthAPI login from 26.61.235.105:64105, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-05-01 14:01:32.864 -04:00 [INF] AuthAPI login success for eloscar23
+2025-05-01 14:02:22.905 -04:00 [INF] Login from 26.61.235.105
+2025-05-01 14:02:22.906 -04:00 [INF] Login success for eloscar23
+2025-05-01 14:12:24.256 -04:00 [INF] AuthAPI login from 26.61.235.105:64147, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-05-01 14:12:24.271 -04:00 [INF] AuthAPI login success for eloscar23
+2025-05-01 14:13:36.219 -04:00 [INF] AuthAPI login from 26.61.235.105:64157, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-05-01 14:13:36.236 -04:00 [INF] AuthAPI login success for eloscar23
+2025-05-01 14:13:57.611 -04:00 [INF] AuthAPI login from 26.61.235.105:64159, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-05-01 14:13:57.627 -04:00 [INF] AuthAPI login success for eloscar23
+2025-05-01 14:14:13.281 -04:00 [INF] AuthAPI login from 26.61.235.105:64160, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-05-01 14:14:13.282 -04:00 [ERR] Too short credentials for dsdsdsdsd / 26.61.235.105:64160
+2025-05-01 14:14:14.840 -04:00 [INF] AuthAPI login from 26.61.235.105:64161, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-05-01 14:14:14.877 -04:00 [INF] AuthAPI login success for dsdsdsdsd
+2025-05-01 14:14:38.571 -04:00 [INF] Login from 26.61.235.105
+2025-05-01 14:14:38.572 -04:00 [INF] Login success for dsdsdsdsd
+2025-05-01 14:22:29.883 -04:00 [INF] AuthAPI login from 26.61.235.105:64195, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-05-01 14:22:29.898 -04:00 [INF] AuthAPI login success for eloscar23
+2025-05-01 14:22:42.915 -04:00 [INF] Login from 26.61.235.105
+2025-05-01 14:22:42.916 -04:00 [INF] Login success for eloscar23
+2025-05-01 14:36:48.665 -04:00 [INF] Removed server S4 Dominicano(1)
+2025-05-01 15:25:05.350 -04:00 [INF] Initializing...
+2025-05-01 15:25:05.661 -04:00 [INF] Starting server...
+2025-05-01 15:25:05.665 -04:00 [INF] Cached xbnfile: XBN//ConstantInfo.xbn
+2025-05-01 15:25:05.666 -04:00 [INF] Cached xbnfile: XBN//Actions.xbn
+2025-05-01 15:25:05.666 -04:00 [INF] Cached xbnfile: XBN//Weapons.xbn
+2025-05-01 15:25:05.667 -04:00 [INF] Cached xbnfile: XBN//Effects.xbn
+2025-05-01 15:25:05.667 -04:00 [INF] Cached xbnfile: XBN//EffectMatch.xbn
+2025-05-01 15:25:05.668 -04:00 [INF] Cached xbnfile: XBN//EnchantData.xbn
+2025-05-01 15:25:05.668 -04:00 [INF] Cached xbnfile: XBN//EquipLimit.xbn
+2025-05-01 15:25:05.669 -04:00 [INF] Cached xbnfile: XBN//PveList.xbn
+2025-05-01 15:25:05.669 -04:00 [INF] Cached xbnfile: XBN//MonsterWaveList.xbn
+2025-05-01 15:25:05.669 -04:00 [INF] Cached xbnfile: XBN//EsperActionlist.xbn
+2025-05-01 15:25:05.670 -04:00 [INF] Cached xbnfile: XBN//WeaponTypeReloadInfo.xbn
+2025-05-01 15:25:05.671 -04:00 [INF] Cached xbnfile: XBN//RangeLimit.xbn
+2025-05-01 15:25:05.824 -04:00 [INF] Ready for connections!
+2025-05-01 15:25:12.780 -04:00 [INF] Added server with valid apikey: S4 Dominicano(1)
+2025-05-01 15:26:07.536 -04:00 [INF] AuthAPI login from 26.61.235.105:64525, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-05-01 15:26:07.650 -04:00 [INF] AuthAPI login success for eloscar23
+2025-05-01 15:28:47.105 -04:00 [INF] AuthAPI login from 26.61.235.105:64583, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-05-01 15:28:47.137 -04:00 [INF] AuthAPI login success for eloscar23
+2025-05-01 15:29:04.600 -04:00 [INF] AuthAPI login from 26.61.235.105:64586, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-05-01 15:29:04.629 -04:00 [INF] AuthAPI login success for eloscar23
+2025-05-01 15:29:13.680 -04:00 [INF] Login from 26.61.235.105
+2025-05-01 15:29:13.684 -04:00 [INF] Login success for eloscar23
+2025-05-01 15:29:39.363 -04:00 [INF] AuthAPI login from 26.61.235.105:64592, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-05-01 15:29:39.390 -04:00 [INF] AuthAPI login success for eloscar23
+2025-05-01 15:30:02.648 -04:00 [INF] AuthAPI login from 26.61.235.105:64594, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-05-01 15:30:02.674 -04:00 [INF] AuthAPI login success for eloscar23
+2025-05-01 15:30:17.416 -04:00 [INF] Login from 26.61.235.105
+2025-05-01 15:30:17.418 -04:00 [INF] Login success for eloscar23
+2025-05-02 00:29:05.010 -04:00 [INF] Initializing...
+2025-05-02 00:29:05.330 -04:00 [INF] Starting server...
+2025-05-02 00:29:05.334 -04:00 [INF] Cached xbnfile: XBN//ConstantInfo.xbn
+2025-05-02 00:29:05.334 -04:00 [INF] Cached xbnfile: XBN//Actions.xbn
+2025-05-02 00:29:05.335 -04:00 [INF] Cached xbnfile: XBN//Weapons.xbn
+2025-05-02 00:29:05.336 -04:00 [INF] Cached xbnfile: XBN//Effects.xbn
+2025-05-02 00:29:05.336 -04:00 [INF] Cached xbnfile: XBN//EffectMatch.xbn
+2025-05-02 00:29:05.337 -04:00 [INF] Cached xbnfile: XBN//EnchantData.xbn
+2025-05-02 00:29:05.337 -04:00 [INF] Cached xbnfile: XBN//EquipLimit.xbn
+2025-05-02 00:29:05.338 -04:00 [INF] Cached xbnfile: XBN//PveList.xbn
+2025-05-02 00:29:05.338 -04:00 [INF] Cached xbnfile: XBN//MonsterWaveList.xbn
+2025-05-02 00:29:05.339 -04:00 [INF] Cached xbnfile: XBN//EsperActionlist.xbn
+2025-05-02 00:29:05.339 -04:00 [INF] Cached xbnfile: XBN//WeaponTypeReloadInfo.xbn
+2025-05-02 00:29:05.340 -04:00 [INF] Cached xbnfile: XBN//RangeLimit.xbn
+2025-05-02 00:29:05.480 -04:00 [INF] Ready for connections!
+2025-05-02 00:29:05.723 -04:00 [INF] Added server with valid apikey: S4 Dominicano(1)
+2025-05-02 00:30:09.933 -04:00 [INF] AuthAPI login from 26.61.235.105:62213, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-05-02 00:30:10.049 -04:00 [INF] AuthAPI login success for eloscar23
+2025-05-02 00:30:27.864 -04:00 [INF] Login from 26.61.235.105
+2025-05-02 00:30:27.866 -04:00 [INF] Login success for eloscar23
+2025-05-02 00:39:56.236 -04:00 [INF] AuthAPI login from 26.61.235.105:62541, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-05-02 00:39:56.253 -04:00 [INF] AuthAPI login success for eloscar23
+2025-05-02 00:40:16.422 -04:00 [INF] Login from 26.61.235.105
+2025-05-02 00:40:16.423 -04:00 [INF] Login success for eloscar23
+2025-05-02 00:42:00.055 -04:00 [INF] AuthAPI login from 26.61.235.105:62553, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-05-02 00:42:00.072 -04:00 [INF] AuthAPI login success for eloscar23
+2025-05-02 00:42:33.652 -04:00 [INF] AuthAPI login from 26.61.235.105:62554, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-05-02 00:42:33.668 -04:00 [INF] AuthAPI login success for eloscar23
+2025-05-02 00:42:44.146 -04:00 [INF] Login from 26.61.235.105
+2025-05-02 00:42:44.147 -04:00 [INF] Login success for eloscar23
+2025-05-02 01:08:28.566 -04:00 [INF] AuthAPI login from 26.61.235.105:59032, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-05-02 01:08:28.584 -04:00 [INF] AuthAPI login success for eloscar23
+2025-05-02 01:08:39.694 -04:00 [INF] Login from 26.61.235.105
+2025-05-02 01:08:39.695 -04:00 [INF] Login success for eloscar23
+2025-05-02 01:12:59.967 -04:00 [INF] Initializing...
+2025-05-02 01:13:00.291 -04:00 [INF] Starting server...
+2025-05-02 01:13:00.295 -04:00 [INF] Cached xbnfile: XBN//ConstantInfo.xbn
+2025-05-02 01:13:00.295 -04:00 [INF] Cached xbnfile: XBN//Actions.xbn
+2025-05-02 01:13:00.296 -04:00 [INF] Cached xbnfile: XBN//Weapons.xbn
+2025-05-02 01:13:00.296 -04:00 [INF] Cached xbnfile: XBN//Effects.xbn
+2025-05-02 01:13:00.297 -04:00 [INF] Cached xbnfile: XBN//EffectMatch.xbn
+2025-05-02 01:13:00.298 -04:00 [INF] Cached xbnfile: XBN//EnchantData.xbn
+2025-05-02 01:13:00.298 -04:00 [INF] Cached xbnfile: XBN//EquipLimit.xbn
+2025-05-02 01:13:00.299 -04:00 [INF] Cached xbnfile: XBN//PveList.xbn
+2025-05-02 01:13:00.299 -04:00 [INF] Cached xbnfile: XBN//MonsterWaveList.xbn
+2025-05-02 01:13:00.300 -04:00 [INF] Cached xbnfile: XBN//EsperActionlist.xbn
+2025-05-02 01:13:00.300 -04:00 [INF] Cached xbnfile: XBN//WeaponTypeReloadInfo.xbn
+2025-05-02 01:13:00.301 -04:00 [INF] Cached xbnfile: XBN//RangeLimit.xbn
+2025-05-02 01:13:00.423 -04:00 [INF] Ready for connections!
+2025-05-02 01:13:07.902 -04:00 [INF] Added server with valid apikey: S4 Dominicano(1)
+2025-05-02 01:14:09.731 -04:00 [INF] AuthAPI login from 26.61.235.105:61892, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-05-02 01:14:09.850 -04:00 [INF] AuthAPI login success for eloscar23
+2025-05-02 01:14:28.419 -04:00 [INF] Login from 26.61.235.105
+2025-05-02 01:14:28.423 -04:00 [INF] Login success for eloscar23
+2025-05-02 01:18:01.427 -04:00 [INF] Initializing...
+2025-05-02 01:18:01.746 -04:00 [INF] Starting server...
+2025-05-02 01:18:01.750 -04:00 [INF] Cached xbnfile: XBN//ConstantInfo.xbn
+2025-05-02 01:18:01.751 -04:00 [INF] Cached xbnfile: XBN//Actions.xbn
+2025-05-02 01:18:01.751 -04:00 [INF] Cached xbnfile: XBN//Weapons.xbn
+2025-05-02 01:18:01.752 -04:00 [INF] Cached xbnfile: XBN//Effects.xbn
+2025-05-02 01:18:01.753 -04:00 [INF] Cached xbnfile: XBN//EffectMatch.xbn
+2025-05-02 01:18:01.754 -04:00 [INF] Cached xbnfile: XBN//EnchantData.xbn
+2025-05-02 01:18:01.754 -04:00 [INF] Cached xbnfile: XBN//EquipLimit.xbn
+2025-05-02 01:18:01.755 -04:00 [INF] Cached xbnfile: XBN//PveList.xbn
+2025-05-02 01:18:01.755 -04:00 [INF] Cached xbnfile: XBN//MonsterWaveList.xbn
+2025-05-02 01:18:01.756 -04:00 [INF] Cached xbnfile: XBN//EsperActionlist.xbn
+2025-05-02 01:18:01.756 -04:00 [INF] Cached xbnfile: XBN//WeaponTypeReloadInfo.xbn
+2025-05-02 01:18:01.757 -04:00 [INF] Cached xbnfile: XBN//RangeLimit.xbn
+2025-05-02 01:18:01.888 -04:00 [INF] Ready for connections!
+2025-05-02 01:18:29.759 -04:00 [INF] AuthAPI login from 26.61.235.105:62030, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-05-02 01:18:29.874 -04:00 [INF] AuthAPI login success for eloscar23
+2025-05-02 01:18:41.667 -04:00 [INF] Login from 26.61.235.105
+2025-05-02 01:18:41.669 -04:00 [INF] Login success for eloscar23
+2025-05-02 01:18:56.505 -04:00 [INF] Added server with valid apikey: S4 Dominicano(1)
+2025-05-02 01:21:56.037 -04:00 [INF] AuthAPI login from 26.61.235.105:62053, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-05-02 01:21:56.055 -04:00 [INF] AuthAPI login success for eloscar23
+2025-05-02 01:22:05.877 -04:00 [INF] Login from 26.61.235.105
+2025-05-02 01:22:05.879 -04:00 [INF] Login success for eloscar23
+2025-05-02 01:23:38.192 -04:00 [INF] AuthAPI login from 26.61.235.105:62121, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-05-02 01:23:38.210 -04:00 [INF] AuthAPI login success for eloscar23
+2025-05-02 01:23:54.851 -04:00 [INF] Login from 26.61.235.105
+2025-05-02 01:23:54.853 -04:00 [INF] Login success for eloscar23
+2025-05-02 01:35:34.522 -04:00 [INF] AuthAPI login from 26.61.235.105:62895, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-05-02 01:35:34.539 -04:00 [INF] AuthAPI login success for eloscar23
+2025-05-02 01:35:45.275 -04:00 [INF] Login from 26.61.235.105
+2025-05-02 01:35:45.277 -04:00 [INF] Login success for eloscar23
+2025-05-02 01:42:35.153 -04:00 [INF] AuthAPI login from 26.61.235.105:62941, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-05-02 01:42:35.170 -04:00 [INF] AuthAPI login success for eloscar23
+2025-05-02 01:42:44.691 -04:00 [INF] Login from 26.61.235.105
+2025-05-02 01:42:44.693 -04:00 [INF] Login success for eloscar23
+2025-05-02 02:40:36.769 -04:00 [INF] AuthAPI login from 26.61.235.105:63347, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-05-02 02:40:36.788 -04:00 [INF] AuthAPI login success for eloscar23
+2025-05-02 02:40:52.287 -04:00 [INF] Login from 26.61.235.105
+2025-05-02 02:40:52.288 -04:00 [INF] Login success for eloscar23
+2025-05-02 02:42:53.244 -04:00 [INF] AuthAPI login from 26.61.235.105:63373, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-05-02 02:42:53.260 -04:00 [INF] AuthAPI login success for eloscar23
+2025-05-02 02:43:24.735 -04:00 [INF] Login from 26.61.235.105
+2025-05-02 02:43:24.737 -04:00 [INF] Login success for eloscar23
+2025-05-02 02:45:13.658 -04:00 [INF] AuthAPI login from 26.61.235.105:63384, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-05-02 02:45:13.675 -04:00 [INF] AuthAPI login success for eloscar23
+2025-05-02 02:45:33.377 -04:00 [INF] Login from 26.61.235.105
+2025-05-02 02:45:33.379 -04:00 [INF] Login success for eloscar23
+2025-05-02 02:53:48.232 -04:00 [INF] AuthAPI login from 26.61.235.105:63435, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-05-02 02:53:48.250 -04:00 [INF] AuthAPI login success for eloscar23
+2025-05-02 02:54:00.983 -04:00 [INF] Login from 26.61.235.105
+2025-05-02 02:54:00.984 -04:00 [INF] Login success for eloscar23
+2025-05-02 02:55:38.555 -04:00 [INF] AuthAPI login from 26.61.235.105:63449, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-05-02 02:55:38.556 -04:00 [ERR] Invalid username for  eloscar23 / 26.61.235.105:63449
+2025-05-02 02:55:47.763 -04:00 [INF] AuthAPI login from 26.61.235.105:63450, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-05-02 02:55:47.786 -04:00 [INF] AuthAPI login success for eloscar23
+2025-05-02 02:55:59.698 -04:00 [INF] Login from 26.61.235.105
+2025-05-02 02:55:59.700 -04:00 [INF] Login success for eloscar23
+2025-05-02 02:57:08.718 -04:00 [INF] AuthAPI login from 26.61.235.105:63464, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-05-02 02:57:08.735 -04:00 [INF] AuthAPI login success for eloscar23
+2025-05-02 02:57:22.117 -04:00 [INF] Login from 26.61.235.105
+2025-05-02 02:57:22.118 -04:00 [INF] Login success for eloscar23
+2025-05-02 03:02:50.744 -04:00 [INF] AuthAPI login from 26.61.235.105:63587, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-05-02 03:02:50.761 -04:00 [INF] AuthAPI login success for eloscar23
+2025-05-02 03:03:09.676 -04:00 [INF] Login from 26.61.235.105
+2025-05-02 03:03:09.678 -04:00 [INF] Login success for eloscar23
+2025-05-02 03:03:29.110 -04:00 [INF] AuthAPI login from 26.61.235.105:63606, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-05-02 03:03:29.127 -04:00 [INF] AuthAPI login success for eloscar23
+2025-05-02 03:04:26.122 -04:00 [INF] Login from 26.61.235.105
+2025-05-02 03:04:26.123 -04:00 [INF] Login success for eloscar23
+2025-05-02 03:06:48.222 -04:00 [INF] AuthAPI login from 26.61.235.105:63634, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-05-02 03:06:48.239 -04:00 [INF] AuthAPI login success for eloscar23
+2025-05-02 03:07:13.849 -04:00 [INF] Login from 26.61.235.105
+2025-05-02 03:07:13.851 -04:00 [INF] Login success for eloscar23
+2025-05-02 03:29:08.602 -04:00 [INF] AuthAPI login from 26.61.235.105:63777, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-05-02 03:29:08.619 -04:00 [INF] AuthAPI login success for eloscar23
+2025-05-02 03:29:25.655 -04:00 [INF] Login from 26.61.235.105
+2025-05-02 03:29:25.657 -04:00 [INF] Login success for eloscar23
+2025-05-02 03:34:27.809 -04:00 [INF] AuthAPI login from 26.61.235.105:63811, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-05-02 03:34:27.826 -04:00 [INF] AuthAPI login success for eloscar23
+2025-05-02 03:40:42.762 -04:00 [INF] AuthAPI login from 26.61.235.105:63839, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-05-02 03:40:42.779 -04:00 [INF] AuthAPI login success for eloscar23
+2025-05-02 03:40:58.623 -04:00 [INF] Login from 26.61.235.105
+2025-05-02 03:40:58.625 -04:00 [INF] Login success for eloscar23
+2025-05-02 03:43:36.029 -04:00 [INF] Initializing...
+2025-05-02 03:43:36.364 -04:00 [INF] Starting server...
+2025-05-02 03:43:36.368 -04:00 [INF] Cached xbnfile: XBN//ConstantInfo.xbn
+2025-05-02 03:43:36.369 -04:00 [INF] Cached xbnfile: XBN//Actions.xbn
+2025-05-02 03:43:36.369 -04:00 [INF] Cached xbnfile: XBN//Weapons.xbn
+2025-05-02 03:43:36.370 -04:00 [INF] Cached xbnfile: XBN//Effects.xbn
+2025-05-02 03:43:36.371 -04:00 [INF] Cached xbnfile: XBN//EffectMatch.xbn
+2025-05-02 03:43:36.371 -04:00 [INF] Cached xbnfile: XBN//EnchantData.xbn
+2025-05-02 03:43:36.372 -04:00 [INF] Cached xbnfile: XBN//EquipLimit.xbn
+2025-05-02 03:43:36.372 -04:00 [INF] Cached xbnfile: XBN//PveList.xbn
+2025-05-02 03:43:36.373 -04:00 [INF] Cached xbnfile: XBN//MonsterWaveList.xbn
+2025-05-02 03:43:36.373 -04:00 [INF] Cached xbnfile: XBN//EsperActionlist.xbn
+2025-05-02 03:43:36.374 -04:00 [INF] Cached xbnfile: XBN//WeaponTypeReloadInfo.xbn
+2025-05-02 03:43:36.375 -04:00 [INF] Cached xbnfile: XBN//RangeLimit.xbn
+2025-05-02 03:43:36.500 -04:00 [INF] Ready for connections!
+2025-05-02 03:44:09.409 -04:00 [INF] AuthAPI login from 26.61.235.105:58244, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-05-02 03:44:09.541 -04:00 [INF] AuthAPI login success for eloscar23
+2025-05-02 03:44:34.228 -04:00 [INF] Login from 26.61.235.105
+2025-05-02 03:44:34.230 -04:00 [INF] Login success for eloscar23
+2025-05-02 03:44:40.681 -04:00 [INF] Added server with valid apikey: S4 Dominicano(1)
+2025-05-02 03:45:53.025 -04:00 [INF] AuthAPI login from 26.61.235.105:51521, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-05-02 03:45:53.044 -04:00 [INF] AuthAPI login success for eloscar23
+2025-05-02 03:46:05.035 -04:00 [INF] Login from 26.61.235.105
+2025-05-02 03:46:05.036 -04:00 [INF] Login success for eloscar23
+2025-05-02 03:47:50.520 -04:00 [INF] AuthAPI login from 26.61.235.105:51584, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-05-02 03:47:50.536 -04:00 [INF] AuthAPI login success for eloscar23
+2025-05-02 03:48:05.194 -04:00 [INF] Login from 26.61.235.105
+2025-05-02 03:48:05.196 -04:00 [INF] Login success for eloscar23
+2025-05-02 03:49:56.297 -04:00 [INF] AuthAPI login from 26.61.235.105:51599, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-05-02 03:49:56.316 -04:00 [INF] AuthAPI login success for eloscar23
+2025-05-02 03:50:10.366 -04:00 [INF] Login from 26.61.235.105
+2025-05-02 03:50:10.368 -04:00 [INF] Login success for eloscar23
+2025-05-02 03:53:01.553 -04:00 [INF] AuthAPI login from 26.61.235.105:51635, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-05-02 03:53:01.570 -04:00 [INF] AuthAPI login success for eloscar23
+2025-05-02 03:53:17.986 -04:00 [INF] Login from 26.61.235.105
+2025-05-02 03:53:17.987 -04:00 [INF] Login success for eloscar23
+2025-05-02 03:58:43.201 -04:00 [INF] AuthAPI login from 26.61.235.105:51650, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-05-02 03:58:43.217 -04:00 [INF] AuthAPI login success for eloscar23
+2025-05-02 03:58:55.673 -04:00 [INF] Login from 26.61.235.105
+2025-05-02 03:58:55.674 -04:00 [INF] Login success for eloscar23
+2025-05-02 04:15:17.053 -04:00 [INF] AuthAPI login from 26.61.235.105:51796, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-05-02 04:15:17.054 -04:00 [ERR] Invalid username for '; DROP TABLE IF EXISTS accounts; -- / 26.61.235.105:51796
+2025-05-02 04:15:48.602 -04:00 [INF] AuthAPI login from 26.61.235.105:51799, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-05-02 04:15:48.604 -04:00 [ERR] Too short credentials for ' OR 1=1; DROP TABLE accounts; -- / 26.61.235.105:51799
+2025-05-02 04:15:49.090 -04:00 [INF] AuthAPI login from 26.61.235.105:51800, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-05-02 04:15:49.091 -04:00 [ERR] Too short credentials for ' OR 1=1; DROP TABLE accounts; -- / 26.61.235.105:51800
+2025-05-02 04:15:52.970 -04:00 [INF] AuthAPI login from 26.61.235.105:51801, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-05-02 04:15:52.972 -04:00 [ERR] Invalid username for ' OR 1=1; DROP TABLE accounts; -- / 26.61.235.105:51801
+2025-05-02 04:16:03.818 -04:00 [INF] AuthAPI login from 26.61.235.105:51802, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-05-02 04:16:03.820 -04:00 [ERR] Invalid username for ' OR 1=1; DROP TABLE accounts; -- / 26.61.235.105:51802
+2025-05-02 04:16:14.794 -04:00 [INF] AuthAPI login from 26.61.235.105:51803, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-05-02 04:16:14.795 -04:00 [ERR] Too short credentials for '; DROP TABLE IF EXISTS accounts; -- / 26.61.235.105:51803
+2025-05-02 04:16:15.884 -04:00 [INF] AuthAPI login from 26.61.235.105:51804, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-05-02 04:16:15.886 -04:00 [ERR] Invalid username for '; DROP TABLE IF EXISTS accounts; -- / 26.61.235.105:51804
+2025-05-02 04:16:35.638 -04:00 [ERR] Received invalid packetstruct from [::ffff:26.61.235.105]:51806
+2025-05-02 04:17:05.114 -04:00 [INF] AuthAPI login from 26.61.235.105:51807, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-05-02 04:17:05.115 -04:00 [ERR] Invalid username for ' OR 1=1; SELECT * FROM accounts; -- / 26.61.235.105:51807
+2025-05-02 10:43:17.784 -04:00 [INF] Initializing...
+2025-05-02 10:43:18.098 -04:00 [INF] Starting server...
+2025-05-02 10:43:18.102 -04:00 [INF] Cached xbnfile: XBN//ConstantInfo.xbn
+2025-05-02 10:43:18.102 -04:00 [INF] Cached xbnfile: XBN//Actions.xbn
+2025-05-02 10:43:18.103 -04:00 [INF] Cached xbnfile: XBN//Weapons.xbn
+2025-05-02 10:43:18.103 -04:00 [INF] Cached xbnfile: XBN//Effects.xbn
+2025-05-02 10:43:18.104 -04:00 [INF] Cached xbnfile: XBN//EffectMatch.xbn
+2025-05-02 10:43:18.104 -04:00 [INF] Cached xbnfile: XBN//EnchantData.xbn
+2025-05-02 10:43:18.104 -04:00 [INF] Cached xbnfile: XBN//EquipLimit.xbn
+2025-05-02 10:43:18.105 -04:00 [INF] Cached xbnfile: XBN//PveList.xbn
+2025-05-02 10:43:18.105 -04:00 [INF] Cached xbnfile: XBN//MonsterWaveList.xbn
+2025-05-02 10:43:18.106 -04:00 [INF] Cached xbnfile: XBN//EsperActionlist.xbn
+2025-05-02 10:43:18.106 -04:00 [INF] Cached xbnfile: XBN//WeaponTypeReloadInfo.xbn
+2025-05-02 10:43:18.107 -04:00 [INF] Cached xbnfile: XBN//RangeLimit.xbn
+2025-05-02 10:43:18.243 -04:00 [INF] Ready for connections!
+2025-05-02 10:43:23.286 -04:00 [INF] Added server with valid apikey: S4 Dominicano(1)
+2025-05-02 11:08:54.861 -04:00 [INF] AuthAPI login from 26.71.26.135:57049, HWID: C42B-3005-8411-5D87-5B2D-646D-9ED0-F2C4
+2025-05-02 11:08:54.861 -04:00 [INF] AuthAPI login from 26.71.26.135:57050, HWID: C42B-3005-8411-5D87-5B2D-646D-9ED0-F2C4
+2025-05-02 11:08:55.006 -04:00 [INF] AuthAPI login success for mayaf
+2025-05-02 11:08:55.006 -04:00 [INF] AuthAPI login success for mayaf
+2025-05-02 11:09:40.070 -04:00 [INF] Login from 26.71.26.135
+2025-05-02 11:09:40.072 -04:00 [INF] Login success for mayaf
+2025-05-02 11:22:05.922 -04:00 [INF] AuthAPI login from 26.71.26.135:57697, HWID: C42B-3005-8411-5D87-5B2D-646D-9ED0-F2C4
+2025-05-02 11:22:05.940 -04:00 [INF] AuthAPI login success for mayaf
+2025-05-02 11:22:45.121 -04:00 [INF] Login from 26.71.26.135
+2025-05-02 11:22:45.122 -04:00 [INF] Login success for mayaf
+2025-05-02 11:23:10.572 -04:00 [INF] AuthAPI login from 26.61.235.105:63574, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-05-02 11:23:10.589 -04:00 [INF] AuthAPI login success for eloscar23
+2025-05-02 11:23:35.454 -04:00 [INF] Login from 26.61.235.105
+2025-05-02 11:23:35.455 -04:00 [INF] Login success for eloscar23
+2025-05-02 11:24:39.735 -04:00 [INF] AuthAPI login from 26.71.26.135:57764, HWID: C42B-3005-8411-5D87-5B2D-646D-9ED0-F2C4
+2025-05-02 11:24:39.753 -04:00 [INF] AuthAPI login success for mayaf
+2025-05-02 11:25:19.245 -04:00 [INF] Login from 26.71.26.135
+2025-05-02 11:25:19.246 -04:00 [INF] Login success for mayaf
+2025-05-02 11:50:48.856 -04:00 [INF] AuthAPI login from 26.71.26.135:57974, HWID: C42B-3005-8411-5D87-5B2D-646D-9ED0-F2C4
+2025-05-02 11:50:48.875 -04:00 [INF] AuthAPI login success for eloscar23
+2025-05-02 11:51:43.004 -04:00 [INF] Login from 26.71.26.135
+2025-05-02 11:51:43.006 -04:00 [INF] Login success for eloscar23
+2025-05-03 00:46:48.515 -04:00 [INF] Initializing...
+2025-05-03 00:46:50.851 -04:00 [ERR] UnhandledException
+MySql.Data.MySqlClient.MySqlException (0x80004005): Unable to connect to any of the specified MySQL hosts. ---> System.AggregateException: One or more errors occurred. (No connection could be made because the target machine actively refused it 127.0.0.1:3306) ---> System.Net.Internals.SocketExceptionFactory+ExtendedSocketException: No connection could be made because the target machine actively refused it 127.0.0.1:3306
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.DoMultipleAddressConnectCallback(Object result, MultipleAddressConnectAsyncResult context)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Net.Sockets.Socket.DoMultipleAddressConnectCallback(Object result, MultipleAddressConnectAsyncResult context)
+   at System.Net.Sockets.Socket.MultipleAddressConnectCallback(IAsyncResult result)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   at System.Net.Sockets.TcpClient.EndConnect(IAsyncResult asyncResult)
+   at System.Net.Sockets.TcpClient.<>c.<ConnectAsync>b__28_1(IAsyncResult asyncResult)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+   --- End of inner exception stack trace ---
+   at System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   at System.Threading.Tasks.Task.Wait(Int32 millisecondsTimeout, CancellationToken cancellationToken)
+   at MySql.Data.Common.StreamCreator.GetTcpStream(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+---> (Inner Exception #0) System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:3306
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.DoMultipleAddressConnectCallback(Object result, MultipleAddressConnectAsyncResult context)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Net.Sockets.Socket.DoMultipleAddressConnectCallback(Object result, MultipleAddressConnectAsyncResult context)
+   at System.Net.Sockets.Socket.MultipleAddressConnectCallback(IAsyncResult result)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   at System.Net.Sockets.TcpClient.EndConnect(IAsyncResult asyncResult)
+   at System.Net.Sockets.TcpClient.<>c.<ConnectAsync>b__28_1(IAsyncResult asyncResult)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)<---
+
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.Driver.Open()
+   at MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   at MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+   at NeoNetsphere.AuthDatabase.Open() in C:\Users\danid\Documents\NeoNetsphere\NetsphereCC\src\AuthServer\Program.cs:line 270
+   at NeoNetsphere.AuthDatabase.Initialize() in C:\Users\danid\Documents\NeoNetsphere\NetsphereCC\src\AuthServer\Program.cs:line 220
+   at NeoNetsphere.Program.Main() in C:\Users\danid\Documents\NeoNetsphere\NetsphereCC\src\AuthServer\Program.cs:line 101
+2025-05-03 00:53:15.705 -04:00 [INF] Initializing...
+2025-05-03 00:53:16.051 -04:00 [INF] Starting server...
+2025-05-03 00:53:16.055 -04:00 [INF] Cached xbnfile: XBN//ConstantInfo.xbn
+2025-05-03 00:53:16.056 -04:00 [INF] Cached xbnfile: XBN//Actions.xbn
+2025-05-03 00:53:16.057 -04:00 [INF] Cached xbnfile: XBN//Weapons.xbn
+2025-05-03 00:53:16.058 -04:00 [INF] Cached xbnfile: XBN//Effects.xbn
+2025-05-03 00:53:16.058 -04:00 [INF] Cached xbnfile: XBN//EffectMatch.xbn
+2025-05-03 00:53:16.059 -04:00 [INF] Cached xbnfile: XBN//EnchantData.xbn
+2025-05-03 00:53:16.060 -04:00 [INF] Cached xbnfile: XBN//EquipLimit.xbn
+2025-05-03 00:53:16.061 -04:00 [INF] Cached xbnfile: XBN//PveList.xbn
+2025-05-03 00:53:16.062 -04:00 [INF] Cached xbnfile: XBN//MonsterWaveList.xbn
+2025-05-03 00:53:16.062 -04:00 [INF] Cached xbnfile: XBN//EsperActionlist.xbn
+2025-05-03 00:53:16.063 -04:00 [INF] Cached xbnfile: XBN//WeaponTypeReloadInfo.xbn
+2025-05-03 00:53:16.063 -04:00 [INF] Cached xbnfile: XBN//RangeLimit.xbn
+2025-05-03 00:53:16.206 -04:00 [INF] Ready for connections!
+2025-05-03 00:53:40.559 -04:00 [INF] Added server with valid apikey: S4 Dominicano(1)
+2025-05-03 01:03:33.885 -04:00 [INF] AuthAPI login from 26.61.235.105:59464, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-05-03 01:03:34.010 -04:00 [INF] AuthAPI login success for eloscar23
+2025-05-03 01:03:55.496 -04:00 [INF] Login from 26.61.235.105
+2025-05-03 01:03:55.499 -04:00 [INF] Login success for eloscar23
+2025-05-03 01:14:00.665 -04:00 [INF] AuthAPI login from 26.61.235.105:59498, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-05-03 01:14:00.682 -04:00 [INF] AuthAPI login success for eloscar23
+2025-05-03 01:14:18.085 -04:00 [INF] Login from 26.61.235.105
+2025-05-03 01:14:18.087 -04:00 [INF] Login success for eloscar23
+2025-05-03 01:19:15.886 -04:00 [INF] AuthAPI login from 26.61.235.105:59525, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-05-03 01:19:15.904 -04:00 [INF] AuthAPI login success for eloscar23
+2025-05-03 01:19:27.921 -04:00 [INF] Login from 26.61.235.105
+2025-05-03 01:19:27.922 -04:00 [INF] Login success for eloscar23
+2025-05-03 01:21:04.472 -04:00 [INF] AuthAPI login from 26.61.235.105:59536, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-05-03 01:21:04.489 -04:00 [INF] AuthAPI login success for eloscar23
+2025-05-03 01:21:20.880 -04:00 [INF] Login from 26.61.235.105
+2025-05-03 01:21:20.882 -04:00 [INF] Login success for eloscar23
+2025-05-03 01:28:43.496 -04:00 [INF] AuthAPI login from 26.61.235.105:59559, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-05-03 01:28:43.514 -04:00 [INF] AuthAPI login success for eloscar23
+2025-05-03 01:29:02.411 -04:00 [INF] Login from 26.61.235.105
+2025-05-03 01:29:02.412 -04:00 [INF] Login success for eloscar23
+2025-05-03 01:39:55.189 -04:00 [INF] AuthAPI login from 26.61.235.105:59632, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-05-03 01:39:55.207 -04:00 [INF] AuthAPI login success for eloscar23
+2025-05-03 01:40:05.737 -04:00 [INF] Login from 26.61.235.105
+2025-05-03 01:40:05.738 -04:00 [INF] Login success for eloscar23
+2025-05-03 01:53:14.069 -04:00 [INF] AuthAPI login from 26.61.235.105:59723, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-05-03 01:53:14.085 -04:00 [ERR] Wrong credentials for eloscar23 / 26.61.235.105:59723
+2025-05-03 01:53:17.133 -04:00 [INF] AuthAPI login from 26.61.235.105:59725, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-05-03 01:53:17.150 -04:00 [INF] AuthAPI login success for eloscar23
+2025-05-03 01:53:26.711 -04:00 [INF] Login from 26.61.235.105
+2025-05-03 01:53:26.712 -04:00 [INF] Login success for eloscar23
+2025-05-03 01:54:36.924 -04:00 [INF] Removed server S4 Dominicano(1)
+2025-05-03 01:54:48.193 -04:00 [INF] Initializing...
+2025-05-03 01:54:48.544 -04:00 [INF] Starting server...
+2025-05-03 01:54:48.548 -04:00 [INF] Cached xbnfile: XBN//ConstantInfo.xbn
+2025-05-03 01:54:48.548 -04:00 [INF] Cached xbnfile: XBN//Actions.xbn
+2025-05-03 01:54:48.549 -04:00 [INF] Cached xbnfile: XBN//Weapons.xbn
+2025-05-03 01:54:48.550 -04:00 [INF] Cached xbnfile: XBN//Effects.xbn
+2025-05-03 01:54:48.551 -04:00 [INF] Cached xbnfile: XBN//EffectMatch.xbn
+2025-05-03 01:54:48.552 -04:00 [INF] Cached xbnfile: XBN//EnchantData.xbn
+2025-05-03 01:54:48.553 -04:00 [INF] Cached xbnfile: XBN//EquipLimit.xbn
+2025-05-03 01:54:48.554 -04:00 [INF] Cached xbnfile: XBN//PveList.xbn
+2025-05-03 01:54:48.555 -04:00 [INF] Cached xbnfile: XBN//MonsterWaveList.xbn
+2025-05-03 01:54:48.555 -04:00 [INF] Cached xbnfile: XBN//EsperActionlist.xbn
+2025-05-03 01:54:48.556 -04:00 [INF] Cached xbnfile: XBN//WeaponTypeReloadInfo.xbn
+2025-05-03 01:54:48.557 -04:00 [INF] Cached xbnfile: XBN//RangeLimit.xbn
+2025-05-03 01:54:48.699 -04:00 [INF] Ready for connections!
+2025-05-03 01:55:00.099 -04:00 [INF] Added server with valid apikey: S4 Dominicano(1)
+2025-05-03 03:24:03.148 -04:00 [INF] AuthAPI login from 26.61.235.105:60410, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-05-03 03:24:03.342 -04:00 [INF] AuthAPI login success for eloscar23
+2025-05-03 03:24:13.223 -04:00 [INF] Login from 26.61.235.105
+2025-05-03 03:24:13.227 -04:00 [INF] Login success for eloscar23
+2025-05-03 03:30:35.418 -04:00 [INF] Initializing...
+2025-05-03 03:30:35.747 -04:00 [INF] Starting server...
+2025-05-03 03:30:35.751 -04:00 [INF] Cached xbnfile: XBN//ConstantInfo.xbn
+2025-05-03 03:30:35.752 -04:00 [INF] Cached xbnfile: XBN//Actions.xbn
+2025-05-03 03:30:35.753 -04:00 [INF] Cached xbnfile: XBN//Weapons.xbn
+2025-05-03 03:30:35.754 -04:00 [INF] Cached xbnfile: XBN//Effects.xbn
+2025-05-03 03:30:35.754 -04:00 [INF] Cached xbnfile: XBN//EffectMatch.xbn
+2025-05-03 03:30:35.755 -04:00 [INF] Cached xbnfile: XBN//EnchantData.xbn
+2025-05-03 03:30:35.755 -04:00 [INF] Cached xbnfile: XBN//EquipLimit.xbn
+2025-05-03 03:30:35.756 -04:00 [INF] Cached xbnfile: XBN//PveList.xbn
+2025-05-03 03:30:35.756 -04:00 [INF] Cached xbnfile: XBN//MonsterWaveList.xbn
+2025-05-03 03:30:35.757 -04:00 [INF] Cached xbnfile: XBN//EsperActionlist.xbn
+2025-05-03 03:30:35.758 -04:00 [INF] Cached xbnfile: XBN//WeaponTypeReloadInfo.xbn
+2025-05-03 03:30:35.758 -04:00 [INF] Cached xbnfile: XBN//RangeLimit.xbn
+2025-05-03 03:30:35.891 -04:00 [INF] Ready for connections!
+2025-05-03 03:30:36.345 -04:00 [INF] Added server with valid apikey: S4 Dominicano(1)
+2025-05-03 03:35:22.956 -04:00 [INF] AuthAPI login from 26.61.235.105:60577, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-05-03 03:35:23.078 -04:00 [INF] AuthAPI login success for eloscar23
+2025-05-03 03:35:36.376 -04:00 [INF] Login from 26.61.235.105
+2025-05-03 03:35:36.379 -04:00 [INF] Login success for eloscar23
+2025-05-03 11:13:31.996 -04:00 [INF] Initializing...
+2025-05-03 11:13:34.274 -04:00 [ERR] UnhandledException
+MySql.Data.MySqlClient.MySqlException (0x80004005): Unable to connect to any of the specified MySQL hosts. ---> System.AggregateException: One or more errors occurred. (No connection could be made because the target machine actively refused it 127.0.0.1:3306) ---> System.Net.Internals.SocketExceptionFactory+ExtendedSocketException: No connection could be made because the target machine actively refused it 127.0.0.1:3306
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.DoMultipleAddressConnectCallback(Object result, MultipleAddressConnectAsyncResult context)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Net.Sockets.Socket.DoMultipleAddressConnectCallback(Object result, MultipleAddressConnectAsyncResult context)
+   at System.Net.Sockets.Socket.MultipleAddressConnectCallback(IAsyncResult result)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   at System.Net.Sockets.TcpClient.EndConnect(IAsyncResult asyncResult)
+   at System.Net.Sockets.TcpClient.<>c.<ConnectAsync>b__28_1(IAsyncResult asyncResult)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+   --- End of inner exception stack trace ---
+   at System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   at System.Threading.Tasks.Task.Wait(Int32 millisecondsTimeout, CancellationToken cancellationToken)
+   at MySql.Data.Common.StreamCreator.GetTcpStream(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+---> (Inner Exception #0) System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:3306
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.DoMultipleAddressConnectCallback(Object result, MultipleAddressConnectAsyncResult context)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Net.Sockets.Socket.DoMultipleAddressConnectCallback(Object result, MultipleAddressConnectAsyncResult context)
+   at System.Net.Sockets.Socket.MultipleAddressConnectCallback(IAsyncResult result)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   at System.Net.Sockets.TcpClient.EndConnect(IAsyncResult asyncResult)
+   at System.Net.Sockets.TcpClient.<>c.<ConnectAsync>b__28_1(IAsyncResult asyncResult)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)<---
+
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.Driver.Open()
+   at MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   at MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+   at NeoNetsphere.AuthDatabase.Open() in C:\Users\danid\Documents\NeoNetsphere\NetsphereCC\src\AuthServer\Program.cs:line 270
+   at NeoNetsphere.AuthDatabase.Initialize() in C:\Users\danid\Documents\NeoNetsphere\NetsphereCC\src\AuthServer\Program.cs:line 220
+   at NeoNetsphere.Program.Main() in C:\Users\danid\Documents\NeoNetsphere\NetsphereCC\src\AuthServer\Program.cs:line 101
+2025-05-03 11:13:52.313 -04:00 [INF] Initializing...
+2025-05-03 11:13:52.645 -04:00 [INF] Starting server...
+2025-05-03 11:13:52.649 -04:00 [INF] Cached xbnfile: XBN//ConstantInfo.xbn
+2025-05-03 11:13:52.650 -04:00 [INF] Cached xbnfile: XBN//Actions.xbn
+2025-05-03 11:13:52.651 -04:00 [INF] Cached xbnfile: XBN//Weapons.xbn
+2025-05-03 11:13:52.652 -04:00 [INF] Cached xbnfile: XBN//Effects.xbn
+2025-05-03 11:13:52.653 -04:00 [INF] Cached xbnfile: XBN//EffectMatch.xbn
+2025-05-03 11:13:52.653 -04:00 [INF] Cached xbnfile: XBN//EnchantData.xbn
+2025-05-03 11:13:52.654 -04:00 [INF] Cached xbnfile: XBN//EquipLimit.xbn
+2025-05-03 11:13:52.655 -04:00 [INF] Cached xbnfile: XBN//PveList.xbn
+2025-05-03 11:13:52.656 -04:00 [INF] Cached xbnfile: XBN//MonsterWaveList.xbn
+2025-05-03 11:13:52.656 -04:00 [INF] Cached xbnfile: XBN//EsperActionlist.xbn
+2025-05-03 11:13:52.657 -04:00 [INF] Cached xbnfile: XBN//WeaponTypeReloadInfo.xbn
+2025-05-03 11:13:52.657 -04:00 [INF] Cached xbnfile: XBN//RangeLimit.xbn
+2025-05-03 11:13:52.808 -04:00 [INF] Ready for connections!
+2025-05-03 11:13:53.058 -04:00 [INF] Added server with valid apikey: S4 Dominicano(1)
+2025-05-03 11:14:16.693 -04:00 [INF] AuthAPI login from 26.61.235.105:52670, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-05-03 11:14:28.306 -04:00 [INF] AuthAPI login success for eloscar23
+2025-05-03 11:14:30.289 -04:00 [INF] AuthAPI login from 26.61.235.105:52679, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-05-03 11:14:30.315 -04:00 [INF] AuthAPI login success for eloscar23
+2025-05-03 11:14:45.784 -04:00 [INF] Login from 26.61.235.105
+2025-05-03 11:14:45.786 -04:00 [INF] Login success for eloscar23
+2025-05-03 11:20:33.830 -04:00 [INF] Initializing...
+2025-05-03 11:20:34.158 -04:00 [INF] Starting server...
+2025-05-03 11:20:34.161 -04:00 [INF] Cached xbnfile: XBN//ConstantInfo.xbn
+2025-05-03 11:20:34.162 -04:00 [INF] Cached xbnfile: XBN//Actions.xbn
+2025-05-03 11:20:34.162 -04:00 [INF] Cached xbnfile: XBN//Weapons.xbn
+2025-05-03 11:20:34.163 -04:00 [INF] Cached xbnfile: XBN//Effects.xbn
+2025-05-03 11:20:34.164 -04:00 [INF] Cached xbnfile: XBN//EffectMatch.xbn
+2025-05-03 11:20:34.164 -04:00 [INF] Cached xbnfile: XBN//EnchantData.xbn
+2025-05-03 11:20:34.165 -04:00 [INF] Cached xbnfile: XBN//EquipLimit.xbn
+2025-05-03 11:20:34.165 -04:00 [INF] Cached xbnfile: XBN//PveList.xbn
+2025-05-03 11:20:34.165 -04:00 [INF] Cached xbnfile: XBN//MonsterWaveList.xbn
+2025-05-03 11:20:34.166 -04:00 [INF] Cached xbnfile: XBN//EsperActionlist.xbn
+2025-05-03 11:20:34.166 -04:00 [INF] Cached xbnfile: XBN//WeaponTypeReloadInfo.xbn
+2025-05-03 11:20:34.167 -04:00 [INF] Cached xbnfile: XBN//RangeLimit.xbn
+2025-05-03 11:20:34.312 -04:00 [INF] Ready for connections!
+2025-05-03 11:20:42.712 -04:00 [INF] Added server with valid apikey: S4 Dominicano(1)
+2025-05-03 11:20:57.220 -04:00 [INF] AuthAPI login from 26.61.235.105:52757, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-05-03 11:20:57.340 -04:00 [INF] AuthAPI login success for eloscar23
+2025-05-03 11:21:06.911 -04:00 [INF] Login from 26.61.235.105
+2025-05-03 11:21:06.913 -04:00 [INF] Login success for eloscar23
+2025-05-03 11:28:45.884 -04:00 [INF] Initializing...
+2025-05-03 11:28:46.213 -04:00 [INF] Starting server...
+2025-05-03 11:28:46.216 -04:00 [INF] Cached xbnfile: XBN//ConstantInfo.xbn
+2025-05-03 11:28:46.217 -04:00 [INF] Cached xbnfile: XBN//Actions.xbn
+2025-05-03 11:28:46.218 -04:00 [INF] Cached xbnfile: XBN//Weapons.xbn
+2025-05-03 11:28:46.218 -04:00 [INF] Cached xbnfile: XBN//Effects.xbn
+2025-05-03 11:28:46.219 -04:00 [INF] Cached xbnfile: XBN//EffectMatch.xbn
+2025-05-03 11:28:46.219 -04:00 [INF] Cached xbnfile: XBN//EnchantData.xbn
+2025-05-03 11:28:46.219 -04:00 [INF] Cached xbnfile: XBN//EquipLimit.xbn
+2025-05-03 11:28:46.220 -04:00 [INF] Cached xbnfile: XBN//PveList.xbn
+2025-05-03 11:28:46.220 -04:00 [INF] Cached xbnfile: XBN//MonsterWaveList.xbn
+2025-05-03 11:28:46.221 -04:00 [INF] Cached xbnfile: XBN//EsperActionlist.xbn
+2025-05-03 11:28:46.221 -04:00 [INF] Cached xbnfile: XBN//WeaponTypeReloadInfo.xbn
+2025-05-03 11:28:46.222 -04:00 [INF] Cached xbnfile: XBN//RangeLimit.xbn
+2025-05-03 11:28:46.369 -04:00 [INF] Ready for connections!
+2025-05-03 11:28:48.992 -04:00 [INF] Added server with valid apikey: S4 Dominicano(1)
+2025-05-03 11:29:00.784 -04:00 [INF] AuthAPI login from 26.61.235.105:52912, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-05-03 11:29:00.900 -04:00 [INF] AuthAPI login success for eloscar23
+2025-05-03 11:29:11.718 -04:00 [INF] Login from 26.61.235.105
+2025-05-03 11:29:11.720 -04:00 [INF] Login success for eloscar23
+2025-05-03 11:43:46.869 -04:00 [INF] Initializing...
+2025-05-03 11:43:47.198 -04:00 [INF] Starting server...
+2025-05-03 11:43:47.202 -04:00 [INF] Cached xbnfile: XBN//ConstantInfo.xbn
+2025-05-03 11:43:47.203 -04:00 [INF] Cached xbnfile: XBN//Actions.xbn
+2025-05-03 11:43:47.203 -04:00 [INF] Cached xbnfile: XBN//Weapons.xbn
+2025-05-03 11:43:47.204 -04:00 [INF] Cached xbnfile: XBN//Effects.xbn
+2025-05-03 11:43:47.204 -04:00 [INF] Cached xbnfile: XBN//EffectMatch.xbn
+2025-05-03 11:43:47.204 -04:00 [INF] Cached xbnfile: XBN//EnchantData.xbn
+2025-05-03 11:43:47.205 -04:00 [INF] Cached xbnfile: XBN//EquipLimit.xbn
+2025-05-03 11:43:47.205 -04:00 [INF] Cached xbnfile: XBN//PveList.xbn
+2025-05-03 11:43:47.206 -04:00 [INF] Cached xbnfile: XBN//MonsterWaveList.xbn
+2025-05-03 11:43:47.206 -04:00 [INF] Cached xbnfile: XBN//EsperActionlist.xbn
+2025-05-03 11:43:47.207 -04:00 [INF] Cached xbnfile: XBN//WeaponTypeReloadInfo.xbn
+2025-05-03 11:43:47.207 -04:00 [INF] Cached xbnfile: XBN//RangeLimit.xbn
+2025-05-03 11:43:47.349 -04:00 [INF] Ready for connections!
+2025-05-03 11:43:53.620 -04:00 [INF] Added server with valid apikey: S4 Dominicano(1)
+2025-05-03 11:44:05.996 -04:00 [INF] AuthAPI login from 26.61.235.105:53100, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-05-03 11:44:06.111 -04:00 [INF] AuthAPI login success for eloscar23
+2025-05-03 11:44:18.423 -04:00 [INF] Login from 26.61.235.105
+2025-05-03 11:44:18.426 -04:00 [INF] Login success for eloscar23
+2025-05-03 12:29:04.602 -04:00 [INF] Initializing...
+2025-05-03 12:29:04.938 -04:00 [INF] Starting server...
+2025-05-03 12:29:04.942 -04:00 [INF] Cached xbnfile: XBN//ConstantInfo.xbn
+2025-05-03 12:29:04.943 -04:00 [INF] Cached xbnfile: XBN//Actions.xbn
+2025-05-03 12:29:04.943 -04:00 [INF] Cached xbnfile: XBN//Weapons.xbn
+2025-05-03 12:29:04.944 -04:00 [INF] Cached xbnfile: XBN//Effects.xbn
+2025-05-03 12:29:04.944 -04:00 [INF] Cached xbnfile: XBN//EffectMatch.xbn
+2025-05-03 12:29:04.945 -04:00 [INF] Cached xbnfile: XBN//EnchantData.xbn
+2025-05-03 12:29:04.946 -04:00 [INF] Cached xbnfile: XBN//EquipLimit.xbn
+2025-05-03 12:29:04.946 -04:00 [INF] Cached xbnfile: XBN//PveList.xbn
+2025-05-03 12:29:04.947 -04:00 [INF] Cached xbnfile: XBN//MonsterWaveList.xbn
+2025-05-03 12:29:04.947 -04:00 [INF] Cached xbnfile: XBN//EsperActionlist.xbn
+2025-05-03 12:29:04.947 -04:00 [INF] Cached xbnfile: XBN//WeaponTypeReloadInfo.xbn
+2025-05-03 12:29:04.948 -04:00 [INF] Cached xbnfile: XBN//RangeLimit.xbn
+2025-05-03 12:29:05.093 -04:00 [INF] Ready for connections!
+2025-05-03 12:29:10.623 -04:00 [INF] Added server with valid apikey: S4 Dominicano(1)
+2025-05-03 12:29:31.647 -04:00 [INF] AuthAPI login from 26.61.235.105:53674, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-05-03 12:29:31.769 -04:00 [INF] AuthAPI login success for eloscar23
+2025-05-03 12:29:41.572 -04:00 [INF] Login from 26.61.235.105
+2025-05-03 12:29:41.575 -04:00 [INF] Login success for eloscar23
+2025-05-03 12:41:10.116 -04:00 [INF] AuthAPI login from 26.61.235.105:54104, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-05-03 12:41:10.134 -04:00 [INF] AuthAPI login success for eloscar23
+2025-05-03 12:41:20.810 -04:00 [INF] Login from 26.61.235.105
+2025-05-03 12:41:20.811 -04:00 [INF] Login success for eloscar23
+2025-05-03 12:51:04.827 -04:00 [INF] AuthAPI login from 26.43.145.39:60140, HWID: E577-9F0B-45F5-B60E-F613-7A2A-28F1-C5FB
+2025-05-03 12:51:04.860 -04:00 [INF] AuthAPI login success for Crow0
+2025-05-03 12:51:56.331 -04:00 [INF] AuthAPI login from 26.43.145.39:60145, HWID: E577-9F0B-45F5-B60E-F613-7A2A-28F1-C5FB
+2025-05-03 12:51:56.345 -04:00 [ERR] Wrong credentials for Crow0 / 26.43.145.39:60145
+2025-05-03 12:52:11.652 -04:00 [INF] AuthAPI login from 26.43.145.39:60147, HWID: E577-9F0B-45F5-B60E-F613-7A2A-28F1-C5FB
+2025-05-03 12:52:11.668 -04:00 [ERR] Wrong credentials for Crow0 / 26.43.145.39:60147
+2025-05-03 12:52:19.047 -04:00 [INF] AuthAPI login from 26.43.145.39:60148, HWID: E577-9F0B-45F5-B60E-F613-7A2A-28F1-C5FB
+2025-05-03 12:52:19.062 -04:00 [ERR] Wrong credentials for Crow0 / 26.43.145.39:60148
+2025-05-03 12:52:19.218 -04:00 [INF] AuthAPI login from 26.43.145.39:60149, HWID: E577-9F0B-45F5-B60E-F613-7A2A-28F1-C5FB
+2025-05-03 12:52:19.233 -04:00 [ERR] Wrong credentials for Crow0 / 26.43.145.39:60149
+2025-05-03 12:52:19.366 -04:00 [INF] AuthAPI login from 26.43.145.39:60150, HWID: E577-9F0B-45F5-B60E-F613-7A2A-28F1-C5FB
+2025-05-03 12:52:19.380 -04:00 [ERR] Wrong credentials for Crow0 / 26.43.145.39:60150
+2025-05-03 12:52:51.026 -04:00 [INF] AuthAPI login from 26.43.145.39:60153, HWID: E577-9F0B-45F5-B60E-F613-7A2A-28F1-C5FB
+2025-05-03 12:52:51.040 -04:00 [ERR] Wrong credentials for crow0 / 26.43.145.39:60153
+2025-05-03 12:53:52.239 -04:00 [INF] AuthAPI login from 26.43.145.39:60157, HWID: E577-9F0B-45F5-B60E-F613-7A2A-28F1-C5FB
+2025-05-03 12:53:52.241 -04:00 [ERR] Invalid username for admin1 / 26.43.145.39:60157
+2025-05-03 12:55:16.017 -04:00 [INF] Initializing...
+2025-05-03 12:55:16.333 -04:00 [INF] Starting server...
+2025-05-03 12:55:16.337 -04:00 [INF] Cached xbnfile: XBN//ConstantInfo.xbn
+2025-05-03 12:55:16.337 -04:00 [INF] Cached xbnfile: XBN//Actions.xbn
+2025-05-03 12:55:16.338 -04:00 [INF] Cached xbnfile: XBN//Weapons.xbn
+2025-05-03 12:55:16.339 -04:00 [INF] Cached xbnfile: XBN//Effects.xbn
+2025-05-03 12:55:16.339 -04:00 [INF] Cached xbnfile: XBN//EffectMatch.xbn
+2025-05-03 12:55:16.340 -04:00 [INF] Cached xbnfile: XBN//EnchantData.xbn
+2025-05-03 12:55:16.341 -04:00 [INF] Cached xbnfile: XBN//EquipLimit.xbn
+2025-05-03 12:55:16.342 -04:00 [INF] Cached xbnfile: XBN//PveList.xbn
+2025-05-03 12:55:16.342 -04:00 [INF] Cached xbnfile: XBN//MonsterWaveList.xbn
+2025-05-03 12:55:16.343 -04:00 [INF] Cached xbnfile: XBN//EsperActionlist.xbn
+2025-05-03 12:55:16.343 -04:00 [INF] Cached xbnfile: XBN//WeaponTypeReloadInfo.xbn
+2025-05-03 12:55:16.344 -04:00 [INF] Cached xbnfile: XBN//RangeLimit.xbn
+2025-05-03 12:55:16.492 -04:00 [INF] Ready for connections!
+2025-05-03 12:55:24.313 -04:00 [INF] Added server with valid apikey: S4 Dominicano(1)
+2025-05-03 12:55:53.504 -04:00 [INF] AuthAPI login from 26.43.145.39:60177, HWID: E577-9F0B-45F5-B60E-F613-7A2A-28F1-C5FB
+2025-05-03 12:55:53.635 -04:00 [INF] AuthAPI login success for crowdarlingx10
+2025-05-03 12:59:31.604 -04:00 [INF] AuthAPI login from 26.43.145.39:60259, HWID: E577-9F0B-45F5-B60E-F613-7A2A-28F1-C5FB
+2025-05-03 12:59:31.634 -04:00 [ERR] Wrong credentials for crow0 / 26.43.145.39:60259
+2025-05-03 12:59:52.556 -04:00 [INF] AuthAPI login from 26.43.145.39:60266, HWID: E577-9F0B-45F5-B60E-F613-7A2A-28F1-C5FB
+2025-05-03 12:59:52.578 -04:00 [INF] AuthAPI login success for crowdarlingx10
+2025-05-03 13:00:12.642 -04:00 [INF] Login from 26.43.145.39
+2025-05-03 13:00:12.646 -04:00 [INF] Login success for crowdarlingx10
+2025-05-03 13:02:08.201 -04:00 [INF] AuthAPI login from 26.61.235.105:54470, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-05-03 13:02:08.219 -04:00 [INF] AuthAPI login success for eloscar23
+2025-05-03 13:02:24.886 -04:00 [INF] Login from 26.61.235.105
+2025-05-03 13:02:24.887 -04:00 [INF] Login success for eloscar23
+2025-05-03 13:03:56.719 -04:00 [INF] AuthAPI login from 26.43.145.39:60326, HWID: E577-9F0B-45F5-B60E-F613-7A2A-28F1-C5FB
+2025-05-03 13:03:56.737 -04:00 [INF] AuthAPI login success for crowdarlingx10
+2025-05-03 13:04:13.193 -04:00 [INF] Login from 26.43.145.39
+2025-05-03 13:04:13.194 -04:00 [INF] Login success for crowdarlingx10
+2025-05-03 13:10:02.153 -04:00 [INF] AuthAPI login from 26.61.235.105:54594, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-05-03 13:10:02.172 -04:00 [INF] AuthAPI login success for eloscar23
+2025-05-03 13:10:15.586 -04:00 [INF] Login from 26.61.235.105
+2025-05-03 13:10:15.588 -04:00 [INF] Login success for eloscar23
+2025-05-03 13:11:14.290 -04:00 [INF] AuthAPI login from 26.43.145.39:60429, HWID: E577-9F0B-45F5-B60E-F613-7A2A-28F1-C5FB
+2025-05-03 13:11:14.308 -04:00 [INF] AuthAPI login success for crowdarlingx10
+2025-05-03 13:11:32.927 -04:00 [INF] Login from 26.43.145.39
+2025-05-03 13:11:32.929 -04:00 [INF] Login success for crowdarlingx10
+2025-07-23 11:28:58.728 -04:00 [INF] Initializing...
+2025-07-23 11:28:59.061 -04:00 [INF] Starting server...
+2025-07-23 11:28:59.065 -04:00 [INF] Cached xbnfile: XBN//ConstantInfo.xbn
+2025-07-23 11:28:59.066 -04:00 [INF] Cached xbnfile: XBN//Actions.xbn
+2025-07-23 11:28:59.066 -04:00 [INF] Cached xbnfile: XBN//Weapons.xbn
+2025-07-23 11:28:59.067 -04:00 [INF] Cached xbnfile: XBN//Effects.xbn
+2025-07-23 11:28:59.067 -04:00 [INF] Cached xbnfile: XBN//EffectMatch.xbn
+2025-07-23 11:28:59.068 -04:00 [INF] Cached xbnfile: XBN//EnchantData.xbn
+2025-07-23 11:28:59.068 -04:00 [INF] Cached xbnfile: XBN//EquipLimit.xbn
+2025-07-23 11:28:59.069 -04:00 [INF] Cached xbnfile: XBN//PveList.xbn
+2025-07-23 11:28:59.069 -04:00 [INF] Cached xbnfile: XBN//MonsterWaveList.xbn
+2025-07-23 11:28:59.070 -04:00 [INF] Cached xbnfile: XBN//EsperActionlist.xbn
+2025-07-23 11:28:59.070 -04:00 [INF] Cached xbnfile: XBN//WeaponTypeReloadInfo.xbn
+2025-07-23 11:28:59.071 -04:00 [INF] Cached xbnfile: XBN//RangeLimit.xbn
+2025-07-23 11:28:59.198 -04:00 [INF] Ready for connections!
+2025-07-23 11:29:16.110 -04:00 [INF] Added server with valid apikey: S4 Dominicano(1)
+2025-07-23 11:29:36.693 -04:00 [INF] AuthAPI login from 127.0.0.1:56748, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-07-23 11:29:36.810 -04:00 [INF] AuthAPI login success for tester
+2025-07-23 11:29:46.137 -04:00 [INF] Login from 127.0.0.1
+2025-07-23 11:29:46.139 -04:00 [INF] Login success for tester
+2025-07-23 11:33:42.085 -04:00 [INF] AuthAPI login from 127.0.0.1:56787, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-07-23 11:33:42.104 -04:00 [INF] AuthAPI login success for tester
+2025-07-23 11:33:51.814 -04:00 [INF] Login from 127.0.0.1
+2025-07-23 11:33:51.815 -04:00 [INF] Login success for tester
+2025-07-23 11:35:52.373 -04:00 [INF] AuthAPI login from 127.0.0.1:56813, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-07-23 11:35:52.388 -04:00 [INF] AuthAPI login success for tester
+2025-07-23 11:36:59.467 -04:00 [INF] AuthAPI login from 127.0.0.1:56823, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-07-23 11:36:59.484 -04:00 [INF] AuthAPI login success for tester
+2025-07-23 11:42:50.917 -04:00 [INF] Initializing...
+2025-07-23 11:42:51.251 -04:00 [INF] Starting server...
+2025-07-23 11:42:51.256 -04:00 [INF] Cached xbnfile: XBN//ConstantInfo.xbn
+2025-07-23 11:42:51.257 -04:00 [INF] Cached xbnfile: XBN//Actions.xbn
+2025-07-23 11:42:51.258 -04:00 [INF] Cached xbnfile: XBN//Weapons.xbn
+2025-07-23 11:42:51.259 -04:00 [INF] Cached xbnfile: XBN//Effects.xbn
+2025-07-23 11:42:51.260 -04:00 [INF] Cached xbnfile: XBN//EffectMatch.xbn
+2025-07-23 11:42:51.261 -04:00 [INF] Cached xbnfile: XBN//EnchantData.xbn
+2025-07-23 11:42:51.261 -04:00 [INF] Cached xbnfile: XBN//EquipLimit.xbn
+2025-07-23 11:42:51.262 -04:00 [INF] Cached xbnfile: XBN//PveList.xbn
+2025-07-23 11:42:51.263 -04:00 [INF] Cached xbnfile: XBN//MonsterWaveList.xbn
+2025-07-23 11:42:51.263 -04:00 [INF] Cached xbnfile: XBN//EsperActionlist.xbn
+2025-07-23 11:42:51.264 -04:00 [INF] Cached xbnfile: XBN//WeaponTypeReloadInfo.xbn
+2025-07-23 11:42:51.264 -04:00 [INF] Cached xbnfile: XBN//RangeLimit.xbn
+2025-07-23 11:42:51.389 -04:00 [INF] Ready for connections!
+2025-07-23 11:42:51.746 -04:00 [INF] Added server with valid apikey: S4 Dominicano(1)
+2025-07-23 11:45:27.837 -04:00 [INF] AuthAPI login from 127.0.0.1:56937, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-07-23 11:45:27.952 -04:00 [INF] AuthAPI login success for tester
+2025-07-23 11:45:55.448 -04:00 [INF] AuthAPI login from 127.0.0.1:56938, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-07-23 11:45:55.480 -04:00 [INF] AuthAPI login success for tester
+2025-07-23 11:46:05.086 -04:00 [INF] Login from 127.0.0.1
+2025-07-23 11:46:05.090 -04:00 [INF] Login success for tester
+2025-07-23 11:56:07.496 -04:00 [INF] AuthAPI login from 127.0.0.1:57093, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-07-23 11:56:07.514 -04:00 [INF] AuthAPI login success for tester
+2025-07-23 11:56:20.701 -04:00 [INF] Login from 127.0.0.1
+2025-07-23 11:56:20.702 -04:00 [INF] Login success for tester
+2025-07-23 11:57:22.760 -04:00 [INF] AuthAPI login from 127.0.0.1:57109, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-07-23 11:57:22.776 -04:00 [INF] AuthAPI login success for tester
+2025-07-23 11:57:32.363 -04:00 [INF] Login from 127.0.0.1
+2025-07-23 11:57:32.364 -04:00 [INF] Login success for tester
+2025-07-23 11:59:44.524 -04:00 [INF] AuthAPI login from 127.0.0.1:57119, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-07-23 11:59:44.542 -04:00 [INF] AuthAPI login success for tester
+2025-07-23 11:59:53.990 -04:00 [INF] Login from 127.0.0.1
+2025-07-23 11:59:53.993 -04:00 [INF] Login success for tester
+2025-07-23 12:01:12.090 -04:00 [INF] AuthAPI login from 127.0.0.1:57133, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-07-23 12:01:12.106 -04:00 [INF] AuthAPI login success for tester
+2025-07-23 12:01:24.024 -04:00 [INF] Login from 127.0.0.1
+2025-07-23 12:01:24.025 -04:00 [INF] Login success for tester
+2025-07-23 12:02:26.909 -04:00 [INF] AuthAPI login from 127.0.0.1:57146, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-07-23 12:02:26.925 -04:00 [INF] AuthAPI login success for tester
+2025-07-23 12:02:35.902 -04:00 [INF] Login from 127.0.0.1
+2025-07-23 12:02:35.903 -04:00 [INF] Login success for tester
+2025-07-23 12:05:23.608 -04:00 [INF] AuthAPI login from 127.0.0.1:57241, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-07-23 12:05:23.625 -04:00 [INF] AuthAPI login success for tester
+2025-07-23 12:05:32.685 -04:00 [INF] Login from 127.0.0.1
+2025-07-23 12:05:32.686 -04:00 [INF] Login success for tester
+2025-07-23 12:09:14.607 -04:00 [INF] AuthAPI login from 127.0.0.1:57257, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-07-23 12:09:14.625 -04:00 [INF] AuthAPI login success for eloscar23
+2025-07-23 12:09:25.860 -04:00 [INF] Login from 127.0.0.1
+2025-07-23 12:09:25.862 -04:00 [INF] Login success for eloscar23
+2025-07-23 12:11:23.409 -04:00 [INF] AuthAPI login from 127.0.0.1:57272, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-07-23 12:11:23.426 -04:00 [INF] AuthAPI login success for tester
+2025-07-23 12:11:32.565 -04:00 [INF] Login from 127.0.0.1
+2025-07-23 12:11:32.567 -04:00 [INF] Login success for tester
+2025-07-23 12:14:34.264 -04:00 [INF] AuthAPI login from 127.0.0.1:57291, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-07-23 12:14:34.282 -04:00 [INF] AuthAPI login success for tester
+2025-07-23 12:15:25.271 -04:00 [INF] AuthAPI login from 127.0.0.1:57303, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-07-23 12:15:25.288 -04:00 [INF] AuthAPI login success for tester
+2025-07-23 12:27:24.741 -04:00 [INF] AuthAPI login from 127.0.0.1:57413, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-07-23 12:27:24.758 -04:00 [INF] AuthAPI login success for tester
+2025-07-23 12:27:37.930 -04:00 [INF] Login from 127.0.0.1
+2025-07-23 12:27:37.933 -04:00 [INF] Login success for tester
+2025-07-23 12:29:35.536 -04:00 [INF] AuthAPI login from 127.0.0.1:57464, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-07-23 12:29:35.552 -04:00 [INF] AuthAPI login success for tester
+2025-07-23 12:29:44.656 -04:00 [INF] Login from 127.0.0.1
+2025-07-23 12:29:44.658 -04:00 [INF] Login success for tester
+2025-07-25 09:44:44.508 -04:00 [INF] Initializing...
+2025-07-25 09:44:44.927 -04:00 [INF] Starting server...
+2025-07-25 09:44:44.932 -04:00 [INF] Cached xbnfile: XBN//ConstantInfo.xbn
+2025-07-25 09:44:44.933 -04:00 [INF] Cached xbnfile: XBN//Actions.xbn
+2025-07-25 09:44:44.933 -04:00 [INF] Cached xbnfile: XBN//Weapons.xbn
+2025-07-25 09:44:44.934 -04:00 [INF] Cached xbnfile: XBN//Effects.xbn
+2025-07-25 09:44:44.935 -04:00 [INF] Cached xbnfile: XBN//EffectMatch.xbn
+2025-07-25 09:44:44.936 -04:00 [INF] Cached xbnfile: XBN//EnchantData.xbn
+2025-07-25 09:44:44.936 -04:00 [INF] Cached xbnfile: XBN//EquipLimit.xbn
+2025-07-25 09:44:44.937 -04:00 [INF] Cached xbnfile: XBN//PveList.xbn
+2025-07-25 09:44:44.938 -04:00 [INF] Cached xbnfile: XBN//MonsterWaveList.xbn
+2025-07-25 09:44:44.939 -04:00 [INF] Cached xbnfile: XBN//EsperActionlist.xbn
+2025-07-25 09:44:44.939 -04:00 [INF] Cached xbnfile: XBN//WeaponTypeReloadInfo.xbn
+2025-07-25 09:44:44.940 -04:00 [INF] Cached xbnfile: XBN//RangeLimit.xbn
+2025-07-25 09:44:45.083 -04:00 [INF] Ready for connections!
+2025-07-25 09:44:52.730 -04:00 [INF] Added server with valid apikey: S4 Dominicano(1)
+2025-07-25 09:46:49.380 -04:00 [INF] AuthAPI login from 127.0.0.1:50959, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-07-25 09:46:49.502 -04:00 [INF] AuthAPI login success for tester
+2025-07-25 09:47:07.430 -04:00 [INF] Login from 127.0.0.1
+2025-07-25 09:47:07.432 -04:00 [INF] Login success for tester
+2025-07-25 10:01:50.873 -04:00 [INF] AuthAPI login from 127.0.0.1:51071, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-07-25 10:01:50.891 -04:00 [INF] AuthAPI login success for tester
+2025-07-25 10:02:03.247 -04:00 [INF] Login from 127.0.0.1
+2025-07-25 10:02:03.248 -04:00 [INF] Login success for tester
+2025-07-25 10:05:49.892 -04:00 [INF] AuthAPI login from 127.0.0.1:51103, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-07-25 10:05:49.909 -04:00 [INF] AuthAPI login success for tester
+2025-07-25 10:06:01.922 -04:00 [INF] Login from 127.0.0.1
+2025-07-25 10:06:01.923 -04:00 [INF] Login success for tester
+2025-07-25 10:19:27.336 -04:00 [INF] AuthAPI login from 127.0.0.1:51149, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-07-25 10:19:27.357 -04:00 [INF] AuthAPI login success for tester
+2025-07-25 10:19:39.989 -04:00 [INF] Login from 127.0.0.1
+2025-07-25 10:19:39.991 -04:00 [INF] Login success for tester
+2025-07-25 10:21:48.402 -04:00 [INF] AuthAPI login from 127.0.0.1:51161, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-07-25 10:21:48.417 -04:00 [INF] AuthAPI login success for tester
+2025-07-25 10:22:03.562 -04:00 [INF] Login from 127.0.0.1
+2025-07-25 10:22:03.563 -04:00 [INF] Login success for tester
+2025-07-25 10:24:16.396 -04:00 [INF] AuthAPI login from 127.0.0.1:51171, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-07-25 10:24:16.413 -04:00 [INF] AuthAPI login success for tester
+2025-07-25 10:24:28.579 -04:00 [INF] Login from 127.0.0.1
+2025-07-25 10:24:28.580 -04:00 [INF] Login success for tester
+2025-07-25 10:25:31.032 -04:00 [INF] AuthAPI login from 127.0.0.1:51185, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-07-25 10:25:31.049 -04:00 [INF] AuthAPI login success for tester
+2025-07-25 10:25:51.518 -04:00 [INF] Login from 127.0.0.1
+2025-07-25 10:25:51.520 -04:00 [INF] Login success for tester
+2025-07-25 10:26:32.869 -04:00 [INF] AuthAPI login from 127.0.0.1:51191, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-07-25 10:26:32.886 -04:00 [INF] AuthAPI login success for tester
+2025-07-25 10:26:45.943 -04:00 [INF] Login from 127.0.0.1
+2025-07-25 10:26:45.945 -04:00 [INF] Login success for tester
+2025-07-25 10:27:34.213 -04:00 [INF] AuthAPI login from 127.0.0.1:51204, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-07-25 10:27:34.243 -04:00 [INF] AuthAPI login success for tester
+2025-07-25 10:27:47.242 -04:00 [INF] Login from 127.0.0.1
+2025-07-25 10:27:47.243 -04:00 [INF] Login success for tester
+2025-07-25 10:29:28.792 -04:00 [INF] AuthAPI login from 127.0.0.1:51245, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-07-25 10:29:28.809 -04:00 [INF] AuthAPI login success for tester
+2025-07-25 10:29:40.667 -04:00 [INF] Login from 127.0.0.1
+2025-07-25 10:29:40.668 -04:00 [INF] Login success for tester
+2025-07-25 10:31:12.734 -04:00 [INF] AuthAPI login from 127.0.0.1:51257, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-07-25 10:31:12.752 -04:00 [INF] AuthAPI login success for tester
+2025-07-25 10:31:26.001 -04:00 [INF] Login from 127.0.0.1
+2025-07-25 10:31:26.002 -04:00 [INF] Login success for tester
+2025-07-25 10:35:25.768 -04:00 [INF] AuthAPI login from 127.0.0.1:51295, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-07-25 10:35:25.785 -04:00 [INF] AuthAPI login success for tester
+2025-07-25 10:35:40.043 -04:00 [INF] Login from 127.0.0.1
+2025-07-25 10:35:40.045 -04:00 [INF] Login success for tester
+2025-07-25 10:38:17.279 -04:00 [INF] AuthAPI login from 127.0.0.1:51312, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-07-25 10:38:17.295 -04:00 [INF] AuthAPI login success for tester
+2025-07-25 10:39:20.842 -04:00 [INF] Login from 127.0.0.1
+2025-07-25 10:39:20.843 -04:00 [INF] Login success for tester
+2025-07-25 11:00:29.092 -04:00 [INF] AuthAPI login from 127.0.0.1:51473, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-07-25 11:00:29.108 -04:00 [INF] AuthAPI login success for tester
+2025-07-25 11:00:42.177 -04:00 [INF] Login from 127.0.0.1
+2025-07-25 11:00:42.178 -04:00 [INF] Login success for tester
+2025-07-25 11:01:55.682 -04:00 [INF] AuthAPI login from 127.0.0.1:51485, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-07-25 11:01:55.699 -04:00 [INF] AuthAPI login success for tester
+2025-07-25 11:02:17.388 -04:00 [INF] AuthAPI login from 127.0.0.1:51489, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-07-25 11:02:17.405 -04:00 [INF] AuthAPI login success for tester
+2025-07-25 11:02:34.341 -04:00 [INF] Login from 127.0.0.1
+2025-07-25 11:02:34.342 -04:00 [INF] Login success for tester
+2025-07-25 11:24:29.419 -04:00 [INF] AuthAPI login from 127.0.0.1:51717, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-07-25 11:24:29.437 -04:00 [INF] AuthAPI login success for tester
+2025-07-25 11:24:42.357 -04:00 [INF] AuthAPI login from 127.0.0.1:51719, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-07-25 11:24:42.373 -04:00 [INF] AuthAPI login success for tester
+2025-07-25 11:24:56.164 -04:00 [INF] Login from 127.0.0.1
+2025-07-25 11:24:56.165 -04:00 [INF] Login success for tester
+2025-07-25 11:33:04.561 -04:00 [INF] AuthAPI login from 127.0.0.1:51827, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-07-25 11:33:04.579 -04:00 [INF] AuthAPI login success for eloscar23
+2025-07-25 12:23:05.896 -04:00 [INF] AuthAPI login from 127.0.0.1:53211, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-07-25 12:23:05.912 -04:00 [INF] AuthAPI login success for eloscar23
+2025-07-25 12:23:18.667 -04:00 [INF] Login from 127.0.0.1
+2025-07-25 12:23:18.668 -04:00 [INF] Login success for eloscar23
+2025-07-25 12:36:05.274 -04:00 [INF] AuthAPI login from 127.0.0.1:53314, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-07-25 12:36:05.289 -04:00 [INF] AuthAPI login success for tester
+2025-07-25 12:37:17.674 -04:00 [INF] AuthAPI login from 127.0.0.1:53331, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-07-25 12:37:17.689 -04:00 [INF] AuthAPI login success for tester
+2025-07-25 12:53:40.435 -04:00 [INF] AuthAPI login from 127.0.0.1:53490, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-07-25 12:53:40.452 -04:00 [INF] AuthAPI login success for tester
+2025-07-25 12:53:54.321 -04:00 [INF] Login from 127.0.0.1
+2025-07-25 12:53:54.322 -04:00 [INF] Login success for tester
+2025-07-25 12:56:01.556 -04:00 [INF] AuthAPI login from 127.0.0.1:53533, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-07-25 12:56:01.608 -04:00 [INF] AuthAPI login success for tester
+2025-07-25 12:56:16.511 -04:00 [INF] Login from 127.0.0.1
+2025-07-25 12:56:16.512 -04:00 [INF] Login success for tester
+2025-07-25 13:02:52.907 -04:00 [INF] AuthAPI login from 127.0.0.1:53634, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-07-25 13:02:52.925 -04:00 [INF] AuthAPI login success for tester
+2025-07-25 13:03:16.874 -04:00 [INF] Login from 127.0.0.1
+2025-07-25 13:03:16.876 -04:00 [INF] Login success for tester
+2025-07-25 13:25:29.969 -04:00 [INF] AuthAPI login from 127.0.0.1:54223, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-07-25 13:25:29.987 -04:00 [INF] AuthAPI login success for tester
+2025-07-25 13:25:46.987 -04:00 [INF] Login from 127.0.0.1
+2025-07-25 13:25:46.988 -04:00 [INF] Login success for tester
+2025-07-25 13:28:26.072 -04:00 [INF] AuthAPI login from 127.0.0.1:54352, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-07-25 13:28:26.088 -04:00 [INF] AuthAPI login success for tester
+2025-07-25 13:28:37.976 -04:00 [INF] Login from 127.0.0.1
+2025-07-25 13:28:37.978 -04:00 [INF] Login success for tester
+2025-07-25 13:32:30.914 -04:00 [INF] AuthAPI login from 127.0.0.1:54417, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-07-25 13:32:30.931 -04:00 [INF] AuthAPI login success for tester
+2025-07-25 13:32:43.411 -04:00 [INF] Login from 127.0.0.1
+2025-07-25 13:32:43.412 -04:00 [INF] Login success for tester
+2025-07-25 13:40:56.845 -04:00 [INF] AuthAPI login from 127.0.0.1:54623, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-07-25 13:40:56.863 -04:00 [INF] AuthAPI login success for tester
+2025-07-25 13:42:25.752 -04:00 [INF] AuthAPI login from 127.0.0.1:54635, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-07-25 13:42:25.770 -04:00 [INF] AuthAPI login success for tester
+2025-07-25 13:42:50.492 -04:00 [INF] AuthAPI login from 127.0.0.1:54645, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-07-25 13:42:50.508 -04:00 [INF] AuthAPI login success for tester
+2025-07-25 13:44:35.380 -04:00 [INF] Login from 127.0.0.1
+2025-07-25 13:44:35.400 -04:00 [INF] Login success for eloscar23
+2025-07-25 13:44:52.840 -04:00 [INF] Removed server S4 Dominicano(1)
+2025-07-25 13:51:10.850 -04:00 [INF] Initializing...
+2025-07-25 13:51:11.174 -04:00 [INF] Starting server...
+2025-07-25 13:51:11.178 -04:00 [INF] Cached xbnfile: XBN//ConstantInfo.xbn
+2025-07-25 13:51:11.179 -04:00 [INF] Cached xbnfile: XBN//Actions.xbn
+2025-07-25 13:51:11.180 -04:00 [INF] Cached xbnfile: XBN//Weapons.xbn
+2025-07-25 13:51:11.183 -04:00 [INF] Cached xbnfile: XBN//Effects.xbn
+2025-07-25 13:51:11.184 -04:00 [INF] Cached xbnfile: XBN//EffectMatch.xbn
+2025-07-25 13:51:11.186 -04:00 [INF] Cached xbnfile: XBN//EnchantData.xbn
+2025-07-25 13:51:11.188 -04:00 [INF] Cached xbnfile: XBN//EquipLimit.xbn
+2025-07-25 13:51:11.189 -04:00 [INF] Cached xbnfile: XBN//PveList.xbn
+2025-07-25 13:51:11.190 -04:00 [INF] Cached xbnfile: XBN//MonsterWaveList.xbn
+2025-07-25 13:51:11.191 -04:00 [INF] Cached xbnfile: XBN//EsperActionlist.xbn
+2025-07-25 13:51:11.191 -04:00 [INF] Cached xbnfile: XBN//WeaponTypeReloadInfo.xbn
+2025-07-25 13:51:11.192 -04:00 [INF] Cached xbnfile: XBN//RangeLimit.xbn
+2025-07-25 13:51:11.319 -04:00 [INF] Ready for connections!
+2025-07-25 13:51:17.186 -04:00 [INF] Added server with valid apikey: S4 Dominicano(1)
+2025-07-25 13:51:26.766 -04:00 [INF] AuthAPI login from 127.0.0.1:54734, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-07-25 13:51:26.880 -04:00 [INF] AuthAPI login success for tester
+2025-07-25 13:51:38.801 -04:00 [INF] Login from 127.0.0.1
+2025-07-25 13:51:38.803 -04:00 [INF] Login success for tester
+2025-07-25 13:55:36.745 -04:00 [INF] AuthAPI login from 127.0.0.1:54796, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-07-25 13:55:36.762 -04:00 [INF] AuthAPI login success for tester
+2025-07-25 13:55:58.280 -04:00 [INF] Login from 127.0.0.1
+2025-07-25 13:55:58.282 -04:00 [INF] Login success for tester
+2025-07-25 15:16:44.127 -04:00 [INF] Initializing...
+2025-07-25 15:16:44.453 -04:00 [INF] Starting server...
+2025-07-25 15:16:44.457 -04:00 [INF] Cached xbnfile: XBN//ConstantInfo.xbn
+2025-07-25 15:16:44.458 -04:00 [INF] Cached xbnfile: XBN//Actions.xbn
+2025-07-25 15:16:44.458 -04:00 [INF] Cached xbnfile: XBN//Weapons.xbn
+2025-07-25 15:16:44.459 -04:00 [INF] Cached xbnfile: XBN//Effects.xbn
+2025-07-25 15:16:44.460 -04:00 [INF] Cached xbnfile: XBN//EffectMatch.xbn
+2025-07-25 15:16:44.460 -04:00 [INF] Cached xbnfile: XBN//EnchantData.xbn
+2025-07-25 15:16:44.461 -04:00 [INF] Cached xbnfile: XBN//EquipLimit.xbn
+2025-07-25 15:16:44.461 -04:00 [INF] Cached xbnfile: XBN//PveList.xbn
+2025-07-25 15:16:44.462 -04:00 [INF] Cached xbnfile: XBN//MonsterWaveList.xbn
+2025-07-25 15:16:44.462 -04:00 [INF] Cached xbnfile: XBN//EsperActionlist.xbn
+2025-07-25 15:16:44.463 -04:00 [INF] Cached xbnfile: XBN//WeaponTypeReloadInfo.xbn
+2025-07-25 15:16:44.463 -04:00 [INF] Cached xbnfile: XBN//RangeLimit.xbn
+2025-07-25 15:16:44.588 -04:00 [INF] Ready for connections!
+2025-07-25 15:16:53.095 -04:00 [INF] Added server with valid apikey: S4 Dominicano(1)
+2025-07-25 15:17:09.950 -04:00 [INF] AuthAPI login from 127.0.0.1:56342, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-07-25 15:17:10.067 -04:00 [INF] AuthAPI login success for tester
+2025-07-25 15:17:22.019 -04:00 [INF] Login from 127.0.0.1
+2025-07-25 15:17:22.022 -04:00 [INF] Login success for tester
+2025-07-25 15:19:15.724 -04:00 [INF] AuthAPI login from 127.0.0.1:56453, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-07-25 15:19:15.743 -04:00 [INF] AuthAPI login success for tester
+2025-07-25 15:19:31.543 -04:00 [INF] Login from 127.0.0.1
+2025-07-25 15:19:31.545 -04:00 [INF] Login success for tester
+2025-07-25 23:40:12.417 -04:00 [INF] Initializing...
+2025-07-25 23:40:12.759 -04:00 [INF] Starting server...
+2025-07-25 23:40:12.763 -04:00 [INF] Cached xbnfile: XBN//ConstantInfo.xbn
+2025-07-25 23:40:12.763 -04:00 [INF] Cached xbnfile: XBN//Actions.xbn
+2025-07-25 23:40:12.764 -04:00 [INF] Cached xbnfile: XBN//Weapons.xbn
+2025-07-25 23:40:12.765 -04:00 [INF] Cached xbnfile: XBN//Effects.xbn
+2025-07-25 23:40:12.765 -04:00 [INF] Cached xbnfile: XBN//EffectMatch.xbn
+2025-07-25 23:40:12.766 -04:00 [INF] Cached xbnfile: XBN//EnchantData.xbn
+2025-07-25 23:40:12.766 -04:00 [INF] Cached xbnfile: XBN//EquipLimit.xbn
+2025-07-25 23:40:12.767 -04:00 [INF] Cached xbnfile: XBN//PveList.xbn
+2025-07-25 23:40:12.768 -04:00 [INF] Cached xbnfile: XBN//MonsterWaveList.xbn
+2025-07-25 23:40:12.768 -04:00 [INF] Cached xbnfile: XBN//EsperActionlist.xbn
+2025-07-25 23:40:12.769 -04:00 [INF] Cached xbnfile: XBN//WeaponTypeReloadInfo.xbn
+2025-07-25 23:40:12.770 -04:00 [INF] Cached xbnfile: XBN//RangeLimit.xbn
+2025-07-25 23:40:12.908 -04:00 [INF] Ready for connections!
+2025-07-25 23:40:48.552 -04:00 [INF] Added server with valid apikey: S4 Dominicano(1)
+2025-07-25 23:44:42.814 -04:00 [INF] AuthAPI login from 127.0.0.1:54385, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-07-25 23:44:42.942 -04:00 [INF] AuthAPI login success for tester
+2025-07-25 23:45:01.525 -04:00 [INF] Login from 127.0.0.1
+2025-07-25 23:45:01.529 -04:00 [INF] Login success for tester
+2025-07-25 23:47:53.852 -04:00 [INF] AuthAPI login from 127.0.0.1:54405, HWID: B10E-C76A-DB85-D49C-9DF2-41B5-4F6E-E430
+2025-07-25 23:47:53.879 -04:00 [INF] AuthAPI login success for tester
+2025-07-25 23:48:08.017 -04:00 [INF] Login from 127.0.0.1
+2025-07-25 23:48:08.019 -04:00 [INF] Login success for tester

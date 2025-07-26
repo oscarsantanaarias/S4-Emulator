@@ -1,0 +1,106 @@
+E:\S4 League\Sources\Emulator\source\src\GameServer\bin\Latest_Release\netcoreapp2.0\miniLzo_x64.dll
+E:\S4 League\Sources\Emulator\source\src\GameServer\bin\Latest_Release\netcoreapp2.0\miniLzo_x86.dll
+E:\S4 League\Sources\Emulator\source\src\GameServer\bin\Latest_Release\netcoreapp2.0\liblzo.so
+E:\S4 League\Sources\Emulator\source\src\GameServer\bin\Latest_Release\netcoreapp2.0\GameServer.deps.json
+E:\S4 League\Sources\Emulator\source\src\GameServer\bin\Latest_Release\netcoreapp2.0\GameServer.runtimeconfig.json
+E:\S4 League\Sources\Emulator\source\src\GameServer\bin\Latest_Release\netcoreapp2.0\GameServer.runtimeconfig.dev.json
+E:\S4 League\Sources\Emulator\source\src\GameServer\bin\Latest_Release\netcoreapp2.0\GameServer.dll
+E:\S4 League\Sources\Emulator\source\src\GameServer\bin\Latest_Release\netcoreapp2.0\GameServer.pdb
+E:\S4 League\Sources\Emulator\source\src\GameServer\bin\Latest_Release\netcoreapp2.0\AuthServer.ServiceModel.dll
+E:\S4 League\Sources\Emulator\source\src\GameServer\bin\Latest_Release\netcoreapp2.0\NeoNetsphere.Database.dll
+E:\S4 League\Sources\Emulator\source\src\GameServer\bin\Latest_Release\netcoreapp2.0\NeoNetsphere.dll
+E:\S4 League\Sources\Emulator\source\src\GameServer\bin\Latest_Release\netcoreapp2.0\NeoNetsphere.Network.dll
+E:\S4 League\Sources\Emulator\source\src\GameServer\bin\Latest_Release\netcoreapp2.0\ProudNetSrc.dll
+E:\S4 League\Sources\Emulator\source\src\GameServer\bin\Latest_Release\netcoreapp2.0\SharpLzo.dll
+E:\S4 League\Sources\Emulator\source\src\GameServer\bin\Latest_Release\netcoreapp2.0\AuthServer.ServiceModel.pdb
+E:\S4 League\Sources\Emulator\source\src\GameServer\bin\Latest_Release\netcoreapp2.0\NeoNetsphere.Database.pdb
+E:\S4 League\Sources\Emulator\source\src\GameServer\bin\Latest_Release\netcoreapp2.0\NeoNetsphere.Network.pdb
+E:\S4 League\Sources\Emulator\source\src\GameServer\bin\Latest_Release\netcoreapp2.0\NeoNetsphere.pdb
+E:\S4 League\Sources\Emulator\source\src\GameServer\bin\Latest_Release\netcoreapp2.0\ProudNetSrc.pdb
+E:\S4 League\Sources\Emulator\source\src\GameServer\obj\Latest_Release\netcoreapp2.0\GameServer.csprojAssemblyReference.cache
+E:\S4 League\Sources\Emulator\source\src\GameServer\obj\Latest_Release\netcoreapp2.0\GameServer.csproj.CoreCompileInputs.cache
+E:\S4 League\Sources\Emulator\source\src\GameServer\obj\Latest_Release\netcoreapp2.0\GameServer.AssemblyInfoInputs.cache
+E:\S4 League\Sources\Emulator\source\src\GameServer\obj\Latest_Release\netcoreapp2.0\GameServer.AssemblyInfo.cs
+E:\S4 League\Sources\Emulator\source\src\GameServer\obj\Latest_Release\netcoreapp2.0\GameServer.csproj.CopyComplete
+E:\S4 League\Sources\Emulator\source\src\GameServer\obj\Latest_Release\netcoreapp2.0\GameServer.dll
+E:\S4 League\Sources\Emulator\source\src\GameServer\obj\Latest_Release\netcoreapp2.0\GameServer.pdb
+E:\S4 League\Sources\Emulator\src\GameServer\bin\Latest_Release\netcoreapp2.0\miniLzo_x64.dll
+E:\S4 League\Sources\Emulator\src\GameServer\bin\Latest_Release\netcoreapp2.0\miniLzo_x86.dll
+E:\S4 League\Sources\Emulator\src\GameServer\bin\Latest_Release\netcoreapp2.0\liblzo.so
+E:\S4 League\Sources\Emulator\src\GameServer\bin\Latest_Release\netcoreapp2.0\GameServer.deps.json
+E:\S4 League\Sources\Emulator\src\GameServer\bin\Latest_Release\netcoreapp2.0\GameServer.runtimeconfig.json
+E:\S4 League\Sources\Emulator\src\GameServer\bin\Latest_Release\netcoreapp2.0\GameServer.runtimeconfig.dev.json
+E:\S4 League\Sources\Emulator\src\GameServer\bin\Latest_Release\netcoreapp2.0\GameServer.dll
+E:\S4 League\Sources\Emulator\src\GameServer\bin\Latest_Release\netcoreapp2.0\GameServer.pdb
+E:\S4 League\Sources\Emulator\src\GameServer\bin\Latest_Release\netcoreapp2.0\AuthServer.ServiceModel.dll
+E:\S4 League\Sources\Emulator\src\GameServer\bin\Latest_Release\netcoreapp2.0\NeoNetsphere.Database.dll
+E:\S4 League\Sources\Emulator\src\GameServer\bin\Latest_Release\netcoreapp2.0\NeoNetsphere.dll
+E:\S4 League\Sources\Emulator\src\GameServer\bin\Latest_Release\netcoreapp2.0\NeoNetsphere.Network.dll
+E:\S4 League\Sources\Emulator\src\GameServer\bin\Latest_Release\netcoreapp2.0\ProudNetSrc.dll
+E:\S4 League\Sources\Emulator\src\GameServer\bin\Latest_Release\netcoreapp2.0\SharpLzo.dll
+E:\S4 League\Sources\Emulator\src\GameServer\bin\Latest_Release\netcoreapp2.0\AuthServer.ServiceModel.pdb
+E:\S4 League\Sources\Emulator\src\GameServer\bin\Latest_Release\netcoreapp2.0\NeoNetsphere.Database.pdb
+E:\S4 League\Sources\Emulator\src\GameServer\bin\Latest_Release\netcoreapp2.0\NeoNetsphere.Network.pdb
+E:\S4 League\Sources\Emulator\src\GameServer\bin\Latest_Release\netcoreapp2.0\NeoNetsphere.pdb
+E:\S4 League\Sources\Emulator\src\GameServer\bin\Latest_Release\netcoreapp2.0\ProudNetSrc.pdb
+E:\S4 League\Sources\Emulator\src\GameServer\obj\Latest_Release\netcoreapp2.0\GameServer.csprojAssemblyReference.cache
+E:\S4 League\Sources\Emulator\src\GameServer\obj\Latest_Release\netcoreapp2.0\GameServer.csproj.CoreCompileInputs.cache
+E:\S4 League\Sources\Emulator\src\GameServer\obj\Latest_Release\netcoreapp2.0\GameServer.AssemblyInfoInputs.cache
+E:\S4 League\Sources\Emulator\src\GameServer\obj\Latest_Release\netcoreapp2.0\GameServer.AssemblyInfo.cs
+E:\S4 League\Sources\Emulator\src\GameServer\obj\Latest_Release\netcoreapp2.0\GameServer.csproj.CopyComplete
+E:\S4 League\Sources\Emulator\src\GameServer\obj\Latest_Release\netcoreapp2.0\GameServer.dll
+E:\S4 League\Sources\Emulator\src\GameServer\obj\Latest_Release\netcoreapp2.0\GameServer.pdb
+E:\S4 League\Season 9\Sources\Emulator\src\GameServer\bin\Latest_Release\netcoreapp2.0\miniLzo_x64.dll
+E:\S4 League\Season 9\Sources\Emulator\src\GameServer\bin\Latest_Release\netcoreapp2.0\miniLzo_x86.dll
+E:\S4 League\Season 9\Sources\Emulator\src\GameServer\bin\Latest_Release\netcoreapp2.0\liblzo.so
+E:\S4 League\Season 9\Sources\Emulator\src\GameServer\bin\Latest_Release\netcoreapp2.0\GameServer.deps.json
+E:\S4 League\Season 9\Sources\Emulator\src\GameServer\bin\Latest_Release\netcoreapp2.0\GameServer.runtimeconfig.json
+E:\S4 League\Season 9\Sources\Emulator\src\GameServer\bin\Latest_Release\netcoreapp2.0\GameServer.runtimeconfig.dev.json
+E:\S4 League\Season 9\Sources\Emulator\src\GameServer\bin\Latest_Release\netcoreapp2.0\GameServer.dll
+E:\S4 League\Season 9\Sources\Emulator\src\GameServer\bin\Latest_Release\netcoreapp2.0\GameServer.pdb
+E:\S4 League\Season 9\Sources\Emulator\src\GameServer\bin\Latest_Release\netcoreapp2.0\AuthServer.ServiceModel.dll
+E:\S4 League\Season 9\Sources\Emulator\src\GameServer\bin\Latest_Release\netcoreapp2.0\NeoNetsphere.Database.dll
+E:\S4 League\Season 9\Sources\Emulator\src\GameServer\bin\Latest_Release\netcoreapp2.0\NeoNetsphere.dll
+E:\S4 League\Season 9\Sources\Emulator\src\GameServer\bin\Latest_Release\netcoreapp2.0\NeoNetsphere.Network.dll
+E:\S4 League\Season 9\Sources\Emulator\src\GameServer\bin\Latest_Release\netcoreapp2.0\ProudNetSrc.dll
+E:\S4 League\Season 9\Sources\Emulator\src\GameServer\bin\Latest_Release\netcoreapp2.0\SharpLzo.dll
+E:\S4 League\Season 9\Sources\Emulator\src\GameServer\bin\Latest_Release\netcoreapp2.0\AuthServer.ServiceModel.pdb
+E:\S4 League\Season 9\Sources\Emulator\src\GameServer\bin\Latest_Release\netcoreapp2.0\NeoNetsphere.Database.pdb
+E:\S4 League\Season 9\Sources\Emulator\src\GameServer\bin\Latest_Release\netcoreapp2.0\NeoNetsphere.Network.pdb
+E:\S4 League\Season 9\Sources\Emulator\src\GameServer\bin\Latest_Release\netcoreapp2.0\NeoNetsphere.pdb
+E:\S4 League\Season 9\Sources\Emulator\src\GameServer\bin\Latest_Release\netcoreapp2.0\ProudNetSrc.pdb
+E:\S4 League\Season 9\Sources\Emulator\src\GameServer\obj\Latest_Release\netcoreapp2.0\GameServer.csprojAssemblyReference.cache
+E:\S4 League\Season 9\Sources\Emulator\src\GameServer\obj\Latest_Release\netcoreapp2.0\GameServer.csproj.CoreCompileInputs.cache
+E:\S4 League\Season 9\Sources\Emulator\src\GameServer\obj\Latest_Release\netcoreapp2.0\GameServer.AssemblyInfoInputs.cache
+E:\S4 League\Season 9\Sources\Emulator\src\GameServer\obj\Latest_Release\netcoreapp2.0\GameServer.AssemblyInfo.cs
+E:\S4 League\Season 9\Sources\Emulator\src\GameServer\obj\Latest_Release\netcoreapp2.0\GameServer.csproj.CopyComplete
+E:\S4 League\Season 9\Sources\Emulator\src\GameServer\obj\Latest_Release\netcoreapp2.0\GameServer.dll
+E:\S4 League\Season 9\Sources\Emulator\src\GameServer\obj\Latest_Release\netcoreapp2.0\GameServer.pdb
+C:\Users\OscarCode\Desktop\Emulador de Season 10\Emulator 0.1\src\GameServer\bin\Latest_Release\netcoreapp2.0\miniLzo_x64.dll
+C:\Users\OscarCode\Desktop\Emulador de Season 10\Emulator 0.1\src\GameServer\bin\Latest_Release\netcoreapp2.0\miniLzo_x86.dll
+C:\Users\OscarCode\Desktop\Emulador de Season 10\Emulator 0.1\src\GameServer\bin\Latest_Release\netcoreapp2.0\liblzo.so
+C:\Users\OscarCode\Desktop\Emulador de Season 10\Emulator 0.1\src\GameServer\bin\Latest_Release\netcoreapp2.0\GameServer.deps.json
+C:\Users\OscarCode\Desktop\Emulador de Season 10\Emulator 0.1\src\GameServer\bin\Latest_Release\netcoreapp2.0\GameServer.runtimeconfig.json
+C:\Users\OscarCode\Desktop\Emulador de Season 10\Emulator 0.1\src\GameServer\bin\Latest_Release\netcoreapp2.0\GameServer.runtimeconfig.dev.json
+C:\Users\OscarCode\Desktop\Emulador de Season 10\Emulator 0.1\src\GameServer\bin\Latest_Release\netcoreapp2.0\GameServer.dll
+C:\Users\OscarCode\Desktop\Emulador de Season 10\Emulator 0.1\src\GameServer\bin\Latest_Release\netcoreapp2.0\GameServer.pdb
+C:\Users\OscarCode\Desktop\Emulador de Season 10\Emulator 0.1\src\GameServer\bin\Latest_Release\netcoreapp2.0\AuthServer.ServiceModel.dll
+C:\Users\OscarCode\Desktop\Emulador de Season 10\Emulator 0.1\src\GameServer\bin\Latest_Release\netcoreapp2.0\NeoNetsphere.Database.dll
+C:\Users\OscarCode\Desktop\Emulador de Season 10\Emulator 0.1\src\GameServer\bin\Latest_Release\netcoreapp2.0\NeoNetsphere.dll
+C:\Users\OscarCode\Desktop\Emulador de Season 10\Emulator 0.1\src\GameServer\bin\Latest_Release\netcoreapp2.0\NeoNetsphere.Network.dll
+C:\Users\OscarCode\Desktop\Emulador de Season 10\Emulator 0.1\src\GameServer\bin\Latest_Release\netcoreapp2.0\ProudNetSrc.dll
+C:\Users\OscarCode\Desktop\Emulador de Season 10\Emulator 0.1\src\GameServer\bin\Latest_Release\netcoreapp2.0\SharpLzo.dll
+C:\Users\OscarCode\Desktop\Emulador de Season 10\Emulator 0.1\src\GameServer\bin\Latest_Release\netcoreapp2.0\AuthServer.ServiceModel.pdb
+C:\Users\OscarCode\Desktop\Emulador de Season 10\Emulator 0.1\src\GameServer\bin\Latest_Release\netcoreapp2.0\NeoNetsphere.Database.pdb
+C:\Users\OscarCode\Desktop\Emulador de Season 10\Emulator 0.1\src\GameServer\bin\Latest_Release\netcoreapp2.0\NeoNetsphere.Network.pdb
+C:\Users\OscarCode\Desktop\Emulador de Season 10\Emulator 0.1\src\GameServer\bin\Latest_Release\netcoreapp2.0\NeoNetsphere.pdb
+C:\Users\OscarCode\Desktop\Emulador de Season 10\Emulator 0.1\src\GameServer\bin\Latest_Release\netcoreapp2.0\ProudNetSrc.pdb
+C:\Users\OscarCode\Desktop\Emulador de Season 10\Emulator 0.1\src\GameServer\obj\Latest_Release\netcoreapp2.0\GameServer.csproj.AssemblyReference.cache
+C:\Users\OscarCode\Desktop\Emulador de Season 10\Emulator 0.1\src\GameServer\obj\Latest_Release\netcoreapp2.0\GameServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OscarCode\Desktop\Emulador de Season 10\Emulator 0.1\src\GameServer\obj\Latest_Release\netcoreapp2.0\GameServer.AssemblyInfoInputs.cache
+C:\Users\OscarCode\Desktop\Emulador de Season 10\Emulator 0.1\src\GameServer\obj\Latest_Release\netcoreapp2.0\GameServer.AssemblyInfo.cs
+C:\Users\OscarCode\Desktop\Emulador de Season 10\Emulator 0.1\src\GameServer\obj\Latest_Release\netcoreapp2.0\GameServer.csproj.CoreCompileInputs.cache
+C:\Users\OscarCode\Desktop\Emulador de Season 10\Emulator 0.1\src\GameServer\obj\Latest_Release\netcoreapp2.0\GameServer.csproj.Up2Date
+C:\Users\OscarCode\Desktop\Emulador de Season 10\Emulator 0.1\src\GameServer\obj\Latest_Release\netcoreapp2.0\GameServer.dll
+C:\Users\OscarCode\Desktop\Emulador de Season 10\Emulator 0.1\src\GameServer\obj\Latest_Release\netcoreapp2.0\GameServer.pdb
+C:\Users\OscarCode\Desktop\Emulador de Season 10\Emulator 0.1\src\GameServer\obj\Latest_Release\netcoreapp2.0\GameServer.genruntimeconfig.cache
